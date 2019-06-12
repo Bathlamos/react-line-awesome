@@ -5,7 +5,7 @@
   "private": false,
   "license": "MIT",
   "author": "Philippe Legault <philippe@legault.cc> (https://legault.cc)",
-  "main": "dist/react-line-awesome.min.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "devDependencies": {
     "@types/react": "16.8.19",
