@@ -1,0 +1,3 @@
+import createIcon from './../createIcon'
+
+export default createIcon('la-file-image-o', 'FileImageOIcon')

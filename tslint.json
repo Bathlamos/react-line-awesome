@@ -1,0 +1,31 @@
+{
+  "extends": ["tslint:recommended", "tslint-config-prettier"],
+  "rules": {
+    "no-arg": true,
+    "curly": true,
+    "max-line-length": {
+      "options": [120]
+    },
+    "object-literal-sort-keys": false,
+    "no-bitwise": true,
+    "no-unused-expression": [true, "allow-fast-null-checks"],
+    "no-conditional-assignment": true,
+    "no-consecutive-blank-lines": false,
+    "no-duplicate-variable": true,
+    "no-any": false,
+    "only-arrow-functions": true,
+    "member-access": [true, "no-public"],
+    "prefer-const": true,
+    "ordered-imports": [
+      true,
+      {
+        "import-sources-order": "case-insensitive",
+        "named-imports-order": "case-insensitive"
+      }
+    ],
+    "prefer-for-of": false,
+    "no-console": {
+      "options": ["debug", "time", "timeEnd", "trace"]
+    }
+  }
+}
