@@ -1,11 +1,12 @@
 {
   "name": "react-line-awesome",
+  "description": "React components for Line Awesome Icons",
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
   "author": "Philippe Legault <philippe@legault.cc> (https://legault.cc)",
-  "main": "react-line-awesome.min.js",
-  "types": "src/index.d.ts",
+  "main": "dist/react-line-awesome.min.js",
+  "types": "dist/index.d.ts",
   "devDependencies": {
     "@types/react": "16.8.19",
     "@types/react-dom": "16.8.4",
@@ -24,7 +25,7 @@
   "dependencies": {},
   "scripts": {
     "start": "yarn generate:icons && yarn build",
-    "build": "NODE_ENV=production ./scripts/prodbuild.sh",
+    "build": "NODE_ENV=production ./scripts/build.sh",
     "generate:icons": "node scripts/generate-icons.js src/resources/line-awesome/css/line-awesome.css src/icons"
   },
   "lint-staged": {

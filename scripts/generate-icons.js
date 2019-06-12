@@ -41,7 +41,7 @@ program
     })
 
     // Write index.d.ts
-    fs.writeFileSync('src/index.d.ts',
+    fs.writeFileSync('src/index.ts',
       iconNames.map(({_, componentName}) => `export { default as ${componentName} } from './icons/${componentName}'`).join('\n'),
       'utf8')
   })
