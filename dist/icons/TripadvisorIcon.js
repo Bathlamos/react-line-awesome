@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-tripadvisor', 'TripadvisorIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-tripadvisor', 'TripadvisorIcon')

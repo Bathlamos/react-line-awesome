@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-chevron-left', 'ChevronLeftIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-chevron-left', 'ChevronLeftIcon')

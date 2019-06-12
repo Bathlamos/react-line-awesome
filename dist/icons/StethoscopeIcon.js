@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-stethoscope', 'StethoscopeIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-stethoscope', 'StethoscopeIcon')

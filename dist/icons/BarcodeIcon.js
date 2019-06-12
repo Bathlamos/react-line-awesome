@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-barcode', 'BarcodeIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-barcode', 'BarcodeIcon')

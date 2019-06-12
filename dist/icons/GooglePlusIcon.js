@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-google-plus', 'GooglePlusIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-google-plus', 'GooglePlusIcon')

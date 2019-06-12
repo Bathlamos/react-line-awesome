@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-mars-stroke', 'MarsStrokeIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-mars-stroke', 'MarsStrokeIcon')

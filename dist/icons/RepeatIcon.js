@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-repeat', 'RepeatIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-repeat', 'RepeatIcon')

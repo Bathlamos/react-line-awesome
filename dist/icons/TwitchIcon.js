@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-twitch', 'TwitchIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-twitch', 'TwitchIcon')

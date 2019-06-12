@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-yahoo', 'YahooIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-yahoo', 'YahooIcon')

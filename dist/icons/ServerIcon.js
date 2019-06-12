@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-server', 'ServerIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-server', 'ServerIcon')

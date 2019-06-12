@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-stack-overflow', 'StackOverflowIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-stack-overflow', 'StackOverflowIcon')

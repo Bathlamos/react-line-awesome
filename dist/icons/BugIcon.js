@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-bug', 'BugIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-bug', 'BugIcon')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-unlock-alt', 'UnlockAltIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-unlock-alt', 'UnlockAltIcon')

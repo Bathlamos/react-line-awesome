@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-motorcycle', 'MotorcycleIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-motorcycle', 'MotorcycleIcon')

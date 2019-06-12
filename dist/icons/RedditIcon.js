@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-reddit', 'RedditIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-reddit', 'RedditIcon')

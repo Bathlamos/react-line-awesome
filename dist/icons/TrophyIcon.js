@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-trophy', 'TrophyIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-trophy', 'TrophyIcon')

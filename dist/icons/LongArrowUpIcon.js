@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-long-arrow-up', 'LongArrowUpIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-long-arrow-up', 'LongArrowUpIcon')

@@ -13,8 +13,8 @@
     "commander": "^2.20.0",
     "husky": "^2.3.0",
     "jest": "^24.8.0",
-    "lint-staged": "^8.1.7",
     "prettier": "^1.17.1",
+    "tslint": "^5.17.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "3.5.1"
   },
@@ -28,16 +28,9 @@
     "build": "NODE_ENV=production ./scripts/build.sh",
     "generate:icons": "node scripts/generate-icons.js src/resources/line-awesome/css/line-awesome.css src/icons"
   },
-  "lint-staged": {
-    "**/*.{js,jsx,ts,tsx,json,md}": [
-      "yarn start",
-      "prettier --config .prettierrc --write",
-      "git add"
-    ]
-  },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "./scripts/pre-commit.sh"
     }
   }
 }

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-anchor', 'AnchorIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-anchor', 'AnchorIcon')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-language', 'LanguageIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-language', 'LanguageIcon')

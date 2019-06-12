@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-bullseye', 'BullseyeIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-bullseye', 'BullseyeIcon')

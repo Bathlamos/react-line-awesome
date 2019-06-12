@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-exclamation-triangle', 'ExclamationTriangleIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-exclamation-triangle', 'ExclamationTriangleIcon')

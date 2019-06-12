@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-mercury', 'MercuryIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-mercury', 'MercuryIcon')

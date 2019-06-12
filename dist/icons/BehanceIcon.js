@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-behance', 'BehanceIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-behance', 'BehanceIcon')

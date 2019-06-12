@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-space-shuttle', 'SpaceShuttleIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-space-shuttle', 'SpaceShuttleIcon')

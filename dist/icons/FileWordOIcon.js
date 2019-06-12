@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-file-word-o', 'FileWordOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-file-word-o', 'FileWordOIcon')

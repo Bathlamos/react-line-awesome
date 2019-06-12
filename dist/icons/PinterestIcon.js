@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-pinterest', 'PinterestIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-pinterest', 'PinterestIcon')

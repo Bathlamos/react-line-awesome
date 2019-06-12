@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-level-up', 'LevelUpIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-level-up', 'LevelUpIcon')

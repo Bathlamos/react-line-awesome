@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-pied-piper', 'PiedPiperIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-pied-piper', 'PiedPiperIcon')

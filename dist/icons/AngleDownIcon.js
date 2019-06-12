@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-angle-down', 'AngleDownIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-angle-down', 'AngleDownIcon')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-check-square-o', 'CheckSquareOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-check-square-o', 'CheckSquareOIcon')

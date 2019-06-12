@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-female', 'FemaleIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-female', 'FemaleIcon')

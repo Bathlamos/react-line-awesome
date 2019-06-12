@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-spinner', 'SpinnerIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-spinner', 'SpinnerIcon')

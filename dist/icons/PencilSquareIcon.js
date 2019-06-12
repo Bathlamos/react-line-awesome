@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-pencil-square', 'PencilSquareIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-pencil-square', 'PencilSquareIcon')

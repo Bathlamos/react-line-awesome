@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-hdd-o', 'HddOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-hdd-o', 'HddOIcon')

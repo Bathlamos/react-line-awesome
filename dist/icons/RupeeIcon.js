@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-rupee', 'RupeeIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-rupee', 'RupeeIcon')

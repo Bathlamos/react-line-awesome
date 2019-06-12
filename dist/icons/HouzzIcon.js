@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-houzz', 'HouzzIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-houzz', 'HouzzIcon')

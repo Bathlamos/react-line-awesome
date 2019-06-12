@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-flag', 'FlagIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-flag', 'FlagIcon')

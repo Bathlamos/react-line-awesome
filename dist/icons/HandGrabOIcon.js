@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-hand-grab-o', 'HandGrabOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-hand-grab-o', 'HandGrabOIcon')

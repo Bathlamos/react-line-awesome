@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-flash', 'FlashIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-flash', 'FlashIcon')

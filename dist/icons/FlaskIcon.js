@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-flask', 'FlaskIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-flask', 'FlaskIcon')

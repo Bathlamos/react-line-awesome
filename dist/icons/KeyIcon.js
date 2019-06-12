@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-key', 'KeyIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-key', 'KeyIcon')

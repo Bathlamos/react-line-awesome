@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-cloud', 'CloudIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-cloud', 'CloudIcon')

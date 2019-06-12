@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-mail-reply-all', 'MailReplyAllIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-mail-reply-all', 'MailReplyAllIcon')

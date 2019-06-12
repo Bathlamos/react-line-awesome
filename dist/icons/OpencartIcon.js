@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-opencart', 'OpencartIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-opencart', 'OpencartIcon')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-foursquare', 'FoursquareIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-foursquare', 'FoursquareIcon')

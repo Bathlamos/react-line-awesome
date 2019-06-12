@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-eyedropper', 'EyedropperIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-eyedropper', 'EyedropperIcon')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-adjust', 'AdjustIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-adjust', 'AdjustIcon')

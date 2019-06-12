@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-weibo', 'WeiboIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-weibo', 'WeiboIcon')

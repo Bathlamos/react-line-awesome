@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-minus-square', 'MinusSquareIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-minus-square', 'MinusSquareIcon')

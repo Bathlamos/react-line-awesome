@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-hourglass-start', 'HourglassStartIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-hourglass-start', 'HourglassStartIcon')

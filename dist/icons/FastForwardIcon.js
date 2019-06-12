@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-fast-forward', 'FastForwardIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-fast-forward', 'FastForwardIcon')

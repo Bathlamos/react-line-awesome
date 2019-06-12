@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-newspaper-o', 'NewspaperOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-newspaper-o', 'NewspaperOIcon')

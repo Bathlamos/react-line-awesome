@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-share', 'ShareIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-share', 'ShareIcon')

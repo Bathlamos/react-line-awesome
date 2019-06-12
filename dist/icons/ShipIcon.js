@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-ship', 'ShipIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-ship', 'ShipIcon')
