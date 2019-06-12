@@ -12,3 +12,4 @@ yarn run prettier --config .prettierrc --write "**/*{.js,.ts,.jsx,.tsx,.md}"
 
 # Add all files to output
 git add dist
+git add
