@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-random', 'RandomIcon')
+export default createIcon('la-random')

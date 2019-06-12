@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-vine', 'VineIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-vine')

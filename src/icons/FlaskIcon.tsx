@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-flask', 'FlaskIcon')
+export default createIcon('la-flask')

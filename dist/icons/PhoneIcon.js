@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-phone', 'PhoneIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-phone')

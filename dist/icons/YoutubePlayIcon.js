@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-youtube-play', 'YoutubePlayIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-youtube-play')

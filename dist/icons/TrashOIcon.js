@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-trash-o', 'TrashOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-trash-o')

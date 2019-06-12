@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-search-plus', 'SearchPlusIcon')
+export default createIcon('la-search-plus')

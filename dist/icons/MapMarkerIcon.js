@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-map-marker', 'MapMarkerIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-map-marker')

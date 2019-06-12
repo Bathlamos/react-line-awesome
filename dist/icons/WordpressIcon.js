@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-wordpress', 'WordpressIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-wordpress')

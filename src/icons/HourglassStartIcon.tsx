@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-hourglass-start', 'HourglassStartIcon')
+export default createIcon('la-hourglass-start')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-scissors', 'ScissorsIcon')
+export default createIcon('la-scissors')

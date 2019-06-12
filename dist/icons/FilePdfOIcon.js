@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-file-pdf-o', 'FilePdfOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-file-pdf-o')

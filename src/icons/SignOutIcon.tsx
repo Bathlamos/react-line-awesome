@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-sign-out', 'SignOutIcon')
+export default createIcon('la-sign-out')

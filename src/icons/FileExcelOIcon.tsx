@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-file-excel-o', 'FileExcelOIcon')
+export default createIcon('la-file-excel-o')

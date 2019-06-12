@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-gears', 'GearsIcon')
+export default createIcon('la-gears')

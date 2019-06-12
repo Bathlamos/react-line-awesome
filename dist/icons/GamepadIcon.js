@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-gamepad', 'GamepadIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-gamepad')

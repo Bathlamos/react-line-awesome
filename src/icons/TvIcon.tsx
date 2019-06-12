@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-tv', 'TvIcon')
+export default createIcon('la-tv')

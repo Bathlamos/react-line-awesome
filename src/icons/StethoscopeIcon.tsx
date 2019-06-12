@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-stethoscope', 'StethoscopeIcon')
+export default createIcon('la-stethoscope')

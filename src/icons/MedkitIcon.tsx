@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-medkit', 'MedkitIcon')
+export default createIcon('la-medkit')

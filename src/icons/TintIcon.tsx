@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-tint', 'TintIcon')
+export default createIcon('la-tint')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-fighter-jet', 'FighterJetIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-fighter-jet')

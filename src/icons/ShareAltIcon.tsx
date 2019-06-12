@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-share-alt', 'ShareAltIcon')
+export default createIcon('la-share-alt')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-calendar-minus-o', 'CalendarMinusOIcon')
+export default createIcon('la-calendar-minus-o')

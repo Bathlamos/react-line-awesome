@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-copy', 'CopyIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-copy')

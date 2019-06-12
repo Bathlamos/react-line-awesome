@@ -34,7 +34,7 @@ program
     // Write components files
     const templateIcon = fs.readFileSync('src/templateIcon.tsx', { encoding: 'utf8' })
     iconNames.forEach(({ className, componentName }) => {
-      const fileContent = templateIcon.replace('{{componentName}}', componentName).replace('{{className}}', className)
+      const fileContent = templateIcon.replace('{{className}}', className)
       fs.writeFileSync(`${outputDirectory}/${componentName}.tsx`, fileContent, 'utf8')
     })
 

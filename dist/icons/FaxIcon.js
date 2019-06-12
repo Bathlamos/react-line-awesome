@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-fax', 'FaxIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-fax')

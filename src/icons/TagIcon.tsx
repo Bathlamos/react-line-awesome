@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-tag', 'TagIcon')
+export default createIcon('la-tag')

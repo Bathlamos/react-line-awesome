@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-firefox', 'FirefoxIcon')
+export default createIcon('la-firefox')

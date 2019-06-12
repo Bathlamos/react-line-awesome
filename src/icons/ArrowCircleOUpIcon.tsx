@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-arrow-circle-o-up', 'ArrowCircleOUpIcon')
+export default createIcon('la-arrow-circle-o-up')

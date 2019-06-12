@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-fonticons', 'FonticonsIcon')
+export default createIcon('la-fonticons')

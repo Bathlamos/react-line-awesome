@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-binoculars', 'BinocularsIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-binoculars')

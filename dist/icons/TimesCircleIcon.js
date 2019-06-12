@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-times-circle', 'TimesCircleIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-times-circle')

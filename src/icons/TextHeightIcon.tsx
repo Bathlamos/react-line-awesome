@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-text-height', 'TextHeightIcon')
+export default createIcon('la-text-height')

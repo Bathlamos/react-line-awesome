@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-spoon', 'SpoonIcon')
+export default createIcon('la-spoon')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-weibo', 'WeiboIcon')
+export default createIcon('la-weibo')

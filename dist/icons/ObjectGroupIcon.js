@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-object-group', 'ObjectGroupIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-object-group')

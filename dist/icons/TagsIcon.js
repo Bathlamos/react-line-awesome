@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-tags', 'TagsIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-tags')

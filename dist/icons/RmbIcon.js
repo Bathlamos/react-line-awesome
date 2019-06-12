@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-rmb', 'RmbIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-rmb')

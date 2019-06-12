@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-jsfiddle', 'JsfiddleIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-jsfiddle')

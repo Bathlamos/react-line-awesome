@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-table', 'TableIcon')
+export default createIcon('la-table')

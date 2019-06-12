@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-eject', 'EjectIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-eject')

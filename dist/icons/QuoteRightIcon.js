@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-quote-right', 'QuoteRightIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-quote-right')

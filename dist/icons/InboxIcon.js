@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-inbox', 'InboxIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-inbox')

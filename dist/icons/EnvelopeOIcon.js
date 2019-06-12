@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-envelope-o', 'EnvelopeOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-envelope-o')

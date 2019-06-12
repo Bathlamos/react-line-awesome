@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-cc-paypal', 'CcPaypalIcon')
+export default createIcon('la-cc-paypal')

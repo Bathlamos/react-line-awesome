@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-hand-scissors-o', 'HandScissorsOIcon')
+export default createIcon('la-hand-scissors-o')

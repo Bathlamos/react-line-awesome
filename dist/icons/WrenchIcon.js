@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-wrench', 'WrenchIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-wrench')

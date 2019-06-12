@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-bookmark', 'BookmarkIcon')
+export default createIcon('la-bookmark')

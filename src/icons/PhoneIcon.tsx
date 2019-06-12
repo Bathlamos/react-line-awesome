@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-phone', 'PhoneIcon')
+export default createIcon('la-phone')

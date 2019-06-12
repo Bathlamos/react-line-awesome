@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-minus', 'MinusIcon')
+export default createIcon('la-minus')

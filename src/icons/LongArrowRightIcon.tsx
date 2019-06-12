@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-long-arrow-right', 'LongArrowRightIcon')
+export default createIcon('la-long-arrow-right')

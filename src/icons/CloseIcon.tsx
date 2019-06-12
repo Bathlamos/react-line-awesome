@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-close', 'CloseIcon')
+export default createIcon('la-close')

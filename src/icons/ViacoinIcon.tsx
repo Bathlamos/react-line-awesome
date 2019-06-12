@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-viacoin', 'ViacoinIcon')
+export default createIcon('la-viacoin')

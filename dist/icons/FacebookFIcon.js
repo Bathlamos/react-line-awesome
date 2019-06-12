@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-facebook-f', 'FacebookFIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-facebook-f')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-bold', 'BoldIcon')
+export default createIcon('la-bold')

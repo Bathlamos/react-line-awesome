@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-star', 'StarIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-star')

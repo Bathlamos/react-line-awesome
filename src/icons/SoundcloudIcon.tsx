@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-soundcloud', 'SoundcloudIcon')
+export default createIcon('la-soundcloud')

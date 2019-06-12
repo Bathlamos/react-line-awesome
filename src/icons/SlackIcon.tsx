@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-slack', 'SlackIcon')
+export default createIcon('la-slack')

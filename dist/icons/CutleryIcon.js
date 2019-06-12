@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-cutlery', 'CutleryIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-cutlery')

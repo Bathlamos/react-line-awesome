@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-leaf', 'LeafIcon')
+export default createIcon('la-leaf')

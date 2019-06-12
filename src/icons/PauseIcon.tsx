@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-pause', 'PauseIcon')
+export default createIcon('la-pause')

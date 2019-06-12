@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-flash', 'FlashIcon')
+export default createIcon('la-flash')

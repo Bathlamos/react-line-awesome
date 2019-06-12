@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-crosshairs', 'CrosshairsIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-crosshairs')

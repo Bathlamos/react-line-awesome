@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-external-link-square', 'ExternalLinkSquareIcon')
+export default createIcon('la-external-link-square')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-ban', 'BanIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-ban')

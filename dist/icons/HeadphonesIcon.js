@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-headphones', 'HeadphonesIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-headphones')

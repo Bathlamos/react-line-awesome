@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-ambulance', 'AmbulanceIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-ambulance')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-check-circle', 'CheckCircleIcon')
+export default createIcon('la-check-circle')

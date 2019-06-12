@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-whatsapp', 'WhatsappIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-whatsapp')

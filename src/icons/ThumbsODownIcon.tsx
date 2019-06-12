@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-thumbs-o-down', 'ThumbsODownIcon')
+export default createIcon('la-thumbs-o-down')

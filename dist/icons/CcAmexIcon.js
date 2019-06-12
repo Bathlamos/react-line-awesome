@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-cc-amex', 'CcAmexIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-cc-amex')

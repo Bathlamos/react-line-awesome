@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-plane', 'PlaneIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-plane')

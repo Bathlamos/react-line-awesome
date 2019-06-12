@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-paste', 'PasteIcon')
+export default createIcon('la-paste')

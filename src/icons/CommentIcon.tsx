@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-comment', 'CommentIcon')
+export default createIcon('la-comment')

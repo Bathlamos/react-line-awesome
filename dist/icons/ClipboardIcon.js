@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-clipboard', 'ClipboardIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-clipboard')

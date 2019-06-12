@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-i-cursor', 'ICursorIcon')
+export default createIcon('la-i-cursor')

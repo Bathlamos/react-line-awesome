@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-trello', 'TrelloIcon')
+export default createIcon('la-trello')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-tablet', 'TabletIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-tablet')

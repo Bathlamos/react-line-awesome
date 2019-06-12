@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-ils', 'IlsIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-ils')

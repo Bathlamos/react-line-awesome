@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-gavel', 'GavelIcon')
+export default createIcon('la-gavel')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-align-right', 'AlignRightIcon')
+export default createIcon('la-align-right')

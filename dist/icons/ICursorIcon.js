@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-i-cursor', 'ICursorIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-i-cursor')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-space-shuttle', 'SpaceShuttleIcon')
+export default createIcon('la-space-shuttle')

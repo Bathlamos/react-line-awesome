@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-laptop', 'LaptopIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-laptop')

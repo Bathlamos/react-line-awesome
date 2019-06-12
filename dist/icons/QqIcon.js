@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-qq', 'QqIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-qq')

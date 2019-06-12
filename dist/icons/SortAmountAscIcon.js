@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-sort-amount-asc', 'SortAmountAscIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-sort-amount-asc')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-dashboard', 'DashboardIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-dashboard')

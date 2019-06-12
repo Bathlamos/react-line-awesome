@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-edit', 'EditIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-edit')

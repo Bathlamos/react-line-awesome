@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-angle-down', 'AngleDownIcon')
+export default createIcon('la-angle-down')

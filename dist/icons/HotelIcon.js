@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-hotel', 'HotelIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-hotel')

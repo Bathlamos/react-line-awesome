@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-whatsapp', 'WhatsappIcon')
+export default createIcon('la-whatsapp')

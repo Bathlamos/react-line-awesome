@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-globe', 'GlobeIcon')
+export default createIcon('la-globe')

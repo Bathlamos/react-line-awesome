@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-xing', 'XingIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-xing')

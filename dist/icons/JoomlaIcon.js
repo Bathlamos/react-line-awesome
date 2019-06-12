@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-joomla', 'JoomlaIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-joomla')

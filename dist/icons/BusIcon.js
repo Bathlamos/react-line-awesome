@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-bus', 'BusIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-bus')

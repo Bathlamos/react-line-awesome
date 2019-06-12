@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-refresh', 'RefreshIcon')
+export default createIcon('la-refresh')

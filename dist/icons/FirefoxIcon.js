@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-firefox', 'FirefoxIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-firefox')

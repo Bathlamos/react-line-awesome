@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-wrench', 'WrenchIcon')
+export default createIcon('la-wrench')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-gamepad', 'GamepadIcon')
+export default createIcon('la-gamepad')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-maxcdn', 'MaxcdnIcon')
+export default createIcon('la-maxcdn')

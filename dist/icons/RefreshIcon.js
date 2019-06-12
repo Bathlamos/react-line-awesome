@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-refresh', 'RefreshIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-refresh')

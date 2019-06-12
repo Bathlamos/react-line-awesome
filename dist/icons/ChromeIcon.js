@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-chrome', 'ChromeIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-chrome')

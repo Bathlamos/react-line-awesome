@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-fast-forward', 'FastForwardIcon')
+export default createIcon('la-fast-forward')

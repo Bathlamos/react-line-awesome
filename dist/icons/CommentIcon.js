@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-comment', 'CommentIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-comment')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-picture-o', 'PictureOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-picture-o')

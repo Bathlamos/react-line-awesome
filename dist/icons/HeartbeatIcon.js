@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-heartbeat', 'HeartbeatIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-heartbeat')

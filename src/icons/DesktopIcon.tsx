@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-desktop', 'DesktopIcon')
+export default createIcon('la-desktop')

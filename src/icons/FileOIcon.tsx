@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-file-o', 'FileOIcon')
+export default createIcon('la-file-o')

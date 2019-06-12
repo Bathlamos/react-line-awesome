@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-twitter', 'TwitterIcon')
+export default createIcon('la-twitter')

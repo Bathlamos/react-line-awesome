@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-magnet', 'MagnetIcon')
+export default createIcon('la-magnet')

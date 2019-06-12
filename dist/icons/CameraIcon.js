@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-camera', 'CameraIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-camera')

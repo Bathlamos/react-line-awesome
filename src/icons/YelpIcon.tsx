@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-yelp', 'YelpIcon')
+export default createIcon('la-yelp')

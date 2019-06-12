@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-circle', 'CircleIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-circle')

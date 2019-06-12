@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-ellipsis-v', 'EllipsisVIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-ellipsis-v')

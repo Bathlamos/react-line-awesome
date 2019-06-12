@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-money', 'MoneyIcon')
+export default createIcon('la-money')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-tumblr', 'TumblrIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-tumblr')

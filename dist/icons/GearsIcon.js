@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-gears', 'GearsIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-gears')

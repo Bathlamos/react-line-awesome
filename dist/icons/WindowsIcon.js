@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-windows', 'WindowsIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-windows')

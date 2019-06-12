@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-wheelchair', 'WheelchairIcon')
+export default createIcon('la-wheelchair')

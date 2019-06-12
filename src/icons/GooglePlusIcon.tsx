@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-google-plus', 'GooglePlusIcon')
+export default createIcon('la-google-plus')

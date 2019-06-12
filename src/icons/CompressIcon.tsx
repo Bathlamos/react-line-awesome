@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-compress', 'CompressIcon')
+export default createIcon('la-compress')

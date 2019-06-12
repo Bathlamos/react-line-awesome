@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-cloud-upload', 'CloudUploadIcon')
+export default createIcon('la-cloud-upload')

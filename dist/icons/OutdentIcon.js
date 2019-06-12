@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-outdent', 'OutdentIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-outdent')

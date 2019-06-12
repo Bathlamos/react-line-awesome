@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-euro', 'EuroIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-euro')

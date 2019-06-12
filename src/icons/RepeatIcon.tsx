@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-repeat', 'RepeatIcon')
+export default createIcon('la-repeat')

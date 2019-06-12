@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-backward', 'BackwardIcon')
+export default createIcon('la-backward')

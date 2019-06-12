@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-mars-double', 'MarsDoubleIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-mars-double')

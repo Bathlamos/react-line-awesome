@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-clock-o', 'ClockOIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-clock-o')

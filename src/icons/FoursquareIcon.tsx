@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-foursquare', 'FoursquareIcon')
+export default createIcon('la-foursquare')

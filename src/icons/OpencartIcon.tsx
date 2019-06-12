@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-opencart', 'OpencartIcon')
+export default createIcon('la-opencart')

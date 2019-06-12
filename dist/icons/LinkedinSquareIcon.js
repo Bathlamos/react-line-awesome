@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-linkedin-square', 'LinkedinSquareIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-linkedin-square')

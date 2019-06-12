@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-twitch', 'TwitchIcon')
+export default createIcon('la-twitch')

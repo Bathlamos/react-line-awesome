@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-euro', 'EuroIcon')
+export default createIcon('la-euro')

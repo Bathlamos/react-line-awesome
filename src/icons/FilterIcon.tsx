@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-filter', 'FilterIcon')
+export default createIcon('la-filter')

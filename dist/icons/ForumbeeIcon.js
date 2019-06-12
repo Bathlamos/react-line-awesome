@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-forumbee', 'ForumbeeIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-forumbee')

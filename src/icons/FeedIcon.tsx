@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-feed', 'FeedIcon')
+export default createIcon('la-feed')

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-btc', 'BtcIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-btc')

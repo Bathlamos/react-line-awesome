@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-trophy', 'TrophyIcon')
+export default createIcon('la-trophy')

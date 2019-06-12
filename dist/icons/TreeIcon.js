@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-tree', 'TreeIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-tree')

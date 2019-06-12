@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-stack-exchange', 'StackExchangeIcon')
+export default createIcon('la-stack-exchange')

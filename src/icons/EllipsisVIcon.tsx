@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-ellipsis-v', 'EllipsisVIcon')
+export default createIcon('la-ellipsis-v')

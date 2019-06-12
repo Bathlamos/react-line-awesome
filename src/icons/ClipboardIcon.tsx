@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-clipboard', 'ClipboardIcon')
+export default createIcon('la-clipboard')

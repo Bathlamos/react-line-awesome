@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-chevron-circle-down', 'ChevronCircleDownIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-chevron-circle-down')

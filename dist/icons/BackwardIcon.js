@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-backward', 'BackwardIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-backward')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-cc-visa', 'CcVisaIcon')
+export default createIcon('la-cc-visa')

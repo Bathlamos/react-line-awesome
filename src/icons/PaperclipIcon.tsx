@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-paperclip', 'PaperclipIcon')
+export default createIcon('la-paperclip')

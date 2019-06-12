@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-leanpub', 'LeanpubIcon')
+export default createIcon('la-leanpub')

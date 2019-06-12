@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-keyboard-o', 'KeyboardOIcon')
+export default createIcon('la-keyboard-o')

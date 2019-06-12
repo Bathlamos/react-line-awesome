@@ -1,2 +1,2 @@
-import createIcon from './../createIcon';
-export default createIcon('la-cc-mastercard', 'CcMastercardIcon');
+import createIcon from './../createIcon'
+export default createIcon('la-cc-mastercard')

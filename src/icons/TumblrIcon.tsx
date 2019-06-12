@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-tumblr', 'TumblrIcon')
+export default createIcon('la-tumblr')

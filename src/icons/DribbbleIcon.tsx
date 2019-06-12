@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-dribbble', 'DribbbleIcon')
+export default createIcon('la-dribbble')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-shield', 'ShieldIcon')
+export default createIcon('la-shield')

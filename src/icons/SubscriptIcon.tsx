@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-subscript', 'SubscriptIcon')
+export default createIcon('la-subscript')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-dedent', 'DedentIcon')
+export default createIcon('la-dedent')

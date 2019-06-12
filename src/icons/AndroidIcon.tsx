@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-android', 'AndroidIcon')
+export default createIcon('la-android')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-power-off', 'PowerOffIcon')
+export default createIcon('la-power-off')

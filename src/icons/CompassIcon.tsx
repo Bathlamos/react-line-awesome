@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-compass', 'CompassIcon')
+export default createIcon('la-compass')

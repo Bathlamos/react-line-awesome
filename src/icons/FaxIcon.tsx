@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-fax', 'FaxIcon')
+export default createIcon('la-fax')
