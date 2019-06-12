@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-trello', 'TrelloIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-trello', 'TrelloIcon');

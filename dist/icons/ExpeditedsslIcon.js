@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-expeditedssl', 'ExpeditedsslIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-expeditedssl', 'ExpeditedsslIcon');

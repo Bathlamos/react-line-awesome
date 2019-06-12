@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-subway', 'SubwayIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-subway', 'SubwayIcon');

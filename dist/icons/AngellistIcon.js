@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-angellist', 'AngellistIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-angellist', 'AngellistIcon');

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-sticky-note', 'StickyNoteIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-sticky-note', 'StickyNoteIcon');

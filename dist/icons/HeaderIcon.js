@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-header', 'HeaderIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-header', 'HeaderIcon');

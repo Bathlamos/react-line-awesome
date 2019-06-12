@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-slideshare', 'SlideshareIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-slideshare', 'SlideshareIcon');

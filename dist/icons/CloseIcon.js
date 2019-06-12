@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-close', 'CloseIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-close', 'CloseIcon');

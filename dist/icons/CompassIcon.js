@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-compass', 'CompassIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-compass', 'CompassIcon');

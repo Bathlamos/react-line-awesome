@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-calendar-minus-o', 'CalendarMinusOIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-calendar-minus-o', 'CalendarMinusOIcon');

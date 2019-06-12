@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-male', 'MaleIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-male', 'MaleIcon');

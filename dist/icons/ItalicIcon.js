@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-italic', 'ItalicIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-italic', 'ItalicIcon');

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-paperclip', 'PaperclipIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-paperclip', 'PaperclipIcon');

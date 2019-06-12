@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-skyatlas', 'SkyatlasIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-skyatlas', 'SkyatlasIcon');

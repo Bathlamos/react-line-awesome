@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-weixin', 'WeixinIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-weixin', 'WeixinIcon');

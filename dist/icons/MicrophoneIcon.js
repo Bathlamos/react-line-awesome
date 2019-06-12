@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-microphone', 'MicrophoneIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-microphone', 'MicrophoneIcon');

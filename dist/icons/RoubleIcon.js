@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-rouble', 'RoubleIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-rouble', 'RoubleIcon');

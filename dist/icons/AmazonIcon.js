@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-amazon', 'AmazonIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-amazon', 'AmazonIcon');

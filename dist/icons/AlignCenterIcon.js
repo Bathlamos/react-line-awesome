@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-align-center', 'AlignCenterIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-align-center', 'AlignCenterIcon');

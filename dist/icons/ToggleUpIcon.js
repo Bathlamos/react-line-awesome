@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-toggle-up', 'ToggleUpIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-toggle-up', 'ToggleUpIcon');

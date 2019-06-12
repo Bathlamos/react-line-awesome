@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-battery-empty', 'BatteryEmptyIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-battery-empty', 'BatteryEmptyIcon');

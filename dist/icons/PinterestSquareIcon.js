@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-pinterest-square', 'PinterestSquareIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-pinterest-square', 'PinterestSquareIcon');

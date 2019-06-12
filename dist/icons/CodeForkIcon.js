@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-code-fork', 'CodeForkIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-code-fork', 'CodeForkIcon');

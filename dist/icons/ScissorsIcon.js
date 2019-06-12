@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-scissors', 'ScissorsIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-scissors', 'ScissorsIcon');

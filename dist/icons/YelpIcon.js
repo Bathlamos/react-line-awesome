@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-yelp', 'YelpIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-yelp', 'YelpIcon');

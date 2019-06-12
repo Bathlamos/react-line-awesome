@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-calculator', 'CalculatorIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-calculator', 'CalculatorIcon');

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-mouse-pointer', 'MousePointerIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-mouse-pointer', 'MousePointerIcon');

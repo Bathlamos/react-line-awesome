@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-frown-o', 'FrownOIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-frown-o', 'FrownOIcon');

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-arrow-circle-o-right', 'ArrowCircleORightIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-arrow-circle-o-right', 'ArrowCircleORightIcon');

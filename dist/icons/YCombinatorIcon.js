@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-y-combinator', 'YCombinatorIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-y-combinator', 'YCombinatorIcon');

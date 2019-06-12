@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-twitter', 'TwitterIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-twitter', 'TwitterIcon');

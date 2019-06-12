@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-list', 'ListIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-list', 'ListIcon');

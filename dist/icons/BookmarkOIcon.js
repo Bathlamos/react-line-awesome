@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-bookmark-o', 'BookmarkOIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-bookmark-o', 'BookmarkOIcon');

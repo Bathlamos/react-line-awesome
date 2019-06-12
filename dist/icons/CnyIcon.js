@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-cny', 'CnyIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-cny', 'CnyIcon');

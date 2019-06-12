@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-google-wallet', 'GoogleWalletIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-google-wallet', 'GoogleWalletIcon');

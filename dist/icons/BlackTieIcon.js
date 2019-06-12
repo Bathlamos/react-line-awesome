@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-black-tie', 'BlackTieIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-black-tie', 'BlackTieIcon');

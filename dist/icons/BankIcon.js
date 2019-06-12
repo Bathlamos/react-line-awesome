@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-bank', 'BankIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-bank', 'BankIcon');

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-meanpath', 'MeanpathIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-meanpath', 'MeanpathIcon');

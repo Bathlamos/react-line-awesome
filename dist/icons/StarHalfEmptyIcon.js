@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-star-half-empty', 'StarHalfEmptyIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-star-half-empty', 'StarHalfEmptyIcon');

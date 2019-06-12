@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-github-alt', 'GithubAltIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-github-alt', 'GithubAltIcon');

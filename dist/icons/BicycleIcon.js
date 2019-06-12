@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-bicycle', 'BicycleIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-bicycle', 'BicycleIcon');

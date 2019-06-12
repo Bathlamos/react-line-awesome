@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-github', 'GithubIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-github', 'GithubIcon');

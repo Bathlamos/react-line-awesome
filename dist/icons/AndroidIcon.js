@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-android', 'AndroidIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-android', 'AndroidIcon');

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-strikethrough', 'StrikethroughIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-strikethrough', 'StrikethroughIcon');

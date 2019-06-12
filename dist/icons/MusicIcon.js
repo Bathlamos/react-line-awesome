@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-music', 'MusicIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-music', 'MusicIcon');

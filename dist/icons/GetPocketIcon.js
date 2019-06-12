@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-get-pocket', 'GetPocketIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-get-pocket', 'GetPocketIcon');

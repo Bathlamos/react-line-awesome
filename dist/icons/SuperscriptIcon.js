@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-superscript', 'SuperscriptIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-superscript', 'SuperscriptIcon');

@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-try', 'TryIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-try', 'TryIcon');

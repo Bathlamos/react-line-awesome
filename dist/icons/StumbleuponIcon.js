@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-stumbleupon', 'StumbleuponIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-stumbleupon', 'StumbleuponIcon');

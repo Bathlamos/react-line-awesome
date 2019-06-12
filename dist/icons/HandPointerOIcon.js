@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-hand-pointer-o', 'HandPointerOIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-hand-pointer-o', 'HandPointerOIcon');

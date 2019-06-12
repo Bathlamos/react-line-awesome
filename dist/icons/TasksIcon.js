@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-tasks', 'TasksIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-tasks', 'TasksIcon');

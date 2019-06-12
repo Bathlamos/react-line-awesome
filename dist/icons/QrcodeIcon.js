@@ -1,2 +1,2 @@
-import createIcon from './../createIcon'
-export default createIcon('la-qrcode', 'QrcodeIcon')
+import createIcon from './../createIcon';
+export default createIcon('la-qrcode', 'QrcodeIcon');
