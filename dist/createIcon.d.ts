@@ -1,10 +1,13 @@
-import React from 'react'
+import React, { ElementType } from 'react'
+declare type IProps = React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & {
+  component: ElementType
+}
 declare const _default: (
   className: string
 ) => React.MemoExoticComponent<
   React.ForwardRefExoticComponent<
     Pick<
-      React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>,
+      IProps,
       | 'hidden'
       | 'dir'
       | 'slot'
@@ -13,14 +16,12 @@ declare const _default: (
       | 'color'
       | 'key'
       | 'children'
-      | 'className'
-      | 'aria-hidden'
-      | 'role'
       | 'defaultChecked'
       | 'defaultValue'
       | 'suppressContentEditableWarning'
       | 'suppressHydrationWarning'
       | 'accessKey'
+      | 'className'
       | 'contentEditable'
       | 'contextMenu'
       | 'draggable'
@@ -32,6 +33,7 @@ declare const _default: (
       | 'inputMode'
       | 'is'
       | 'radioGroup'
+      | 'role'
       | 'about'
       | 'datatype'
       | 'inlist'
@@ -70,6 +72,7 @@ declare const _default: (
       | 'aria-flowto'
       | 'aria-grabbed'
       | 'aria-haspopup'
+      | 'aria-hidden'
       | 'aria-invalid'
       | 'aria-keyshortcuts'
       | 'aria-label'
@@ -259,6 +262,7 @@ declare const _default: (
       | 'onAnimationIterationCapture'
       | 'onTransitionEnd'
       | 'onTransitionEndCapture'
+      | 'component'
     > &
       React.RefAttributes<HTMLElement>
   >

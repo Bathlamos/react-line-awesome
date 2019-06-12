@@ -2,7 +2,10 @@
 declare const _default: import('react').MemoExoticComponent<
   import('react').ForwardRefExoticComponent<
     Pick<
-      import('react').DetailedHTMLProps<import('react').HTMLAttributes<HTMLElement>, HTMLElement>,
+      import('react').ClassAttributes<HTMLElement> &
+        import('react').HTMLAttributes<HTMLElement> & {
+          component: import('react').ElementType<any>
+        },
       | 'hidden'
       | 'dir'
       | 'slot'
@@ -11,14 +14,12 @@ declare const _default: import('react').MemoExoticComponent<
       | 'color'
       | 'key'
       | 'children'
-      | 'className'
-      | 'aria-hidden'
-      | 'role'
       | 'defaultChecked'
       | 'defaultValue'
       | 'suppressContentEditableWarning'
       | 'suppressHydrationWarning'
       | 'accessKey'
+      | 'className'
       | 'contentEditable'
       | 'contextMenu'
       | 'draggable'
@@ -30,6 +31,7 @@ declare const _default: import('react').MemoExoticComponent<
       | 'inputMode'
       | 'is'
       | 'radioGroup'
+      | 'role'
       | 'about'
       | 'datatype'
       | 'inlist'
@@ -68,6 +70,7 @@ declare const _default: import('react').MemoExoticComponent<
       | 'aria-flowto'
       | 'aria-grabbed'
       | 'aria-haspopup'
+      | 'aria-hidden'
       | 'aria-invalid'
       | 'aria-keyshortcuts'
       | 'aria-label'
@@ -257,6 +260,7 @@ declare const _default: import('react').MemoExoticComponent<
       | 'onAnimationIterationCapture'
       | 'onTransitionEnd'
       | 'onTransitionEndCapture'
+      | 'component'
     > &
       import('react').RefAttributes<HTMLElement>
   >

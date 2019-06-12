@@ -26,16 +26,19 @@ var __rest =
 import React from 'react'
 export default (function(className) {
   return React.memo(
-    React.forwardRef(function(_a, ref) {
-      var userClassName = _a.className,
-        ariaHidden = _a['aria-hidden'],
-        role = _a.role,
-        props = __rest(_a, ['className', 'aria-hidden', 'role'])
+    React.forwardRef(function(props, ref) {
+      var userClassName = props.className,
+        ariaHidden = props['aria-hidden'],
+        role = props.role,
+        children = props.children,
+        component = props.component,
+        remainder = __rest(props, ['className', 'aria-hidden', 'role', 'children', 'component'])
+      var CustomTag = component || 'i'
       return React.createElement(
-        'i',
+        CustomTag,
         __assign(
           {
-            'aria-Hidden': ariaHidden || 'true',
+            ariaHidden: ariaHidden || 'true',
             role: role || 'presentation',
             className: [className, userClassName]
               .filter(function(e) {
@@ -43,10 +46,10 @@ export default (function(className) {
               })
               .join(' '),
           },
-          props,
+          remainder,
           { ref: ref }
         ),
-        props.children
+        children
       )
     })
   )

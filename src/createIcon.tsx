@@ -1,19 +1,32 @@
-import React, { Ref } from 'react'
+import React, { Ref, ElementType } from 'react'
 
-type IProps = React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>
+type IProps = React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & { component: ElementType}
 
 export default (className: string) =>
   React.memo(
     React.forwardRef(
-      ({ className: userClassName, 'aria-hidden': ariaHidden, role, ...props }: IProps, ref: Ref<HTMLElement>) => (
-        <i
-          aria-Hidden={ariaHidden || 'true'}
+      (props: IProps, ref: Ref<HTMLElement>) => {
+        const {
+          className: userClassName, 
+          'aria-hidden': ariaHidden, 
+          role,
+          children,
+          component,
+          ...remainder 
+        } = props
+
+        const CustomTag = component || 'i';
+
+        return (
+        <CustomTag
+          ariaHidden={ariaHidden || 'true'}
           role={role || 'presentation'}
           className={[className, userClassName].filter(e => e).join(' ')}
-          {...props}
+          {...remainder}
           ref={ref}>
-          {props.children}
-        </i>
+          {children}
+        </CustomTag>
       )
+    }
     )
   )
