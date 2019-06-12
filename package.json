@@ -29,14 +29,14 @@
     "generate:icons": "node scripts/generate-icons.js src/resources/line-awesome/css/line-awesome.css src/icons"
   },
   "lint-staged": {
-    "**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+    "**/*.{js,jsx,ts,tsx,json,md}": [
       "prettier --config .prettierrc --write",
       "git add"
     ]
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "yarn start && lint-staged"
     }
   }
 }

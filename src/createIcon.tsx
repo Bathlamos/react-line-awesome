@@ -1,4 +1,3 @@
-
 import React, { Ref } from 'react'
 
 type IProps = React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>
@@ -9,7 +8,7 @@ export default (className: string, displayName: string) => {
       <i aria-Hidden="true" role="presentation" className={className} {...props} ref={ref}>
         {props.children}
       </i>
-    )),
+    ))
   )
 
   return Component

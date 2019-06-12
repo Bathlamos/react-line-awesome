@@ -1,10 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "lib": [
-      "dom",
-      "es2015"
-    ],
+    "lib": ["dom", "es2015"],
     "strict": true,
     "alwaysStrict": true,
     "module": "esnext",
@@ -14,11 +11,6 @@
     "declaration": true,
     "outDir": "./dist"
   },
-  "include": [
-    "src"
-  ],
-  "exclude": [
-    "node_modules",
-    "src/templateIcon.tsx",
-  ]
+  "include": ["src"],
+  "exclude": ["node_modules", "src/templateIcon.tsx"]
 }
