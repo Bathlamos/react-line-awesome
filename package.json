@@ -2,6 +2,7 @@
   "name": "react-line-awesome",
   "description": "React components for Line Awesome Icons",
   "version": "0.1.0",
+  "keywords": ["react", "font awesome", "line awesome"],
   "private": false,
   "license": "MIT",
   "author": "Philippe Legault <philippe@legault.cc> (https://legault.cc)",
