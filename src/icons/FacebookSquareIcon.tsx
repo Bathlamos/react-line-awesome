@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-facebook-square')
+export default createIcon('la la-facebook-square')

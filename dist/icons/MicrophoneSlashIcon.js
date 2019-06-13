@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-microphone-slash')
+export default createIcon('la la-microphone-slash')

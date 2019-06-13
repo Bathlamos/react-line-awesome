@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-transgender-alt')
+export default createIcon('la la-transgender-alt')

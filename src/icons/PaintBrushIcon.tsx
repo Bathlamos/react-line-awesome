@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-paint-brush')
+export default createIcon('la la-paint-brush')

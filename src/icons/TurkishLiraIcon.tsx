@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-turkish-lira')
+export default createIcon('la la-turkish-lira')

@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-share-alt')
+export default createIcon('la la-share-alt')

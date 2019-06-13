@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-mail-reply')
+export default createIcon('la la-mail-reply')

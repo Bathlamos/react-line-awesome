@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-italic')
+export default createIcon('la la-italic')

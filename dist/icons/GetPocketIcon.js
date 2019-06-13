@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-get-pocket')
+export default createIcon('la la-get-pocket')

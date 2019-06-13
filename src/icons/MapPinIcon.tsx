@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-map-pin')
+export default createIcon('la la-map-pin')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-chrome')
+export default createIcon('la la-chrome')

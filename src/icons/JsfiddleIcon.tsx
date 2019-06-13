@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-jsfiddle')
+export default createIcon('la la-jsfiddle')

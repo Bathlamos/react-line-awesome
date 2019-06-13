@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-users')
+export default createIcon('la la-users')

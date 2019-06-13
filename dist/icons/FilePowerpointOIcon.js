@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-file-powerpoint-o')
+export default createIcon('la la-file-powerpoint-o')

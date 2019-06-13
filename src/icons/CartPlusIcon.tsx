@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-cart-plus')
+export default createIcon('la la-cart-plus')

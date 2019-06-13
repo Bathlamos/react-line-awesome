@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-columns')
+export default createIcon('la la-columns')

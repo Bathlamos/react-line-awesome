@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-object-ungroup')
+export default createIcon('la la-object-ungroup')

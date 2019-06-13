@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-file-sound-o')
+export default createIcon('la la-file-sound-o')

@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-reply-all')
+export default createIcon('la la-reply-all')

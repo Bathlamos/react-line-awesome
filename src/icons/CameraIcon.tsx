@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-camera')
+export default createIcon('la la-camera')

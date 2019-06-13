@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-code-fork')
+export default createIcon('la la-code-fork')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-ioxhost')
+export default createIcon('la la-ioxhost')

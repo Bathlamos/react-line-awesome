@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-rub')
+export default createIcon('la la-rub')

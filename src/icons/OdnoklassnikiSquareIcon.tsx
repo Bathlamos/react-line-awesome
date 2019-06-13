@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-odnoklassniki-square')
+export default createIcon('la la-odnoklassniki-square')

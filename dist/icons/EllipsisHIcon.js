@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-ellipsis-h')
+export default createIcon('la la-ellipsis-h')

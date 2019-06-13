@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-envelope')
+export default createIcon('la la-envelope')

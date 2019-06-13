@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-floppy-o')
+export default createIcon('la la-floppy-o')

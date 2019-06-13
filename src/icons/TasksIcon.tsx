@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-tasks')
+export default createIcon('la la-tasks')

@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-puzzle-piece')
+export default createIcon('la la-puzzle-piece')

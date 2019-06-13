@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-shirtsinbulk')
+export default createIcon('la la-shirtsinbulk')

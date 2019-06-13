@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-credit-card')
+export default createIcon('la la-credit-card')

@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-play-circle')
+export default createIcon('la la-play-circle')

@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-pinterest-square')
+export default createIcon('la la-pinterest-square')

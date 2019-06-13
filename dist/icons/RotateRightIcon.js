@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-rotate-right')
+export default createIcon('la la-rotate-right')

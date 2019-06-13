@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-battery-2')
+export default createIcon('la la-battery-2')

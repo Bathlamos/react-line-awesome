@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-caret-left')
+export default createIcon('la la-caret-left')

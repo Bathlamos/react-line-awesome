@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-unlink')
+export default createIcon('la la-unlink')

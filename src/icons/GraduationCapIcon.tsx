@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-graduation-cap')
+export default createIcon('la la-graduation-cap')

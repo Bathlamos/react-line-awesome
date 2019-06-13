@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-reddit-square')
+export default createIcon('la la-reddit-square')

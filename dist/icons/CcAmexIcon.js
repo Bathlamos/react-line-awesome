@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-cc-amex')
+export default createIcon('la la-cc-amex')

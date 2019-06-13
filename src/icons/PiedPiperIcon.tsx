@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-pied-piper')
+export default createIcon('la la-pied-piper')

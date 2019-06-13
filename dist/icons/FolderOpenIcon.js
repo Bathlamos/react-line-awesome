@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-folder-open')
+export default createIcon('la la-folder-open')

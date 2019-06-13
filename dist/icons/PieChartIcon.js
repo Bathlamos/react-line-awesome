@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-pie-chart')
+export default createIcon('la la-pie-chart')

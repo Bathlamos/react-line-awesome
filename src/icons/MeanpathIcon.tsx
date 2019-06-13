@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-meanpath')
+export default createIcon('la la-meanpath')

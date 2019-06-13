@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-mail-forward')
+export default createIcon('la la-mail-forward')

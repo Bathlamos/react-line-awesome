@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-clock-o')
+export default createIcon('la la-clock-o')

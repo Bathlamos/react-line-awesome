@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-500px')
+export default createIcon('la la-500px')

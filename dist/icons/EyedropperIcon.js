@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-eyedropper')
+export default createIcon('la la-eyedropper')

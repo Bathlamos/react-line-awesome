@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-jpy')
+export default createIcon('la la-jpy')

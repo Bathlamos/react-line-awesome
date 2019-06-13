@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-drupal')
+export default createIcon('la la-drupal')

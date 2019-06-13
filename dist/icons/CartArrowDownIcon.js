@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-cart-arrow-down')
+export default createIcon('la la-cart-arrow-down')

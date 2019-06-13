@@ -26,7 +26,7 @@ program
     const iconNames = []
     while ((match = classNameRegex.exec(fontCSS))) {
       iconNames.push({
-        className: `la-${match[1]}`,
+        className: `la la-${match[1]}`,
         componentName: toComponentName(match[1]),
       })
     }

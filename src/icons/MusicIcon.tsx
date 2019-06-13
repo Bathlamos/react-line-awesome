@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-music')
+export default createIcon('la la-music')

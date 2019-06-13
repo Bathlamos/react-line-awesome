@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-flickr')
+export default createIcon('la la-flickr')

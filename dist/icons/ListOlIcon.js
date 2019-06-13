@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-list-ol')
+export default createIcon('la la-list-ol')

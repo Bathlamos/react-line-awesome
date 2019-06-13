@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-bitbucket-square')
+export default createIcon('la la-bitbucket-square')

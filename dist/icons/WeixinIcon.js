@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-weixin')
+export default createIcon('la la-weixin')

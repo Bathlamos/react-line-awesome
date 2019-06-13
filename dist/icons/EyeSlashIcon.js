@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-eye-slash')
+export default createIcon('la la-eye-slash')

@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-css3')
+export default createIcon('la la-css3')

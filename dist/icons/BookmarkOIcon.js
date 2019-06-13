@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-bookmark-o')
+export default createIcon('la la-bookmark-o')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-html5')
+export default createIcon('la la-html5')

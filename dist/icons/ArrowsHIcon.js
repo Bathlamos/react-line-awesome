@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-arrows-h')
+export default createIcon('la la-arrows-h')

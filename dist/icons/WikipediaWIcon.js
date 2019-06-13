@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-wikipedia-w')
+export default createIcon('la la-wikipedia-w')

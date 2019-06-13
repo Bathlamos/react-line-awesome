@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-quote-left')
+export default createIcon('la la-quote-left')

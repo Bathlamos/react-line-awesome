@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-chevron-left')
+export default createIcon('la la-chevron-left')

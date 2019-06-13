@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-toggle-right')
+export default createIcon('la la-toggle-right')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-cc-diners-club')
+export default createIcon('la la-cc-diners-club')

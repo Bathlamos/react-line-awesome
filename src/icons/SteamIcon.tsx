@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-steam')
+export default createIcon('la la-steam')

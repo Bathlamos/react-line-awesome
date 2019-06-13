@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-dropbox')
+export default createIcon('la la-dropbox')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-exclamation-triangle')
+export default createIcon('la la-exclamation-triangle')

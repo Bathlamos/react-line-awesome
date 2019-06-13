@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-volume-up')
+export default createIcon('la la-volume-up')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-question-circle')
+export default createIcon('la la-question-circle')

@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-sort-up')
+export default createIcon('la la-sort-up')

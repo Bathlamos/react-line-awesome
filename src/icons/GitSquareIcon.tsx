@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-git-square')
+export default createIcon('la la-git-square')

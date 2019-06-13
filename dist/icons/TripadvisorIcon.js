@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-tripadvisor')
+export default createIcon('la la-tripadvisor')

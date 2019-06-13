@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-mortar-board')
+export default createIcon('la la-mortar-board')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-sliders')
+export default createIcon('la la-sliders')

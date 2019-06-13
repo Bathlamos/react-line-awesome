@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-check-square')
+export default createIcon('la la-check-square')

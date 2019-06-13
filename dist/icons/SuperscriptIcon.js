@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-superscript')
+export default createIcon('la la-superscript')

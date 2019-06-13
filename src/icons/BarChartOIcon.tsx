@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-bar-chart-o')
+export default createIcon('la la-bar-chart-o')

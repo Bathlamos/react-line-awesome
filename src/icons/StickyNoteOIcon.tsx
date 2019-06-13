@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la-sticky-note-o')
+export default createIcon('la la-sticky-note-o')

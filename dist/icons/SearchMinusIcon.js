@@ -1,2 +1,2 @@
 import createIcon from './../createIcon'
-export default createIcon('la-search-minus')
+export default createIcon('la la-search-minus')
