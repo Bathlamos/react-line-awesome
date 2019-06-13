@@ -38,7 +38,7 @@ export default (function(className) {
         CustomTag,
         __assign(
           {
-            ariaHidden: ariaHidden || 'true',
+            'aria-hidden': ariaHidden || 'true',
             role: role || 'presentation',
             className: [className, userClassName]
               .filter(function(e) {

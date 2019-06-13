@@ -11,7 +11,7 @@ export default (className: string) =>
 
       return (
         <CustomTag
-          ariaHidden={ariaHidden || 'true'}
+          aria-hidden={ariaHidden || 'true'}
           role={role || 'presentation'}
           className={[className, userClassName].filter(e => e).join(' ')}
           {...remainder}
