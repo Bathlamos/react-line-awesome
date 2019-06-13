@@ -1,6 +1,6 @@
 import React, { ElementType, Ref } from 'react'
 
-type IProps = React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & { component: ElementType }
+type IProps = React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & { component?: ElementType }
 
 export default (className: string) =>
   React.memo(

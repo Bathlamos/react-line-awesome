@@ -1,6 +1,6 @@
 import React, { ElementType } from 'react'
 declare type IProps = React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> & {
-  component: ElementType
+  component?: ElementType
 }
 declare const _default: (
   className: string
