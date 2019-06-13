@@ -44,7 +44,7 @@ function MinimalExample(props) {
 function LongerExample(props) {
   return (
     <ThumbsUpIcon className="custom-class" component="span" style="color: blue">
-      <span>I'm a child!</span>
+      <span>I am a child!</span>
     </ThumbsUpIcon>
   )
 }
