@@ -1,10 +1,11 @@
 {
   "name": "react-line-awesome",
   "description": "React components for Line Awesome Icons",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": ["react", "font awesome", "line awesome"],
   "private": false,
   "license": "MIT",
+  "homepage": "https://github.com/Bathlamos/react-line-awesome",
   "author": "Philippe Legault <philippe@legault.cc> (https://legault.cc)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

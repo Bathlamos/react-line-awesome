@@ -1,2 +1,4 @@
-import createIcon from './../createIcon'
-export default createIcon('la la-chevron-left')
+'use strict'
+Object.defineProperty(exports, '__esModule', { value: true })
+var createIcon_1 = require('./../createIcon')
+exports.default = createIcon_1.default('la la-chevron-left')

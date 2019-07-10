@@ -1,3 +1,4 @@
+'use strict'
 var __assign =
   (this && this.__assign) ||
   function() {
@@ -23,10 +24,11 @@ var __rest =
       }
     return t
   }
-import React from 'react'
-export default (function(className) {
-  return React.memo(
-    React.forwardRef(function(props, ref) {
+Object.defineProperty(exports, '__esModule', { value: true })
+var react_1 = require('react')
+exports.default = function(className) {
+  return react_1.default.memo(
+    react_1.default.forwardRef(function(props, ref) {
       var userClassName = props.className,
         ariaHidden = props['aria-hidden'],
         role = props.role,
@@ -34,7 +36,7 @@ export default (function(className) {
         component = props.component,
         remainder = __rest(props, ['className', 'aria-hidden', 'role', 'children', 'component'])
       var CustomTag = component || 'i'
-      return React.createElement(
+      return react_1.default.createElement(
         CustomTag,
         __assign(
           {
@@ -53,4 +55,4 @@ export default (function(className) {
       )
     })
   )
-})
+}
