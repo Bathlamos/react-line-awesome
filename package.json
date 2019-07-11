@@ -1,7 +1,7 @@
 {
   "name": "react-line-awesome",
   "description": "React components for Line Awesome Icons",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "keywords": ["react", "font awesome", "line awesome"],
   "private": false,
   "license": "MIT",
