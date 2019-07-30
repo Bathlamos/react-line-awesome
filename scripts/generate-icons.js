@@ -21,14 +21,17 @@ program
 
     // Get Line Awesome class names
     const fontCSS = fs.readFileSync(cssFontPath, { encoding: 'utf8' })
-    const classNameRegex = /\.la-(\S+):before\s*\{/g
+    const classNameRegex = /\.la-(\S{2,}):before/g
     let match
     const iconNames = []
+    const seen = {}
     while ((match = classNameRegex.exec(fontCSS))) {
-      iconNames.push({
-        className: `la la-${match[1]}`,
-        componentName: toComponentName(match[1]),
-      })
+      if (!seen[match[1]])
+        iconNames.push({
+          className: `la la-${match[1]}`,
+          componentName: toComponentName(match[1]),
+        })
+      seen[match[1]] = true
     }
 
     // Write components files
