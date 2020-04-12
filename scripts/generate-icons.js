@@ -26,12 +26,13 @@ program
     const iconNames = []
     const seen = {}
     while ((match = classNameRegex.exec(fontCSS))) {
-      if (!seen[match[1]])
+      const alphaOnlyMatch = match[1].toLowerCase().replace(/[^a-z]/, '')
+      if (!seen[alphaOnlyMatch])
         iconNames.push({
           className: `la la-${match[1]}`,
           componentName: toComponentName(match[1]),
         })
-      seen[match[1]] = true
+      seen[alphaOnlyMatch] = true
     }
 
     // Write components files
