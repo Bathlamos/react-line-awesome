@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-codiepie')
+export default createIcon('lab la-codiepie')

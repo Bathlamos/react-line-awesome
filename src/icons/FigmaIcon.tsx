@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-figma')
+export default createIcon('lab la-figma')

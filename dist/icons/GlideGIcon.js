@@ -6,5 +6,5 @@ var __importDefault =
   }
 Object.defineProperty(exports, '__esModule', { value: true })
 var createIcon_1 = __importDefault(require('./../createIcon'))
-exports.default = createIcon_1.default('la la-glide-g')
+exports.default = createIcon_1.default('lab la-glide-g')
 //# sourceMappingURL=GlideGIcon.js.map

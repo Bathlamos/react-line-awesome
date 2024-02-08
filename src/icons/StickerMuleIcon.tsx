@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-sticker-mule')
+export default createIcon('lab la-sticker-mule')

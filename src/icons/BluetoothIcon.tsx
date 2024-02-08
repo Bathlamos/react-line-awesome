@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-bluetooth')
+export default createIcon('lab la-bluetooth')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-erlang')
+export default createIcon('lab la-erlang')

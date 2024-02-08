@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-readme')
+export default createIcon('lab la-readme')

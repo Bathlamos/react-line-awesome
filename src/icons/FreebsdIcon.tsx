@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-freebsd')
+export default createIcon('lab la-freebsd')

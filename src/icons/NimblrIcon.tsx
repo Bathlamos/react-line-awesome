@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-nimblr')
+export default createIcon('lab la-nimblr')

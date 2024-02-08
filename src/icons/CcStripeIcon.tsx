@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-cc-stripe')
+export default createIcon('lab la-cc-stripe')

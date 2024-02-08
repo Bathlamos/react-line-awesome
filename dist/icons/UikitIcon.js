@@ -6,5 +6,5 @@ var __importDefault =
   }
 Object.defineProperty(exports, '__esModule', { value: true })
 var createIcon_1 = __importDefault(require('./../createIcon'))
-exports.default = createIcon_1.default('la la-uikit')
+exports.default = createIcon_1.default('lab la-uikit')
 //# sourceMappingURL=UikitIcon.js.map

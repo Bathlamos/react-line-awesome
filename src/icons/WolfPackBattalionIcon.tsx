@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-wolf-pack-battalion')
+export default createIcon('lab la-wolf-pack-battalion')

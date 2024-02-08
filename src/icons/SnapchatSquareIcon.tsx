@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-snapchat-square')
+export default createIcon('lab la-snapchat-square')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-blogger-b')
+export default createIcon('lab la-blogger-b')

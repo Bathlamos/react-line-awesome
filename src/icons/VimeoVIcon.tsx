@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-vimeo-v')
+export default createIcon('lab la-vimeo-v')

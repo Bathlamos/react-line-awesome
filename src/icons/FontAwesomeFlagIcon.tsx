@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-font-awesome-flag')
+export default createIcon('lab la-font-awesome-flag')

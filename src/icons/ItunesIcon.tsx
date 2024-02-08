@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-itunes')
+export default createIcon('lab la-itunes')

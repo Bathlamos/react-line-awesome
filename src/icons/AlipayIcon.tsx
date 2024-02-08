@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-alipay')
+export default createIcon('lab la-alipay')

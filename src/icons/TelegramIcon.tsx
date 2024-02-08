@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-telegram')
+export default createIcon('lab la-telegram')

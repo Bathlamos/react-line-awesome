@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-wpbeginner')
+export default createIcon('lab la-wpbeginner')

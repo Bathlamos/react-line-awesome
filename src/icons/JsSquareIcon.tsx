@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-js-square')
+export default createIcon('lab la-js-square')

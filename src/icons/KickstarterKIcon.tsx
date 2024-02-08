@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-kickstarter-k')
+export default createIcon('lab la-kickstarter-k')

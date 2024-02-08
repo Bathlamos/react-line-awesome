@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-slideshare')
+export default createIcon('lab la-slideshare')

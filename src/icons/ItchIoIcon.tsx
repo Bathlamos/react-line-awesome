@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-itch-io')
+export default createIcon('lab la-itch-io')

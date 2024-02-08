@@ -6,5 +6,5 @@ var __importDefault =
   }
 Object.defineProperty(exports, '__esModule', { value: true })
 var createIcon_1 = __importDefault(require('./../createIcon'))
-exports.default = createIcon_1.default('la la-adversal')
+exports.default = createIcon_1.default('lab la-adversal')
 //# sourceMappingURL=AdversalIcon.js.map

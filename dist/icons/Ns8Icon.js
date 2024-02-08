@@ -6,5 +6,5 @@ var __importDefault =
   }
 Object.defineProperty(exports, '__esModule', { value: true })
 var createIcon_1 = __importDefault(require('./../createIcon'))
-exports.default = createIcon_1.default('la la-ns8')
+exports.default = createIcon_1.default('lab la-ns8')
 //# sourceMappingURL=Ns8Icon.js.map

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-creative-commons-zero')
+export default createIcon('lab la-creative-commons-zero')

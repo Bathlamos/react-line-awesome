@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-airbnb')
+export default createIcon('lab la-airbnb')

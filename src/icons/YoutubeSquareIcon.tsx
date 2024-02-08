@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-youtube-square')
+export default createIcon('lab la-youtube-square')

@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-google-wallet')
+export default createIcon('lab la-google-wallet')

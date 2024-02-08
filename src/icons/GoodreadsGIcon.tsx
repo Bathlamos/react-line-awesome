@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-goodreads-g')
+export default createIcon('lab la-goodreads-g')

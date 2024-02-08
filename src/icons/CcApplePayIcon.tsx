@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-cc-apple-pay')
+export default createIcon('lab la-cc-apple-pay')

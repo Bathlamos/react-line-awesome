@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-google-play')
+export default createIcon('lab la-google-play')

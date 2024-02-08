@@ -6,5 +6,5 @@ var __importDefault =
   }
 Object.defineProperty(exports, '__esModule', { value: true })
 var createIcon_1 = __importDefault(require('./../createIcon'))
-exports.default = createIcon_1.default('la la-pinterest-square')
+exports.default = createIcon_1.default('lab la-pinterest-square')
 //# sourceMappingURL=PinterestSquareIcon.js.map

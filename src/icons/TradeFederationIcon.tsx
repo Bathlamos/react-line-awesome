@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-trade-federation')
+export default createIcon('lab la-trade-federation')

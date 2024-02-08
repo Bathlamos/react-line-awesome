@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-magento')
+export default createIcon('lab la-magento')

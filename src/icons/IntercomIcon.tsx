@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-intercom')
+export default createIcon('lab la-intercom')

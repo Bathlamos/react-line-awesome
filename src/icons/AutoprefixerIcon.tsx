@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-autoprefixer')
+export default createIcon('lab la-autoprefixer')

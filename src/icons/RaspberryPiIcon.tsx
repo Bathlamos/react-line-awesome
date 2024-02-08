@@ -1,3 +1,3 @@
 import createIcon from './../createIcon'
 
-export default createIcon('la la-raspberry-pi')
+export default createIcon('lab la-raspberry-pi')
