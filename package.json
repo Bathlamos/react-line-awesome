@@ -11,8 +11,8 @@
   "license": "MIT",
   "homepage": "https://github.com/Bathlamos/react-line-awesome",
   "author": "Philippe Legault <philippe@legault.cc> (https://legault.cc)",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/exports.js",
+  "types": "dist/exports.d.ts",
   "peerDependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"

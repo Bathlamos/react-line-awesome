@@ -42,17 +42,13 @@ Alternatively, you can link to the Line Awesome stylesheet hosted on your server
 var React = require('react')
 import { ThumbsUpIcon } from 'react-line-awesome'
 
-function MinimalExample(props) {
-  return <ThumbsUpIcon />
-}
+const MinimalExample = () => <ThumbsUpIcon />
 
-function LongerExample(props) {
-  return (
-    <ThumbsUpIcon className="custom-class" component="span" style={{ color: 'blue' }}>
-      <span>I am a child!</span>
-    </ThumbsUpIcon>
-  )
-}
+const LongerExample = () => (
+  <ThumbsUpIcon size="2x" variant="solid" className="..." component="span" style={{ color: 'blue' }}>
+    <span>I am a child!</span>
+  </ThumbsUpIcon>
+)
 ```
 
 **See [the list of all icons available](https://icons8.com/line-awesome)**
