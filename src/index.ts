@@ -1,5 +1,7 @@
 import createFontIcon from './createFontIcon'
 
+export { IconProps } from './createFontIcon'
+
 export const FiveHundredPxIcon = createFontIcon('la-500px', 'lab')
 export const AccessibleIconIcon = createFontIcon('la-accessible-icon', 'lab')
 export const AccusoftIcon = createFontIcon('la-accusoft', 'lab')

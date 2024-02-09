@@ -36,7 +36,7 @@ program
     // Write index.d.ts
     fs.writeFileSync(
       'src/index.ts',
-      `import createFontIcon from './createFontIcon'\n\nexport type { IconProps } from './createFontIcon'\n\n` +
+      `import createFontIcon from './createFontIcon'\n\nexport { IconProps } from './createFontIcon'\n\n` +
         iconNames
           .map(({ className, componentName }) => {
             if (!defaultVariants[className]) console.warn('Missing an default variant for', className)
