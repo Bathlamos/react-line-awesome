@@ -2,4 +2,9 @@ tsconfig.json
 scripts
 .gitignore
 .npmignore
+.husky
+.nvmrc
+.prettierrc
 tslint.json
+src/resources
+public

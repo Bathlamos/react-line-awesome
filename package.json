@@ -1,7 +1,7 @@
 {
   "name": "react-line-awesome",
   "description": "React components for Line Awesome Icons",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "keywords": [
     "react",
     "font awesome",
@@ -14,8 +14,8 @@
   "main": "dist/exports.js",
   "types": "dist/exports.d.ts",
   "peerDependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react": ">=16.8.6",
+    "react-dom": ">=16.8.6"
   },
   "devDependencies": {
     "@types/istanbul-lib-report": "^3.0.3",
