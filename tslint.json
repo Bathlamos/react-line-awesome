@@ -16,6 +16,7 @@
     "only-arrow-functions": true,
     "member-access": [true, "no-public"],
     "prefer-const": true,
+    "interface-name": false,
     "ordered-imports": [
       true,
       {

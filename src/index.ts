@@ -1,1657 +1,1659 @@
-export { default as FiveHundredPxIcon } from './icons/FiveHundredPxIcon'
-export { default as AccessibleIconIcon } from './icons/AccessibleIconIcon'
-export { default as AccusoftIcon } from './icons/AccusoftIcon'
-export { default as AcquisitionsIncorporatedIcon } from './icons/AcquisitionsIncorporatedIcon'
-export { default as AdIcon } from './icons/AdIcon'
-export { default as AddressBookIcon } from './icons/AddressBookIcon'
-export { default as AddressCardIcon } from './icons/AddressCardIcon'
-export { default as AdjustIcon } from './icons/AdjustIcon'
-export { default as AdnIcon } from './icons/AdnIcon'
-export { default as AdobeIcon } from './icons/AdobeIcon'
-export { default as AdversalIcon } from './icons/AdversalIcon'
-export { default as AffiliatethemeIcon } from './icons/AffiliatethemeIcon'
-export { default as AirFreshenerIcon } from './icons/AirFreshenerIcon'
-export { default as AirbnbIcon } from './icons/AirbnbIcon'
-export { default as AlgoliaIcon } from './icons/AlgoliaIcon'
-export { default as AlignCenterIcon } from './icons/AlignCenterIcon'
-export { default as AlignJustifyIcon } from './icons/AlignJustifyIcon'
-export { default as AlignLeftIcon } from './icons/AlignLeftIcon'
-export { default as AlignRightIcon } from './icons/AlignRightIcon'
-export { default as AlipayIcon } from './icons/AlipayIcon'
-export { default as AllergiesIcon } from './icons/AllergiesIcon'
-export { default as AmazonIcon } from './icons/AmazonIcon'
-export { default as AmazonPayIcon } from './icons/AmazonPayIcon'
-export { default as AmbulanceIcon } from './icons/AmbulanceIcon'
-export { default as AmericanSignLanguageInterpretingIcon } from './icons/AmericanSignLanguageInterpretingIcon'
-export { default as AmiliaIcon } from './icons/AmiliaIcon'
-export { default as AnchorIcon } from './icons/AnchorIcon'
-export { default as AndroidIcon } from './icons/AndroidIcon'
-export { default as AngellistIcon } from './icons/AngellistIcon'
-export { default as AngleDoubleDownIcon } from './icons/AngleDoubleDownIcon'
-export { default as AngleDoubleLeftIcon } from './icons/AngleDoubleLeftIcon'
-export { default as AngleDoubleRightIcon } from './icons/AngleDoubleRightIcon'
-export { default as AngleDoubleUpIcon } from './icons/AngleDoubleUpIcon'
-export { default as AngleDownIcon } from './icons/AngleDownIcon'
-export { default as AngleLeftIcon } from './icons/AngleLeftIcon'
-export { default as AngleRightIcon } from './icons/AngleRightIcon'
-export { default as AngleUpIcon } from './icons/AngleUpIcon'
-export { default as AngryIcon } from './icons/AngryIcon'
-export { default as AngrycreativeIcon } from './icons/AngrycreativeIcon'
-export { default as AngularIcon } from './icons/AngularIcon'
-export { default as AnkhIcon } from './icons/AnkhIcon'
-export { default as AppStoreIcon } from './icons/AppStoreIcon'
-export { default as AppStoreIosIcon } from './icons/AppStoreIosIcon'
-export { default as ApperIcon } from './icons/ApperIcon'
-export { default as AppleIcon } from './icons/AppleIcon'
-export { default as AppleAltIcon } from './icons/AppleAltIcon'
-export { default as ApplePayIcon } from './icons/ApplePayIcon'
-export { default as ArchiveIcon } from './icons/ArchiveIcon'
-export { default as ArchwayIcon } from './icons/ArchwayIcon'
-export { default as ArrowAltCircleDownIcon } from './icons/ArrowAltCircleDownIcon'
-export { default as ArrowAltCircleLeftIcon } from './icons/ArrowAltCircleLeftIcon'
-export { default as ArrowAltCircleRightIcon } from './icons/ArrowAltCircleRightIcon'
-export { default as ArrowAltCircleUpIcon } from './icons/ArrowAltCircleUpIcon'
-export { default as ArrowCircleDownIcon } from './icons/ArrowCircleDownIcon'
-export { default as ArrowCircleLeftIcon } from './icons/ArrowCircleLeftIcon'
-export { default as ArrowCircleRightIcon } from './icons/ArrowCircleRightIcon'
-export { default as ArrowCircleUpIcon } from './icons/ArrowCircleUpIcon'
-export { default as ArrowDownIcon } from './icons/ArrowDownIcon'
-export { default as ArrowLeftIcon } from './icons/ArrowLeftIcon'
-export { default as ArrowRightIcon } from './icons/ArrowRightIcon'
-export { default as ArrowUpIcon } from './icons/ArrowUpIcon'
-export { default as ArrowsAltIcon } from './icons/ArrowsAltIcon'
-export { default as ArrowsAltHIcon } from './icons/ArrowsAltHIcon'
-export { default as ArrowsAltVIcon } from './icons/ArrowsAltVIcon'
-export { default as ArtstationIcon } from './icons/ArtstationIcon'
-export { default as AssistiveListeningSystemsIcon } from './icons/AssistiveListeningSystemsIcon'
-export { default as AsteriskIcon } from './icons/AsteriskIcon'
-export { default as AsymmetrikIcon } from './icons/AsymmetrikIcon'
-export { default as AtIcon } from './icons/AtIcon'
-export { default as AtlasIcon } from './icons/AtlasIcon'
-export { default as AtlassianIcon } from './icons/AtlassianIcon'
-export { default as AtomIcon } from './icons/AtomIcon'
-export { default as AudibleIcon } from './icons/AudibleIcon'
-export { default as AudioDescriptionIcon } from './icons/AudioDescriptionIcon'
-export { default as AutoprefixerIcon } from './icons/AutoprefixerIcon'
-export { default as AvianexIcon } from './icons/AvianexIcon'
-export { default as AviatoIcon } from './icons/AviatoIcon'
-export { default as AwardIcon } from './icons/AwardIcon'
-export { default as AwsIcon } from './icons/AwsIcon'
-export { default as BabyIcon } from './icons/BabyIcon'
-export { default as BabyCarriageIcon } from './icons/BabyCarriageIcon'
-export { default as BackspaceIcon } from './icons/BackspaceIcon'
-export { default as BackwardIcon } from './icons/BackwardIcon'
-export { default as BaconIcon } from './icons/BaconIcon'
-export { default as BalanceScaleIcon } from './icons/BalanceScaleIcon'
-export { default as BalanceScaleLeftIcon } from './icons/BalanceScaleLeftIcon'
-export { default as BalanceScaleRightIcon } from './icons/BalanceScaleRightIcon'
-export { default as BanIcon } from './icons/BanIcon'
-export { default as BandAidIcon } from './icons/BandAidIcon'
-export { default as BandcampIcon } from './icons/BandcampIcon'
-export { default as BarcodeIcon } from './icons/BarcodeIcon'
-export { default as BarsIcon } from './icons/BarsIcon'
-export { default as BaseballBallIcon } from './icons/BaseballBallIcon'
-export { default as BasketballBallIcon } from './icons/BasketballBallIcon'
-export { default as BathIcon } from './icons/BathIcon'
-export { default as BatteryEmptyIcon } from './icons/BatteryEmptyIcon'
-export { default as BatteryFullIcon } from './icons/BatteryFullIcon'
-export { default as BatteryHalfIcon } from './icons/BatteryHalfIcon'
-export { default as BatteryQuarterIcon } from './icons/BatteryQuarterIcon'
-export { default as BatteryThreeQuartersIcon } from './icons/BatteryThreeQuartersIcon'
-export { default as BattleNetIcon } from './icons/BattleNetIcon'
-export { default as BedIcon } from './icons/BedIcon'
-export { default as BeerIcon } from './icons/BeerIcon'
-export { default as BehanceIcon } from './icons/BehanceIcon'
-export { default as BehanceSquareIcon } from './icons/BehanceSquareIcon'
-export { default as BellIcon } from './icons/BellIcon'
-export { default as BellSlashIcon } from './icons/BellSlashIcon'
-export { default as BezierCurveIcon } from './icons/BezierCurveIcon'
-export { default as BibleIcon } from './icons/BibleIcon'
-export { default as BicycleIcon } from './icons/BicycleIcon'
-export { default as BikingIcon } from './icons/BikingIcon'
-export { default as BimobjectIcon } from './icons/BimobjectIcon'
-export { default as BinocularsIcon } from './icons/BinocularsIcon'
-export { default as BiohazardIcon } from './icons/BiohazardIcon'
-export { default as BirthdayCakeIcon } from './icons/BirthdayCakeIcon'
-export { default as BitbucketIcon } from './icons/BitbucketIcon'
-export { default as BitcoinIcon } from './icons/BitcoinIcon'
-export { default as BityIcon } from './icons/BityIcon'
-export { default as BlackTieIcon } from './icons/BlackTieIcon'
-export { default as BlackberryIcon } from './icons/BlackberryIcon'
-export { default as BlenderIcon } from './icons/BlenderIcon'
-export { default as BlenderPhoneIcon } from './icons/BlenderPhoneIcon'
-export { default as BlindIcon } from './icons/BlindIcon'
-export { default as BlogIcon } from './icons/BlogIcon'
-export { default as BloggerIcon } from './icons/BloggerIcon'
-export { default as BloggerBIcon } from './icons/BloggerBIcon'
-export { default as BluetoothIcon } from './icons/BluetoothIcon'
-export { default as BluetoothBIcon } from './icons/BluetoothBIcon'
-export { default as BoldIcon } from './icons/BoldIcon'
-export { default as BoltIcon } from './icons/BoltIcon'
-export { default as BombIcon } from './icons/BombIcon'
-export { default as BoneIcon } from './icons/BoneIcon'
-export { default as BongIcon } from './icons/BongIcon'
-export { default as BookIcon } from './icons/BookIcon'
-export { default as BookDeadIcon } from './icons/BookDeadIcon'
-export { default as BookMedicalIcon } from './icons/BookMedicalIcon'
-export { default as BookOpenIcon } from './icons/BookOpenIcon'
-export { default as BookReaderIcon } from './icons/BookReaderIcon'
-export { default as BookmarkIcon } from './icons/BookmarkIcon'
-export { default as BootstrapIcon } from './icons/BootstrapIcon'
-export { default as BorderAllIcon } from './icons/BorderAllIcon'
-export { default as BorderNoneIcon } from './icons/BorderNoneIcon'
-export { default as BorderStyleIcon } from './icons/BorderStyleIcon'
-export { default as BowlingBallIcon } from './icons/BowlingBallIcon'
-export { default as BoxIcon } from './icons/BoxIcon'
-export { default as BoxOpenIcon } from './icons/BoxOpenIcon'
-export { default as BoxesIcon } from './icons/BoxesIcon'
-export { default as BrailleIcon } from './icons/BrailleIcon'
-export { default as BrainIcon } from './icons/BrainIcon'
-export { default as BreadSliceIcon } from './icons/BreadSliceIcon'
-export { default as BriefcaseIcon } from './icons/BriefcaseIcon'
-export { default as BriefcaseMedicalIcon } from './icons/BriefcaseMedicalIcon'
-export { default as BroadcastTowerIcon } from './icons/BroadcastTowerIcon'
-export { default as BroomIcon } from './icons/BroomIcon'
-export { default as BrushIcon } from './icons/BrushIcon'
-export { default as BtcIcon } from './icons/BtcIcon'
-export { default as BufferIcon } from './icons/BufferIcon'
-export { default as BugIcon } from './icons/BugIcon'
-export { default as BuildingIcon } from './icons/BuildingIcon'
-export { default as BullhornIcon } from './icons/BullhornIcon'
-export { default as BullseyeIcon } from './icons/BullseyeIcon'
-export { default as BurnIcon } from './icons/BurnIcon'
-export { default as BuromobelexperteIcon } from './icons/BuromobelexperteIcon'
-export { default as BusIcon } from './icons/BusIcon'
-export { default as BusAltIcon } from './icons/BusAltIcon'
-export { default as BusinessTimeIcon } from './icons/BusinessTimeIcon'
-export { default as BuyNLargeIcon } from './icons/BuyNLargeIcon'
-export { default as BuyselladsIcon } from './icons/BuyselladsIcon'
-export { default as CalculatorIcon } from './icons/CalculatorIcon'
-export { default as CalendarIcon } from './icons/CalendarIcon'
-export { default as CalendarAltIcon } from './icons/CalendarAltIcon'
-export { default as CalendarCheckIcon } from './icons/CalendarCheckIcon'
-export { default as CalendarDayIcon } from './icons/CalendarDayIcon'
-export { default as CalendarMinusIcon } from './icons/CalendarMinusIcon'
-export { default as CalendarPlusIcon } from './icons/CalendarPlusIcon'
-export { default as CalendarTimesIcon } from './icons/CalendarTimesIcon'
-export { default as CalendarWeekIcon } from './icons/CalendarWeekIcon'
-export { default as CameraIcon } from './icons/CameraIcon'
-export { default as CameraRetroIcon } from './icons/CameraRetroIcon'
-export { default as CampgroundIcon } from './icons/CampgroundIcon'
-export { default as CanadianMapleLeafIcon } from './icons/CanadianMapleLeafIcon'
-export { default as CandyCaneIcon } from './icons/CandyCaneIcon'
-export { default as CannabisIcon } from './icons/CannabisIcon'
-export { default as CapsulesIcon } from './icons/CapsulesIcon'
-export { default as CarIcon } from './icons/CarIcon'
-export { default as CarAltIcon } from './icons/CarAltIcon'
-export { default as CarBatteryIcon } from './icons/CarBatteryIcon'
-export { default as CarCrashIcon } from './icons/CarCrashIcon'
-export { default as CarSideIcon } from './icons/CarSideIcon'
-export { default as CaretDownIcon } from './icons/CaretDownIcon'
-export { default as CaretLeftIcon } from './icons/CaretLeftIcon'
-export { default as CaretRightIcon } from './icons/CaretRightIcon'
-export { default as CaretSquareDownIcon } from './icons/CaretSquareDownIcon'
-export { default as CaretSquareLeftIcon } from './icons/CaretSquareLeftIcon'
-export { default as CaretSquareRightIcon } from './icons/CaretSquareRightIcon'
-export { default as CaretSquareUpIcon } from './icons/CaretSquareUpIcon'
-export { default as CaretUpIcon } from './icons/CaretUpIcon'
-export { default as CarrotIcon } from './icons/CarrotIcon'
-export { default as CartArrowDownIcon } from './icons/CartArrowDownIcon'
-export { default as CartPlusIcon } from './icons/CartPlusIcon'
-export { default as CashRegisterIcon } from './icons/CashRegisterIcon'
-export { default as CatIcon } from './icons/CatIcon'
-export { default as CcAmazonPayIcon } from './icons/CcAmazonPayIcon'
-export { default as CcAmexIcon } from './icons/CcAmexIcon'
-export { default as CcApplePayIcon } from './icons/CcApplePayIcon'
-export { default as CcDinersClubIcon } from './icons/CcDinersClubIcon'
-export { default as CcDiscoverIcon } from './icons/CcDiscoverIcon'
-export { default as CcJcbIcon } from './icons/CcJcbIcon'
-export { default as CcMastercardIcon } from './icons/CcMastercardIcon'
-export { default as CcPaypalIcon } from './icons/CcPaypalIcon'
-export { default as CcStripeIcon } from './icons/CcStripeIcon'
-export { default as CcVisaIcon } from './icons/CcVisaIcon'
-export { default as CentercodeIcon } from './icons/CentercodeIcon'
-export { default as CentosIcon } from './icons/CentosIcon'
-export { default as CertificateIcon } from './icons/CertificateIcon'
-export { default as ChairIcon } from './icons/ChairIcon'
-export { default as ChalkboardIcon } from './icons/ChalkboardIcon'
-export { default as ChalkboardTeacherIcon } from './icons/ChalkboardTeacherIcon'
-export { default as ChargingStationIcon } from './icons/ChargingStationIcon'
-export { default as ChartAreaIcon } from './icons/ChartAreaIcon'
-export { default as ChartBarIcon } from './icons/ChartBarIcon'
-export { default as ChartLineIcon } from './icons/ChartLineIcon'
-export { default as ChartPieIcon } from './icons/ChartPieIcon'
-export { default as CheckIcon } from './icons/CheckIcon'
-export { default as CheckCircleIcon } from './icons/CheckCircleIcon'
-export { default as CheckDoubleIcon } from './icons/CheckDoubleIcon'
-export { default as CheckSquareIcon } from './icons/CheckSquareIcon'
-export { default as CheeseIcon } from './icons/CheeseIcon'
-export { default as ChessIcon } from './icons/ChessIcon'
-export { default as ChessBishopIcon } from './icons/ChessBishopIcon'
-export { default as ChessBoardIcon } from './icons/ChessBoardIcon'
-export { default as ChessKingIcon } from './icons/ChessKingIcon'
-export { default as ChessKnightIcon } from './icons/ChessKnightIcon'
-export { default as ChessPawnIcon } from './icons/ChessPawnIcon'
-export { default as ChessQueenIcon } from './icons/ChessQueenIcon'
-export { default as ChessRookIcon } from './icons/ChessRookIcon'
-export { default as ChevronCircleDownIcon } from './icons/ChevronCircleDownIcon'
-export { default as ChevronCircleLeftIcon } from './icons/ChevronCircleLeftIcon'
-export { default as ChevronCircleRightIcon } from './icons/ChevronCircleRightIcon'
-export { default as ChevronCircleUpIcon } from './icons/ChevronCircleUpIcon'
-export { default as ChevronDownIcon } from './icons/ChevronDownIcon'
-export { default as ChevronLeftIcon } from './icons/ChevronLeftIcon'
-export { default as ChevronRightIcon } from './icons/ChevronRightIcon'
-export { default as ChevronUpIcon } from './icons/ChevronUpIcon'
-export { default as ChildIcon } from './icons/ChildIcon'
-export { default as ChromeIcon } from './icons/ChromeIcon'
-export { default as ChromecastIcon } from './icons/ChromecastIcon'
-export { default as ChurchIcon } from './icons/ChurchIcon'
-export { default as CircleIcon } from './icons/CircleIcon'
-export { default as CircleNotchIcon } from './icons/CircleNotchIcon'
-export { default as CityIcon } from './icons/CityIcon'
-export { default as ClinicMedicalIcon } from './icons/ClinicMedicalIcon'
-export { default as ClipboardIcon } from './icons/ClipboardIcon'
-export { default as ClipboardCheckIcon } from './icons/ClipboardCheckIcon'
-export { default as ClipboardListIcon } from './icons/ClipboardListIcon'
-export { default as ClockIcon } from './icons/ClockIcon'
-export { default as CloneIcon } from './icons/CloneIcon'
-export { default as ClosedCaptioningIcon } from './icons/ClosedCaptioningIcon'
-export { default as CloudIcon } from './icons/CloudIcon'
-export { default as CloudDownloadAltIcon } from './icons/CloudDownloadAltIcon'
-export { default as CloudMeatballIcon } from './icons/CloudMeatballIcon'
-export { default as CloudMoonIcon } from './icons/CloudMoonIcon'
-export { default as CloudMoonRainIcon } from './icons/CloudMoonRainIcon'
-export { default as CloudRainIcon } from './icons/CloudRainIcon'
-export { default as CloudShowersHeavyIcon } from './icons/CloudShowersHeavyIcon'
-export { default as CloudSunIcon } from './icons/CloudSunIcon'
-export { default as CloudSunRainIcon } from './icons/CloudSunRainIcon'
-export { default as CloudUploadAltIcon } from './icons/CloudUploadAltIcon'
-export { default as CloudscaleIcon } from './icons/CloudscaleIcon'
-export { default as CloudsmithIcon } from './icons/CloudsmithIcon'
-export { default as CloudversifyIcon } from './icons/CloudversifyIcon'
-export { default as CocktailIcon } from './icons/CocktailIcon'
-export { default as CodeIcon } from './icons/CodeIcon'
-export { default as CodeBranchIcon } from './icons/CodeBranchIcon'
-export { default as CodepenIcon } from './icons/CodepenIcon'
-export { default as CodiepieIcon } from './icons/CodiepieIcon'
-export { default as CoffeeIcon } from './icons/CoffeeIcon'
-export { default as CogIcon } from './icons/CogIcon'
-export { default as CogsIcon } from './icons/CogsIcon'
-export { default as CoinsIcon } from './icons/CoinsIcon'
-export { default as ColumnsIcon } from './icons/ColumnsIcon'
-export { default as CommentIcon } from './icons/CommentIcon'
-export { default as CommentAltIcon } from './icons/CommentAltIcon'
-export { default as CommentDollarIcon } from './icons/CommentDollarIcon'
-export { default as CommentDotsIcon } from './icons/CommentDotsIcon'
-export { default as CommentMedicalIcon } from './icons/CommentMedicalIcon'
-export { default as CommentSlashIcon } from './icons/CommentSlashIcon'
-export { default as CommentsIcon } from './icons/CommentsIcon'
-export { default as CommentsDollarIcon } from './icons/CommentsDollarIcon'
-export { default as CompactDiscIcon } from './icons/CompactDiscIcon'
-export { default as CompassIcon } from './icons/CompassIcon'
-export { default as CompressIcon } from './icons/CompressIcon'
-export { default as CompressArrowsAltIcon } from './icons/CompressArrowsAltIcon'
-export { default as ConciergeBellIcon } from './icons/ConciergeBellIcon'
-export { default as ConfluenceIcon } from './icons/ConfluenceIcon'
-export { default as ConnectdevelopIcon } from './icons/ConnectdevelopIcon'
-export { default as ContaoIcon } from './icons/ContaoIcon'
-export { default as CookieIcon } from './icons/CookieIcon'
-export { default as CookieBiteIcon } from './icons/CookieBiteIcon'
-export { default as CopyIcon } from './icons/CopyIcon'
-export { default as CopyrightIcon } from './icons/CopyrightIcon'
-export { default as CottonBureauIcon } from './icons/CottonBureauIcon'
-export { default as CouchIcon } from './icons/CouchIcon'
-export { default as CpanelIcon } from './icons/CpanelIcon'
-export { default as CreativeCommonsIcon } from './icons/CreativeCommonsIcon'
-export { default as CreativeCommonsByIcon } from './icons/CreativeCommonsByIcon'
-export { default as CreativeCommonsNcIcon } from './icons/CreativeCommonsNcIcon'
-export { default as CreativeCommonsNcEuIcon } from './icons/CreativeCommonsNcEuIcon'
-export { default as CreativeCommonsNcJpIcon } from './icons/CreativeCommonsNcJpIcon'
-export { default as CreativeCommonsNdIcon } from './icons/CreativeCommonsNdIcon'
-export { default as CreativeCommonsPdIcon } from './icons/CreativeCommonsPdIcon'
-export { default as CreativeCommonsPdAltIcon } from './icons/CreativeCommonsPdAltIcon'
-export { default as CreativeCommonsRemixIcon } from './icons/CreativeCommonsRemixIcon'
-export { default as CreativeCommonsSaIcon } from './icons/CreativeCommonsSaIcon'
-export { default as CreativeCommonsSamplingIcon } from './icons/CreativeCommonsSamplingIcon'
-export { default as CreativeCommonsSamplingPlusIcon } from './icons/CreativeCommonsSamplingPlusIcon'
-export { default as CreativeCommonsShareIcon } from './icons/CreativeCommonsShareIcon'
-export { default as CreativeCommonsZeroIcon } from './icons/CreativeCommonsZeroIcon'
-export { default as CreditCardIcon } from './icons/CreditCardIcon'
-export { default as CriticalRoleIcon } from './icons/CriticalRoleIcon'
-export { default as CropIcon } from './icons/CropIcon'
-export { default as CropAltIcon } from './icons/CropAltIcon'
-export { default as CrossIcon } from './icons/CrossIcon'
-export { default as CrosshairsIcon } from './icons/CrosshairsIcon'
-export { default as CrowIcon } from './icons/CrowIcon'
-export { default as CrownIcon } from './icons/CrownIcon'
-export { default as CrutchIcon } from './icons/CrutchIcon'
-export { default as Css3Icon } from './icons/Css3Icon'
-export { default as Css3AltIcon } from './icons/Css3AltIcon'
-export { default as CubeIcon } from './icons/CubeIcon'
-export { default as CubesIcon } from './icons/CubesIcon'
-export { default as CutIcon } from './icons/CutIcon'
-export { default as CuttlefishIcon } from './icons/CuttlefishIcon'
-export { default as DAndDIcon } from './icons/DAndDIcon'
-export { default as DAndDBeyondIcon } from './icons/DAndDBeyondIcon'
-export { default as DashcubeIcon } from './icons/DashcubeIcon'
-export { default as DatabaseIcon } from './icons/DatabaseIcon'
-export { default as DeafIcon } from './icons/DeafIcon'
-export { default as DeliciousIcon } from './icons/DeliciousIcon'
-export { default as DemocratIcon } from './icons/DemocratIcon'
-export { default as DeploydogIcon } from './icons/DeploydogIcon'
-export { default as DeskproIcon } from './icons/DeskproIcon'
-export { default as DesktopIcon } from './icons/DesktopIcon'
-export { default as DevIcon } from './icons/DevIcon'
-export { default as DeviantartIcon } from './icons/DeviantartIcon'
-export { default as DharmachakraIcon } from './icons/DharmachakraIcon'
-export { default as DhlIcon } from './icons/DhlIcon'
-export { default as DiagnosesIcon } from './icons/DiagnosesIcon'
-export { default as DiasporaIcon } from './icons/DiasporaIcon'
-export { default as DiceIcon } from './icons/DiceIcon'
-export { default as DiceD20Icon } from './icons/DiceD20Icon'
-export { default as DiceD6Icon } from './icons/DiceD6Icon'
-export { default as DiceFiveIcon } from './icons/DiceFiveIcon'
-export { default as DiceFourIcon } from './icons/DiceFourIcon'
-export { default as DiceOneIcon } from './icons/DiceOneIcon'
-export { default as DiceSixIcon } from './icons/DiceSixIcon'
-export { default as DiceThreeIcon } from './icons/DiceThreeIcon'
-export { default as DiceTwoIcon } from './icons/DiceTwoIcon'
-export { default as DiggIcon } from './icons/DiggIcon'
-export { default as DigitalOceanIcon } from './icons/DigitalOceanIcon'
-export { default as DigitalTachographIcon } from './icons/DigitalTachographIcon'
-export { default as DirectionsIcon } from './icons/DirectionsIcon'
-export { default as DiscordIcon } from './icons/DiscordIcon'
-export { default as DiscourseIcon } from './icons/DiscourseIcon'
-export { default as DivideIcon } from './icons/DivideIcon'
-export { default as DizzyIcon } from './icons/DizzyIcon'
-export { default as DnaIcon } from './icons/DnaIcon'
-export { default as DochubIcon } from './icons/DochubIcon'
-export { default as DockerIcon } from './icons/DockerIcon'
-export { default as DogIcon } from './icons/DogIcon'
-export { default as DollarSignIcon } from './icons/DollarSignIcon'
-export { default as DollyIcon } from './icons/DollyIcon'
-export { default as DollyFlatbedIcon } from './icons/DollyFlatbedIcon'
-export { default as DonateIcon } from './icons/DonateIcon'
-export { default as DoorClosedIcon } from './icons/DoorClosedIcon'
-export { default as DoorOpenIcon } from './icons/DoorOpenIcon'
-export { default as DotCircleIcon } from './icons/DotCircleIcon'
-export { default as DoveIcon } from './icons/DoveIcon'
-export { default as DownloadIcon } from './icons/DownloadIcon'
-export { default as Draft2digitalIcon } from './icons/Draft2digitalIcon'
-export { default as DraftingCompassIcon } from './icons/DraftingCompassIcon'
-export { default as DragonIcon } from './icons/DragonIcon'
-export { default as DrawPolygonIcon } from './icons/DrawPolygonIcon'
-export { default as DribbbleIcon } from './icons/DribbbleIcon'
-export { default as DribbbleSquareIcon } from './icons/DribbbleSquareIcon'
-export { default as DropboxIcon } from './icons/DropboxIcon'
-export { default as DrumIcon } from './icons/DrumIcon'
-export { default as DrumSteelpanIcon } from './icons/DrumSteelpanIcon'
-export { default as DrumstickBiteIcon } from './icons/DrumstickBiteIcon'
-export { default as DrupalIcon } from './icons/DrupalIcon'
-export { default as DumbbellIcon } from './icons/DumbbellIcon'
-export { default as DumpsterIcon } from './icons/DumpsterIcon'
-export { default as DumpsterFireIcon } from './icons/DumpsterFireIcon'
-export { default as DungeonIcon } from './icons/DungeonIcon'
-export { default as DyalogIcon } from './icons/DyalogIcon'
-export { default as EarlybirdsIcon } from './icons/EarlybirdsIcon'
-export { default as EbayIcon } from './icons/EbayIcon'
-export { default as EdgeIcon } from './icons/EdgeIcon'
-export { default as EditIcon } from './icons/EditIcon'
-export { default as EggIcon } from './icons/EggIcon'
-export { default as EjectIcon } from './icons/EjectIcon'
-export { default as ElementorIcon } from './icons/ElementorIcon'
-export { default as EllipsisHIcon } from './icons/EllipsisHIcon'
-export { default as EllipsisVIcon } from './icons/EllipsisVIcon'
-export { default as ElloIcon } from './icons/ElloIcon'
-export { default as EmberIcon } from './icons/EmberIcon'
-export { default as EmpireIcon } from './icons/EmpireIcon'
-export { default as EnvelopeIcon } from './icons/EnvelopeIcon'
-export { default as EnvelopeOpenIcon } from './icons/EnvelopeOpenIcon'
-export { default as EnvelopeOpenTextIcon } from './icons/EnvelopeOpenTextIcon'
-export { default as EnvelopeSquareIcon } from './icons/EnvelopeSquareIcon'
-export { default as EnviraIcon } from './icons/EnviraIcon'
-export { default as EqualsIcon } from './icons/EqualsIcon'
-export { default as EraserIcon } from './icons/EraserIcon'
-export { default as ErlangIcon } from './icons/ErlangIcon'
-export { default as EthereumIcon } from './icons/EthereumIcon'
-export { default as EthernetIcon } from './icons/EthernetIcon'
-export { default as EtsyIcon } from './icons/EtsyIcon'
-export { default as EuroSignIcon } from './icons/EuroSignIcon'
-export { default as EvernoteIcon } from './icons/EvernoteIcon'
-export { default as ExchangeAltIcon } from './icons/ExchangeAltIcon'
-export { default as ExclamationIcon } from './icons/ExclamationIcon'
-export { default as ExclamationCircleIcon } from './icons/ExclamationCircleIcon'
-export { default as ExclamationTriangleIcon } from './icons/ExclamationTriangleIcon'
-export { default as ExpandIcon } from './icons/ExpandIcon'
-export { default as ExpandArrowsAltIcon } from './icons/ExpandArrowsAltIcon'
-export { default as ExpeditedsslIcon } from './icons/ExpeditedsslIcon'
-export { default as ExternalLinkAltIcon } from './icons/ExternalLinkAltIcon'
-export { default as ExternalLinkSquareAltIcon } from './icons/ExternalLinkSquareAltIcon'
-export { default as EyeIcon } from './icons/EyeIcon'
-export { default as EyeDropperIcon } from './icons/EyeDropperIcon'
-export { default as EyeSlashIcon } from './icons/EyeSlashIcon'
-export { default as FacebookIcon } from './icons/FacebookIcon'
-export { default as FacebookFIcon } from './icons/FacebookFIcon'
-export { default as FacebookMessengerIcon } from './icons/FacebookMessengerIcon'
-export { default as FacebookSquareIcon } from './icons/FacebookSquareIcon'
-export { default as FanIcon } from './icons/FanIcon'
-export { default as FantasyFlightGamesIcon } from './icons/FantasyFlightGamesIcon'
-export { default as FastBackwardIcon } from './icons/FastBackwardIcon'
-export { default as FastForwardIcon } from './icons/FastForwardIcon'
-export { default as FaxIcon } from './icons/FaxIcon'
-export { default as FeatherIcon } from './icons/FeatherIcon'
-export { default as FeatherAltIcon } from './icons/FeatherAltIcon'
-export { default as FedexIcon } from './icons/FedexIcon'
-export { default as FedoraIcon } from './icons/FedoraIcon'
-export { default as FemaleIcon } from './icons/FemaleIcon'
-export { default as FighterJetIcon } from './icons/FighterJetIcon'
-export { default as FigmaIcon } from './icons/FigmaIcon'
-export { default as FileIcon } from './icons/FileIcon'
-export { default as FileAltIcon } from './icons/FileAltIcon'
-export { default as FileArchiveIcon } from './icons/FileArchiveIcon'
-export { default as FileAudioIcon } from './icons/FileAudioIcon'
-export { default as FileCodeIcon } from './icons/FileCodeIcon'
-export { default as FileContractIcon } from './icons/FileContractIcon'
-export { default as FileCsvIcon } from './icons/FileCsvIcon'
-export { default as FileDownloadIcon } from './icons/FileDownloadIcon'
-export { default as FileExcelIcon } from './icons/FileExcelIcon'
-export { default as FileExportIcon } from './icons/FileExportIcon'
-export { default as FileImageIcon } from './icons/FileImageIcon'
-export { default as FileImportIcon } from './icons/FileImportIcon'
-export { default as FileInvoiceIcon } from './icons/FileInvoiceIcon'
-export { default as FileInvoiceDollarIcon } from './icons/FileInvoiceDollarIcon'
-export { default as FileMedicalIcon } from './icons/FileMedicalIcon'
-export { default as FileMedicalAltIcon } from './icons/FileMedicalAltIcon'
-export { default as FilePdfIcon } from './icons/FilePdfIcon'
-export { default as FilePowerpointIcon } from './icons/FilePowerpointIcon'
-export { default as FilePrescriptionIcon } from './icons/FilePrescriptionIcon'
-export { default as FileSignatureIcon } from './icons/FileSignatureIcon'
-export { default as FileUploadIcon } from './icons/FileUploadIcon'
-export { default as FileVideoIcon } from './icons/FileVideoIcon'
-export { default as FileWordIcon } from './icons/FileWordIcon'
-export { default as FillIcon } from './icons/FillIcon'
-export { default as FillDripIcon } from './icons/FillDripIcon'
-export { default as FilmIcon } from './icons/FilmIcon'
-export { default as FilterIcon } from './icons/FilterIcon'
-export { default as FingerprintIcon } from './icons/FingerprintIcon'
-export { default as FireIcon } from './icons/FireIcon'
-export { default as FireAltIcon } from './icons/FireAltIcon'
-export { default as FireExtinguisherIcon } from './icons/FireExtinguisherIcon'
-export { default as FirefoxIcon } from './icons/FirefoxIcon'
-export { default as FirstAidIcon } from './icons/FirstAidIcon'
-export { default as FirstOrderIcon } from './icons/FirstOrderIcon'
-export { default as FirstOrderAltIcon } from './icons/FirstOrderAltIcon'
-export { default as FirstdraftIcon } from './icons/FirstdraftIcon'
-export { default as FishIcon } from './icons/FishIcon'
-export { default as FistRaisedIcon } from './icons/FistRaisedIcon'
-export { default as FlagIcon } from './icons/FlagIcon'
-export { default as FlagCheckeredIcon } from './icons/FlagCheckeredIcon'
-export { default as FlagUsaIcon } from './icons/FlagUsaIcon'
-export { default as FlaskIcon } from './icons/FlaskIcon'
-export { default as FlickrIcon } from './icons/FlickrIcon'
-export { default as FlipboardIcon } from './icons/FlipboardIcon'
-export { default as FlushedIcon } from './icons/FlushedIcon'
-export { default as FlyIcon } from './icons/FlyIcon'
-export { default as FolderIcon } from './icons/FolderIcon'
-export { default as FolderMinusIcon } from './icons/FolderMinusIcon'
-export { default as FolderOpenIcon } from './icons/FolderOpenIcon'
-export { default as FolderPlusIcon } from './icons/FolderPlusIcon'
-export { default as FontIcon } from './icons/FontIcon'
-export { default as FontAwesomeIcon } from './icons/FontAwesomeIcon'
-export { default as FontAwesomeAltIcon } from './icons/FontAwesomeAltIcon'
-export { default as FontAwesomeFlagIcon } from './icons/FontAwesomeFlagIcon'
-export { default as FontAwesomeLogoFullIcon } from './icons/FontAwesomeLogoFullIcon'
-export { default as FonticonsIcon } from './icons/FonticonsIcon'
-export { default as FonticonsFiIcon } from './icons/FonticonsFiIcon'
-export { default as FootballBallIcon } from './icons/FootballBallIcon'
-export { default as FortAwesomeIcon } from './icons/FortAwesomeIcon'
-export { default as FortAwesomeAltIcon } from './icons/FortAwesomeAltIcon'
-export { default as ForumbeeIcon } from './icons/ForumbeeIcon'
-export { default as ForwardIcon } from './icons/ForwardIcon'
-export { default as FoursquareIcon } from './icons/FoursquareIcon'
-export { default as FreeCodeCampIcon } from './icons/FreeCodeCampIcon'
-export { default as FreebsdIcon } from './icons/FreebsdIcon'
-export { default as FrogIcon } from './icons/FrogIcon'
-export { default as FrownIcon } from './icons/FrownIcon'
-export { default as FrownOpenIcon } from './icons/FrownOpenIcon'
-export { default as FulcrumIcon } from './icons/FulcrumIcon'
-export { default as FunnelDollarIcon } from './icons/FunnelDollarIcon'
-export { default as FutbolIcon } from './icons/FutbolIcon'
-export { default as GalacticRepublicIcon } from './icons/GalacticRepublicIcon'
-export { default as GalacticSenateIcon } from './icons/GalacticSenateIcon'
-export { default as GamepadIcon } from './icons/GamepadIcon'
-export { default as GasPumpIcon } from './icons/GasPumpIcon'
-export { default as GavelIcon } from './icons/GavelIcon'
-export { default as GemIcon } from './icons/GemIcon'
-export { default as GenderlessIcon } from './icons/GenderlessIcon'
-export { default as GetPocketIcon } from './icons/GetPocketIcon'
-export { default as GgIcon } from './icons/GgIcon'
-export { default as GgCircleIcon } from './icons/GgCircleIcon'
-export { default as GhostIcon } from './icons/GhostIcon'
-export { default as GiftIcon } from './icons/GiftIcon'
-export { default as GiftsIcon } from './icons/GiftsIcon'
-export { default as GitIcon } from './icons/GitIcon'
-export { default as GitAltIcon } from './icons/GitAltIcon'
-export { default as GitSquareIcon } from './icons/GitSquareIcon'
-export { default as GithubIcon } from './icons/GithubIcon'
-export { default as GithubAltIcon } from './icons/GithubAltIcon'
-export { default as GithubSquareIcon } from './icons/GithubSquareIcon'
-export { default as GitkrakenIcon } from './icons/GitkrakenIcon'
-export { default as GitlabIcon } from './icons/GitlabIcon'
-export { default as GitterIcon } from './icons/GitterIcon'
-export { default as GlassCheersIcon } from './icons/GlassCheersIcon'
-export { default as GlassMartiniIcon } from './icons/GlassMartiniIcon'
-export { default as GlassMartiniAltIcon } from './icons/GlassMartiniAltIcon'
-export { default as GlassWhiskeyIcon } from './icons/GlassWhiskeyIcon'
-export { default as GlassesIcon } from './icons/GlassesIcon'
-export { default as GlideIcon } from './icons/GlideIcon'
-export { default as GlideGIcon } from './icons/GlideGIcon'
-export { default as GlobeIcon } from './icons/GlobeIcon'
-export { default as GlobeAfricaIcon } from './icons/GlobeAfricaIcon'
-export { default as GlobeAmericasIcon } from './icons/GlobeAmericasIcon'
-export { default as GlobeAsiaIcon } from './icons/GlobeAsiaIcon'
-export { default as GlobeEuropeIcon } from './icons/GlobeEuropeIcon'
-export { default as GoforeIcon } from './icons/GoforeIcon'
-export { default as GolfBallIcon } from './icons/GolfBallIcon'
-export { default as GoodreadsIcon } from './icons/GoodreadsIcon'
-export { default as GoodreadsGIcon } from './icons/GoodreadsGIcon'
-export { default as GoogleIcon } from './icons/GoogleIcon'
-export { default as GoogleDriveIcon } from './icons/GoogleDriveIcon'
-export { default as GooglePlayIcon } from './icons/GooglePlayIcon'
-export { default as GooglePlusIcon } from './icons/GooglePlusIcon'
-export { default as GooglePlusGIcon } from './icons/GooglePlusGIcon'
-export { default as GooglePlusSquareIcon } from './icons/GooglePlusSquareIcon'
-export { default as GoogleWalletIcon } from './icons/GoogleWalletIcon'
-export { default as GopuramIcon } from './icons/GopuramIcon'
-export { default as GraduationCapIcon } from './icons/GraduationCapIcon'
-export { default as GratipayIcon } from './icons/GratipayIcon'
-export { default as GravIcon } from './icons/GravIcon'
-export { default as GreaterThanIcon } from './icons/GreaterThanIcon'
-export { default as GreaterThanEqualIcon } from './icons/GreaterThanEqualIcon'
-export { default as GrimaceIcon } from './icons/GrimaceIcon'
-export { default as GrinIcon } from './icons/GrinIcon'
-export { default as GrinAltIcon } from './icons/GrinAltIcon'
-export { default as GrinBeamIcon } from './icons/GrinBeamIcon'
-export { default as GrinBeamSweatIcon } from './icons/GrinBeamSweatIcon'
-export { default as GrinHeartsIcon } from './icons/GrinHeartsIcon'
-export { default as GrinSquintIcon } from './icons/GrinSquintIcon'
-export { default as GrinSquintTearsIcon } from './icons/GrinSquintTearsIcon'
-export { default as GrinStarsIcon } from './icons/GrinStarsIcon'
-export { default as GrinTearsIcon } from './icons/GrinTearsIcon'
-export { default as GrinTongueIcon } from './icons/GrinTongueIcon'
-export { default as GrinTongueSquintIcon } from './icons/GrinTongueSquintIcon'
-export { default as GrinTongueWinkIcon } from './icons/GrinTongueWinkIcon'
-export { default as GrinWinkIcon } from './icons/GrinWinkIcon'
-export { default as GripHorizontalIcon } from './icons/GripHorizontalIcon'
-export { default as GripLinesIcon } from './icons/GripLinesIcon'
-export { default as GripLinesVerticalIcon } from './icons/GripLinesVerticalIcon'
-export { default as GripVerticalIcon } from './icons/GripVerticalIcon'
-export { default as GripfireIcon } from './icons/GripfireIcon'
-export { default as GruntIcon } from './icons/GruntIcon'
-export { default as GuitarIcon } from './icons/GuitarIcon'
-export { default as GulpIcon } from './icons/GulpIcon'
-export { default as HSquareIcon } from './icons/HSquareIcon'
-export { default as HackerNewsIcon } from './icons/HackerNewsIcon'
-export { default as HackerNewsSquareIcon } from './icons/HackerNewsSquareIcon'
-export { default as HackerrankIcon } from './icons/HackerrankIcon'
-export { default as HamburgerIcon } from './icons/HamburgerIcon'
-export { default as HammerIcon } from './icons/HammerIcon'
-export { default as HamsaIcon } from './icons/HamsaIcon'
-export { default as HandHoldingIcon } from './icons/HandHoldingIcon'
-export { default as HandHoldingHeartIcon } from './icons/HandHoldingHeartIcon'
-export { default as HandHoldingUsdIcon } from './icons/HandHoldingUsdIcon'
-export { default as HandLizardIcon } from './icons/HandLizardIcon'
-export { default as HandMiddleFingerIcon } from './icons/HandMiddleFingerIcon'
-export { default as HandPaperIcon } from './icons/HandPaperIcon'
-export { default as HandPeaceIcon } from './icons/HandPeaceIcon'
-export { default as HandPointDownIcon } from './icons/HandPointDownIcon'
-export { default as HandPointLeftIcon } from './icons/HandPointLeftIcon'
-export { default as HandPointRightIcon } from './icons/HandPointRightIcon'
-export { default as HandPointUpIcon } from './icons/HandPointUpIcon'
-export { default as HandPointerIcon } from './icons/HandPointerIcon'
-export { default as HandRockIcon } from './icons/HandRockIcon'
-export { default as HandScissorsIcon } from './icons/HandScissorsIcon'
-export { default as HandSpockIcon } from './icons/HandSpockIcon'
-export { default as HandsIcon } from './icons/HandsIcon'
-export { default as HandsHelpingIcon } from './icons/HandsHelpingIcon'
-export { default as HandshakeIcon } from './icons/HandshakeIcon'
-export { default as HanukiahIcon } from './icons/HanukiahIcon'
-export { default as HardHatIcon } from './icons/HardHatIcon'
-export { default as HashtagIcon } from './icons/HashtagIcon'
-export { default as HatCowboyIcon } from './icons/HatCowboyIcon'
-export { default as HatCowboySideIcon } from './icons/HatCowboySideIcon'
-export { default as HatWizardIcon } from './icons/HatWizardIcon'
-export { default as HaykalIcon } from './icons/HaykalIcon'
-export { default as HddIcon } from './icons/HddIcon'
-export { default as HeadingIcon } from './icons/HeadingIcon'
-export { default as HeadphonesIcon } from './icons/HeadphonesIcon'
-export { default as HeadphonesAltIcon } from './icons/HeadphonesAltIcon'
-export { default as HeadsetIcon } from './icons/HeadsetIcon'
-export { default as HeartIcon } from './icons/HeartIcon'
-export { default as HeartBrokenIcon } from './icons/HeartBrokenIcon'
-export { default as HeartbeatIcon } from './icons/HeartbeatIcon'
-export { default as HelicopterIcon } from './icons/HelicopterIcon'
-export { default as HighlighterIcon } from './icons/HighlighterIcon'
-export { default as HikingIcon } from './icons/HikingIcon'
-export { default as HippoIcon } from './icons/HippoIcon'
-export { default as HipsIcon } from './icons/HipsIcon'
-export { default as HireAHelperIcon } from './icons/HireAHelperIcon'
-export { default as HistoryIcon } from './icons/HistoryIcon'
-export { default as HockeyPuckIcon } from './icons/HockeyPuckIcon'
-export { default as HollyBerryIcon } from './icons/HollyBerryIcon'
-export { default as HomeIcon } from './icons/HomeIcon'
-export { default as HooliIcon } from './icons/HooliIcon'
-export { default as HornbillIcon } from './icons/HornbillIcon'
-export { default as HorseIcon } from './icons/HorseIcon'
-export { default as HorseHeadIcon } from './icons/HorseHeadIcon'
-export { default as HospitalIcon } from './icons/HospitalIcon'
-export { default as HospitalAltIcon } from './icons/HospitalAltIcon'
-export { default as HospitalSymbolIcon } from './icons/HospitalSymbolIcon'
-export { default as HotTubIcon } from './icons/HotTubIcon'
-export { default as HotdogIcon } from './icons/HotdogIcon'
-export { default as HotelIcon } from './icons/HotelIcon'
-export { default as HotjarIcon } from './icons/HotjarIcon'
-export { default as HourglassIcon } from './icons/HourglassIcon'
-export { default as HourglassEndIcon } from './icons/HourglassEndIcon'
-export { default as HourglassHalfIcon } from './icons/HourglassHalfIcon'
-export { default as HourglassStartIcon } from './icons/HourglassStartIcon'
-export { default as HouseDamageIcon } from './icons/HouseDamageIcon'
-export { default as HouzzIcon } from './icons/HouzzIcon'
-export { default as HryvniaIcon } from './icons/HryvniaIcon'
-export { default as Html5Icon } from './icons/Html5Icon'
-export { default as HubspotIcon } from './icons/HubspotIcon'
-export { default as ICursorIcon } from './icons/ICursorIcon'
-export { default as IceCreamIcon } from './icons/IceCreamIcon'
-export { default as IciclesIcon } from './icons/IciclesIcon'
-export { default as IconsIcon } from './icons/IconsIcon'
-export { default as IdBadgeIcon } from './icons/IdBadgeIcon'
-export { default as IdCardIcon } from './icons/IdCardIcon'
-export { default as IdCardAltIcon } from './icons/IdCardAltIcon'
-export { default as IglooIcon } from './icons/IglooIcon'
-export { default as ImageIcon } from './icons/ImageIcon'
-export { default as ImagesIcon } from './icons/ImagesIcon'
-export { default as ImdbIcon } from './icons/ImdbIcon'
-export { default as InboxIcon } from './icons/InboxIcon'
-export { default as IndentIcon } from './icons/IndentIcon'
-export { default as IndustryIcon } from './icons/IndustryIcon'
-export { default as InfinityIcon } from './icons/InfinityIcon'
-export { default as InfoIcon } from './icons/InfoIcon'
-export { default as InfoCircleIcon } from './icons/InfoCircleIcon'
-export { default as InstagramIcon } from './icons/InstagramIcon'
-export { default as IntercomIcon } from './icons/IntercomIcon'
-export { default as InternetExplorerIcon } from './icons/InternetExplorerIcon'
-export { default as InvisionIcon } from './icons/InvisionIcon'
-export { default as IoxhostIcon } from './icons/IoxhostIcon'
-export { default as ItalicIcon } from './icons/ItalicIcon'
-export { default as ItchIoIcon } from './icons/ItchIoIcon'
-export { default as ItunesIcon } from './icons/ItunesIcon'
-export { default as ItunesNoteIcon } from './icons/ItunesNoteIcon'
-export { default as JavaIcon } from './icons/JavaIcon'
-export { default as JediIcon } from './icons/JediIcon'
-export { default as JediOrderIcon } from './icons/JediOrderIcon'
-export { default as JenkinsIcon } from './icons/JenkinsIcon'
-export { default as JiraIcon } from './icons/JiraIcon'
-export { default as JogetIcon } from './icons/JogetIcon'
-export { default as JointIcon } from './icons/JointIcon'
-export { default as JoomlaIcon } from './icons/JoomlaIcon'
-export { default as JournalWhillsIcon } from './icons/JournalWhillsIcon'
-export { default as JsIcon } from './icons/JsIcon'
-export { default as JsSquareIcon } from './icons/JsSquareIcon'
-export { default as JsfiddleIcon } from './icons/JsfiddleIcon'
-export { default as KaabaIcon } from './icons/KaabaIcon'
-export { default as KaggleIcon } from './icons/KaggleIcon'
-export { default as KeyIcon } from './icons/KeyIcon'
-export { default as KeybaseIcon } from './icons/KeybaseIcon'
-export { default as KeyboardIcon } from './icons/KeyboardIcon'
-export { default as KeycdnIcon } from './icons/KeycdnIcon'
-export { default as KhandaIcon } from './icons/KhandaIcon'
-export { default as KickstarterIcon } from './icons/KickstarterIcon'
-export { default as KickstarterKIcon } from './icons/KickstarterKIcon'
-export { default as KissIcon } from './icons/KissIcon'
-export { default as KissBeamIcon } from './icons/KissBeamIcon'
-export { default as KissWinkHeartIcon } from './icons/KissWinkHeartIcon'
-export { default as KiwiBirdIcon } from './icons/KiwiBirdIcon'
-export { default as KorvueIcon } from './icons/KorvueIcon'
-export { default as LandmarkIcon } from './icons/LandmarkIcon'
-export { default as LanguageIcon } from './icons/LanguageIcon'
-export { default as LaptopIcon } from './icons/LaptopIcon'
-export { default as LaptopCodeIcon } from './icons/LaptopCodeIcon'
-export { default as LaptopMedicalIcon } from './icons/LaptopMedicalIcon'
-export { default as LaravelIcon } from './icons/LaravelIcon'
-export { default as LastfmIcon } from './icons/LastfmIcon'
-export { default as LastfmSquareIcon } from './icons/LastfmSquareIcon'
-export { default as LaughIcon } from './icons/LaughIcon'
-export { default as LaughBeamIcon } from './icons/LaughBeamIcon'
-export { default as LaughSquintIcon } from './icons/LaughSquintIcon'
-export { default as LaughWinkIcon } from './icons/LaughWinkIcon'
-export { default as LayerGroupIcon } from './icons/LayerGroupIcon'
-export { default as LeafIcon } from './icons/LeafIcon'
-export { default as LeanpubIcon } from './icons/LeanpubIcon'
-export { default as LemonIcon } from './icons/LemonIcon'
-export { default as LessIcon } from './icons/LessIcon'
-export { default as LessThanIcon } from './icons/LessThanIcon'
-export { default as LessThanEqualIcon } from './icons/LessThanEqualIcon'
-export { default as LevelDownAltIcon } from './icons/LevelDownAltIcon'
-export { default as LevelUpAltIcon } from './icons/LevelUpAltIcon'
-export { default as LifeRingIcon } from './icons/LifeRingIcon'
-export { default as LightbulbIcon } from './icons/LightbulbIcon'
-export { default as LineIcon } from './icons/LineIcon'
-export { default as LinkIcon } from './icons/LinkIcon'
-export { default as LinkedinIcon } from './icons/LinkedinIcon'
-export { default as LinkedinInIcon } from './icons/LinkedinInIcon'
-export { default as LinodeIcon } from './icons/LinodeIcon'
-export { default as LinuxIcon } from './icons/LinuxIcon'
-export { default as LiraSignIcon } from './icons/LiraSignIcon'
-export { default as ListIcon } from './icons/ListIcon'
-export { default as ListAltIcon } from './icons/ListAltIcon'
-export { default as ListOlIcon } from './icons/ListOlIcon'
-export { default as ListUlIcon } from './icons/ListUlIcon'
-export { default as LocationArrowIcon } from './icons/LocationArrowIcon'
-export { default as LockIcon } from './icons/LockIcon'
-export { default as LockOpenIcon } from './icons/LockOpenIcon'
-export { default as LongArrowAltDownIcon } from './icons/LongArrowAltDownIcon'
-export { default as LongArrowAltLeftIcon } from './icons/LongArrowAltLeftIcon'
-export { default as LongArrowAltRightIcon } from './icons/LongArrowAltRightIcon'
-export { default as LongArrowAltUpIcon } from './icons/LongArrowAltUpIcon'
-export { default as LowVisionIcon } from './icons/LowVisionIcon'
-export { default as LuggageCartIcon } from './icons/LuggageCartIcon'
-export { default as LyftIcon } from './icons/LyftIcon'
-export { default as MagentoIcon } from './icons/MagentoIcon'
-export { default as MagicIcon } from './icons/MagicIcon'
-export { default as MagnetIcon } from './icons/MagnetIcon'
-export { default as MailBulkIcon } from './icons/MailBulkIcon'
-export { default as MailchimpIcon } from './icons/MailchimpIcon'
-export { default as MaleIcon } from './icons/MaleIcon'
-export { default as MandalorianIcon } from './icons/MandalorianIcon'
-export { default as MapIcon } from './icons/MapIcon'
-export { default as MapMarkedIcon } from './icons/MapMarkedIcon'
-export { default as MapMarkedAltIcon } from './icons/MapMarkedAltIcon'
-export { default as MapMarkerIcon } from './icons/MapMarkerIcon'
-export { default as MapMarkerAltIcon } from './icons/MapMarkerAltIcon'
-export { default as MapPinIcon } from './icons/MapPinIcon'
-export { default as MapSignsIcon } from './icons/MapSignsIcon'
-export { default as MarkdownIcon } from './icons/MarkdownIcon'
-export { default as MarkerIcon } from './icons/MarkerIcon'
-export { default as MarsIcon } from './icons/MarsIcon'
-export { default as MarsDoubleIcon } from './icons/MarsDoubleIcon'
-export { default as MarsStrokeIcon } from './icons/MarsStrokeIcon'
-export { default as MarsStrokeHIcon } from './icons/MarsStrokeHIcon'
-export { default as MarsStrokeVIcon } from './icons/MarsStrokeVIcon'
-export { default as MaskIcon } from './icons/MaskIcon'
-export { default as MastodonIcon } from './icons/MastodonIcon'
-export { default as MaxcdnIcon } from './icons/MaxcdnIcon'
-export { default as MdbIcon } from './icons/MdbIcon'
-export { default as MedalIcon } from './icons/MedalIcon'
-export { default as MedappsIcon } from './icons/MedappsIcon'
-export { default as MediumIcon } from './icons/MediumIcon'
-export { default as MediumMIcon } from './icons/MediumMIcon'
-export { default as MedkitIcon } from './icons/MedkitIcon'
-export { default as MedrtIcon } from './icons/MedrtIcon'
-export { default as MeetupIcon } from './icons/MeetupIcon'
-export { default as MegaportIcon } from './icons/MegaportIcon'
-export { default as MehIcon } from './icons/MehIcon'
-export { default as MehBlankIcon } from './icons/MehBlankIcon'
-export { default as MehRollingEyesIcon } from './icons/MehRollingEyesIcon'
-export { default as MemoryIcon } from './icons/MemoryIcon'
-export { default as MendeleyIcon } from './icons/MendeleyIcon'
-export { default as MenorahIcon } from './icons/MenorahIcon'
-export { default as MercuryIcon } from './icons/MercuryIcon'
-export { default as MeteorIcon } from './icons/MeteorIcon'
-export { default as MicrochipIcon } from './icons/MicrochipIcon'
-export { default as MicrophoneIcon } from './icons/MicrophoneIcon'
-export { default as MicrophoneAltIcon } from './icons/MicrophoneAltIcon'
-export { default as MicrophoneAltSlashIcon } from './icons/MicrophoneAltSlashIcon'
-export { default as MicrophoneSlashIcon } from './icons/MicrophoneSlashIcon'
-export { default as MicroscopeIcon } from './icons/MicroscopeIcon'
-export { default as MicrosoftIcon } from './icons/MicrosoftIcon'
-export { default as MinusIcon } from './icons/MinusIcon'
-export { default as MinusCircleIcon } from './icons/MinusCircleIcon'
-export { default as MinusSquareIcon } from './icons/MinusSquareIcon'
-export { default as MittenIcon } from './icons/MittenIcon'
-export { default as MixIcon } from './icons/MixIcon'
-export { default as MixcloudIcon } from './icons/MixcloudIcon'
-export { default as MizuniIcon } from './icons/MizuniIcon'
-export { default as MobileIcon } from './icons/MobileIcon'
-export { default as MobileAltIcon } from './icons/MobileAltIcon'
-export { default as ModxIcon } from './icons/ModxIcon'
-export { default as MoneroIcon } from './icons/MoneroIcon'
-export { default as MoneyBillIcon } from './icons/MoneyBillIcon'
-export { default as MoneyBillAltIcon } from './icons/MoneyBillAltIcon'
-export { default as MoneyBillWaveIcon } from './icons/MoneyBillWaveIcon'
-export { default as MoneyBillWaveAltIcon } from './icons/MoneyBillWaveAltIcon'
-export { default as MoneyCheckIcon } from './icons/MoneyCheckIcon'
-export { default as MoneyCheckAltIcon } from './icons/MoneyCheckAltIcon'
-export { default as MonumentIcon } from './icons/MonumentIcon'
-export { default as MoonIcon } from './icons/MoonIcon'
-export { default as MortarPestleIcon } from './icons/MortarPestleIcon'
-export { default as MosqueIcon } from './icons/MosqueIcon'
-export { default as MotorcycleIcon } from './icons/MotorcycleIcon'
-export { default as MountainIcon } from './icons/MountainIcon'
-export { default as MouseIcon } from './icons/MouseIcon'
-export { default as MousePointerIcon } from './icons/MousePointerIcon'
-export { default as MugHotIcon } from './icons/MugHotIcon'
-export { default as MusicIcon } from './icons/MusicIcon'
-export { default as NapsterIcon } from './icons/NapsterIcon'
-export { default as NeosIcon } from './icons/NeosIcon'
-export { default as NetworkWiredIcon } from './icons/NetworkWiredIcon'
-export { default as NeuterIcon } from './icons/NeuterIcon'
-export { default as NewspaperIcon } from './icons/NewspaperIcon'
-export { default as NimblrIcon } from './icons/NimblrIcon'
-export { default as NodeIcon } from './icons/NodeIcon'
-export { default as NodeJsIcon } from './icons/NodeJsIcon'
-export { default as NotEqualIcon } from './icons/NotEqualIcon'
-export { default as NotesMedicalIcon } from './icons/NotesMedicalIcon'
-export { default as NpmIcon } from './icons/NpmIcon'
-export { default as Ns8Icon } from './icons/Ns8Icon'
-export { default as NutritionixIcon } from './icons/NutritionixIcon'
-export { default as ObjectGroupIcon } from './icons/ObjectGroupIcon'
-export { default as ObjectUngroupIcon } from './icons/ObjectUngroupIcon'
-export { default as OdnoklassnikiIcon } from './icons/OdnoklassnikiIcon'
-export { default as OdnoklassnikiSquareIcon } from './icons/OdnoklassnikiSquareIcon'
-export { default as OilCanIcon } from './icons/OilCanIcon'
-export { default as OldRepublicIcon } from './icons/OldRepublicIcon'
-export { default as OmIcon } from './icons/OmIcon'
-export { default as OpencartIcon } from './icons/OpencartIcon'
-export { default as OpenidIcon } from './icons/OpenidIcon'
-export { default as OperaIcon } from './icons/OperaIcon'
-export { default as OptinMonsterIcon } from './icons/OptinMonsterIcon'
-export { default as OrcidIcon } from './icons/OrcidIcon'
-export { default as OsiIcon } from './icons/OsiIcon'
-export { default as OtterIcon } from './icons/OtterIcon'
-export { default as OutdentIcon } from './icons/OutdentIcon'
-export { default as Page4Icon } from './icons/Page4Icon'
-export { default as PagelinesIcon } from './icons/PagelinesIcon'
-export { default as PagerIcon } from './icons/PagerIcon'
-export { default as PaintBrushIcon } from './icons/PaintBrushIcon'
-export { default as PaintRollerIcon } from './icons/PaintRollerIcon'
-export { default as PaletteIcon } from './icons/PaletteIcon'
-export { default as PalfedIcon } from './icons/PalfedIcon'
-export { default as PalletIcon } from './icons/PalletIcon'
-export { default as PaperPlaneIcon } from './icons/PaperPlaneIcon'
-export { default as PaperclipIcon } from './icons/PaperclipIcon'
-export { default as ParachuteBoxIcon } from './icons/ParachuteBoxIcon'
-export { default as ParagraphIcon } from './icons/ParagraphIcon'
-export { default as ParkingIcon } from './icons/ParkingIcon'
-export { default as PassportIcon } from './icons/PassportIcon'
-export { default as PastafarianismIcon } from './icons/PastafarianismIcon'
-export { default as PasteIcon } from './icons/PasteIcon'
-export { default as PatreonIcon } from './icons/PatreonIcon'
-export { default as PauseIcon } from './icons/PauseIcon'
-export { default as PauseCircleIcon } from './icons/PauseCircleIcon'
-export { default as PawIcon } from './icons/PawIcon'
-export { default as PaypalIcon } from './icons/PaypalIcon'
-export { default as PeaceIcon } from './icons/PeaceIcon'
-export { default as PenIcon } from './icons/PenIcon'
-export { default as PenAltIcon } from './icons/PenAltIcon'
-export { default as PenFancyIcon } from './icons/PenFancyIcon'
-export { default as PenNibIcon } from './icons/PenNibIcon'
-export { default as PenSquareIcon } from './icons/PenSquareIcon'
-export { default as PencilAltIcon } from './icons/PencilAltIcon'
-export { default as PencilRulerIcon } from './icons/PencilRulerIcon'
-export { default as PennyArcadeIcon } from './icons/PennyArcadeIcon'
-export { default as PeopleCarryIcon } from './icons/PeopleCarryIcon'
-export { default as PepperHotIcon } from './icons/PepperHotIcon'
-export { default as PercentIcon } from './icons/PercentIcon'
-export { default as PercentageIcon } from './icons/PercentageIcon'
-export { default as PeriscopeIcon } from './icons/PeriscopeIcon'
-export { default as PersonBoothIcon } from './icons/PersonBoothIcon'
-export { default as PhabricatorIcon } from './icons/PhabricatorIcon'
-export { default as PhoenixFrameworkIcon } from './icons/PhoenixFrameworkIcon'
-export { default as PhoenixSquadronIcon } from './icons/PhoenixSquadronIcon'
-export { default as PhoneIcon } from './icons/PhoneIcon'
-export { default as PhoneAltIcon } from './icons/PhoneAltIcon'
-export { default as PhoneSlashIcon } from './icons/PhoneSlashIcon'
-export { default as PhoneSquareIcon } from './icons/PhoneSquareIcon'
-export { default as PhoneSquareAltIcon } from './icons/PhoneSquareAltIcon'
-export { default as PhoneVolumeIcon } from './icons/PhoneVolumeIcon'
-export { default as PhotoVideoIcon } from './icons/PhotoVideoIcon'
-export { default as PhpIcon } from './icons/PhpIcon'
-export { default as PiedPiperIcon } from './icons/PiedPiperIcon'
-export { default as PiedPiperAltIcon } from './icons/PiedPiperAltIcon'
-export { default as PiedPiperHatIcon } from './icons/PiedPiperHatIcon'
-export { default as PiedPiperPpIcon } from './icons/PiedPiperPpIcon'
-export { default as PiggyBankIcon } from './icons/PiggyBankIcon'
-export { default as PillsIcon } from './icons/PillsIcon'
-export { default as PinterestIcon } from './icons/PinterestIcon'
-export { default as PinterestPIcon } from './icons/PinterestPIcon'
-export { default as PinterestSquareIcon } from './icons/PinterestSquareIcon'
-export { default as PizzaSliceIcon } from './icons/PizzaSliceIcon'
-export { default as PlaceOfWorshipIcon } from './icons/PlaceOfWorshipIcon'
-export { default as PlaneIcon } from './icons/PlaneIcon'
-export { default as PlaneArrivalIcon } from './icons/PlaneArrivalIcon'
-export { default as PlaneDepartureIcon } from './icons/PlaneDepartureIcon'
-export { default as PlayIcon } from './icons/PlayIcon'
-export { default as PlayCircleIcon } from './icons/PlayCircleIcon'
-export { default as PlaystationIcon } from './icons/PlaystationIcon'
-export { default as PlugIcon } from './icons/PlugIcon'
-export { default as PlusIcon } from './icons/PlusIcon'
-export { default as PlusCircleIcon } from './icons/PlusCircleIcon'
-export { default as PlusSquareIcon } from './icons/PlusSquareIcon'
-export { default as PodcastIcon } from './icons/PodcastIcon'
-export { default as PollIcon } from './icons/PollIcon'
-export { default as PollHIcon } from './icons/PollHIcon'
-export { default as PooIcon } from './icons/PooIcon'
-export { default as PooStormIcon } from './icons/PooStormIcon'
-export { default as PoopIcon } from './icons/PoopIcon'
-export { default as PortraitIcon } from './icons/PortraitIcon'
-export { default as PoundSignIcon } from './icons/PoundSignIcon'
-export { default as PowerOffIcon } from './icons/PowerOffIcon'
-export { default as PrayIcon } from './icons/PrayIcon'
-export { default as PrayingHandsIcon } from './icons/PrayingHandsIcon'
-export { default as PrescriptionIcon } from './icons/PrescriptionIcon'
-export { default as PrescriptionBottleIcon } from './icons/PrescriptionBottleIcon'
-export { default as PrescriptionBottleAltIcon } from './icons/PrescriptionBottleAltIcon'
-export { default as PrintIcon } from './icons/PrintIcon'
-export { default as ProceduresIcon } from './icons/ProceduresIcon'
-export { default as ProductHuntIcon } from './icons/ProductHuntIcon'
-export { default as ProjectDiagramIcon } from './icons/ProjectDiagramIcon'
-export { default as PushedIcon } from './icons/PushedIcon'
-export { default as PuzzlePieceIcon } from './icons/PuzzlePieceIcon'
-export { default as PythonIcon } from './icons/PythonIcon'
-export { default as QqIcon } from './icons/QqIcon'
-export { default as QrcodeIcon } from './icons/QrcodeIcon'
-export { default as QuestionIcon } from './icons/QuestionIcon'
-export { default as QuestionCircleIcon } from './icons/QuestionCircleIcon'
-export { default as QuidditchIcon } from './icons/QuidditchIcon'
-export { default as QuinscapeIcon } from './icons/QuinscapeIcon'
-export { default as QuoraIcon } from './icons/QuoraIcon'
-export { default as QuoteLeftIcon } from './icons/QuoteLeftIcon'
-export { default as QuoteRightIcon } from './icons/QuoteRightIcon'
-export { default as QuranIcon } from './icons/QuranIcon'
-export { default as RProjectIcon } from './icons/RProjectIcon'
-export { default as RadiationIcon } from './icons/RadiationIcon'
-export { default as RadiationAltIcon } from './icons/RadiationAltIcon'
-export { default as RainbowIcon } from './icons/RainbowIcon'
-export { default as RandomIcon } from './icons/RandomIcon'
-export { default as RaspberryPiIcon } from './icons/RaspberryPiIcon'
-export { default as RavelryIcon } from './icons/RavelryIcon'
-export { default as ReactIcon } from './icons/ReactIcon'
-export { default as ReacteuropeIcon } from './icons/ReacteuropeIcon'
-export { default as ReadmeIcon } from './icons/ReadmeIcon'
-export { default as RebelIcon } from './icons/RebelIcon'
-export { default as ReceiptIcon } from './icons/ReceiptIcon'
-export { default as RecordVinylIcon } from './icons/RecordVinylIcon'
-export { default as RecycleIcon } from './icons/RecycleIcon'
-export { default as RedRiverIcon } from './icons/RedRiverIcon'
-export { default as RedditIcon } from './icons/RedditIcon'
-export { default as RedditAlienIcon } from './icons/RedditAlienIcon'
-export { default as RedditSquareIcon } from './icons/RedditSquareIcon'
-export { default as RedhatIcon } from './icons/RedhatIcon'
-export { default as RedoIcon } from './icons/RedoIcon'
-export { default as RedoAltIcon } from './icons/RedoAltIcon'
-export { default as RegisteredIcon } from './icons/RegisteredIcon'
-export { default as RemoveFormatIcon } from './icons/RemoveFormatIcon'
-export { default as RenrenIcon } from './icons/RenrenIcon'
-export { default as ReplyIcon } from './icons/ReplyIcon'
-export { default as ReplyAllIcon } from './icons/ReplyAllIcon'
-export { default as ReplydIcon } from './icons/ReplydIcon'
-export { default as RepublicanIcon } from './icons/RepublicanIcon'
-export { default as ResearchgateIcon } from './icons/ResearchgateIcon'
-export { default as ResolvingIcon } from './icons/ResolvingIcon'
-export { default as RestroomIcon } from './icons/RestroomIcon'
-export { default as RetweetIcon } from './icons/RetweetIcon'
-export { default as RevIcon } from './icons/RevIcon'
-export { default as RibbonIcon } from './icons/RibbonIcon'
-export { default as RingIcon } from './icons/RingIcon'
-export { default as RoadIcon } from './icons/RoadIcon'
-export { default as RobotIcon } from './icons/RobotIcon'
-export { default as RocketIcon } from './icons/RocketIcon'
-export { default as RocketchatIcon } from './icons/RocketchatIcon'
-export { default as RockrmsIcon } from './icons/RockrmsIcon'
-export { default as RouteIcon } from './icons/RouteIcon'
-export { default as RssIcon } from './icons/RssIcon'
-export { default as RssSquareIcon } from './icons/RssSquareIcon'
-export { default as RubleSignIcon } from './icons/RubleSignIcon'
-export { default as RulerIcon } from './icons/RulerIcon'
-export { default as RulerCombinedIcon } from './icons/RulerCombinedIcon'
-export { default as RulerHorizontalIcon } from './icons/RulerHorizontalIcon'
-export { default as RulerVerticalIcon } from './icons/RulerVerticalIcon'
-export { default as RunningIcon } from './icons/RunningIcon'
-export { default as RupeeSignIcon } from './icons/RupeeSignIcon'
-export { default as SadCryIcon } from './icons/SadCryIcon'
-export { default as SadTearIcon } from './icons/SadTearIcon'
-export { default as SafariIcon } from './icons/SafariIcon'
-export { default as SalesforceIcon } from './icons/SalesforceIcon'
-export { default as SassIcon } from './icons/SassIcon'
-export { default as SatelliteIcon } from './icons/SatelliteIcon'
-export { default as SatelliteDishIcon } from './icons/SatelliteDishIcon'
-export { default as SaveIcon } from './icons/SaveIcon'
-export { default as SchlixIcon } from './icons/SchlixIcon'
-export { default as SchoolIcon } from './icons/SchoolIcon'
-export { default as ScrewdriverIcon } from './icons/ScrewdriverIcon'
-export { default as ScribdIcon } from './icons/ScribdIcon'
-export { default as ScrollIcon } from './icons/ScrollIcon'
-export { default as SdCardIcon } from './icons/SdCardIcon'
-export { default as SearchIcon } from './icons/SearchIcon'
-export { default as SearchDollarIcon } from './icons/SearchDollarIcon'
-export { default as SearchLocationIcon } from './icons/SearchLocationIcon'
-export { default as SearchMinusIcon } from './icons/SearchMinusIcon'
-export { default as SearchPlusIcon } from './icons/SearchPlusIcon'
-export { default as SearchenginIcon } from './icons/SearchenginIcon'
-export { default as SeedlingIcon } from './icons/SeedlingIcon'
-export { default as SellcastIcon } from './icons/SellcastIcon'
-export { default as SellsyIcon } from './icons/SellsyIcon'
-export { default as ServerIcon } from './icons/ServerIcon'
-export { default as ServicestackIcon } from './icons/ServicestackIcon'
-export { default as ShapesIcon } from './icons/ShapesIcon'
-export { default as ShareIcon } from './icons/ShareIcon'
-export { default as ShareAltIcon } from './icons/ShareAltIcon'
-export { default as ShareAltSquareIcon } from './icons/ShareAltSquareIcon'
-export { default as ShareSquareIcon } from './icons/ShareSquareIcon'
-export { default as ShekelSignIcon } from './icons/ShekelSignIcon'
-export { default as ShieldAltIcon } from './icons/ShieldAltIcon'
-export { default as ShipIcon } from './icons/ShipIcon'
-export { default as ShippingFastIcon } from './icons/ShippingFastIcon'
-export { default as ShirtsinbulkIcon } from './icons/ShirtsinbulkIcon'
-export { default as ShoePrintsIcon } from './icons/ShoePrintsIcon'
-export { default as ShoppingBagIcon } from './icons/ShoppingBagIcon'
-export { default as ShoppingBasketIcon } from './icons/ShoppingBasketIcon'
-export { default as ShoppingCartIcon } from './icons/ShoppingCartIcon'
-export { default as ShopwareIcon } from './icons/ShopwareIcon'
-export { default as ShowerIcon } from './icons/ShowerIcon'
-export { default as ShuttleVanIcon } from './icons/ShuttleVanIcon'
-export { default as SignIcon } from './icons/SignIcon'
-export { default as SignInAltIcon } from './icons/SignInAltIcon'
-export { default as SignLanguageIcon } from './icons/SignLanguageIcon'
-export { default as SignOutAltIcon } from './icons/SignOutAltIcon'
-export { default as SignalIcon } from './icons/SignalIcon'
-export { default as SignatureIcon } from './icons/SignatureIcon'
-export { default as SimCardIcon } from './icons/SimCardIcon'
-export { default as SimplybuiltIcon } from './icons/SimplybuiltIcon'
-export { default as SistrixIcon } from './icons/SistrixIcon'
-export { default as SitemapIcon } from './icons/SitemapIcon'
-export { default as SithIcon } from './icons/SithIcon'
-export { default as SkatingIcon } from './icons/SkatingIcon'
-export { default as SketchIcon } from './icons/SketchIcon'
-export { default as SkiingIcon } from './icons/SkiingIcon'
-export { default as SkiingNordicIcon } from './icons/SkiingNordicIcon'
-export { default as SkullIcon } from './icons/SkullIcon'
-export { default as SkullCrossbonesIcon } from './icons/SkullCrossbonesIcon'
-export { default as SkyatlasIcon } from './icons/SkyatlasIcon'
-export { default as SkypeIcon } from './icons/SkypeIcon'
-export { default as SlackIcon } from './icons/SlackIcon'
-export { default as SlackHashIcon } from './icons/SlackHashIcon'
-export { default as SlashIcon } from './icons/SlashIcon'
-export { default as SleighIcon } from './icons/SleighIcon'
-export { default as SlidersHIcon } from './icons/SlidersHIcon'
-export { default as SlideshareIcon } from './icons/SlideshareIcon'
-export { default as SmileIcon } from './icons/SmileIcon'
-export { default as SmileBeamIcon } from './icons/SmileBeamIcon'
-export { default as SmileWinkIcon } from './icons/SmileWinkIcon'
-export { default as SmogIcon } from './icons/SmogIcon'
-export { default as SmokingIcon } from './icons/SmokingIcon'
-export { default as SmokingBanIcon } from './icons/SmokingBanIcon'
-export { default as SmsIcon } from './icons/SmsIcon'
-export { default as SnapchatIcon } from './icons/SnapchatIcon'
-export { default as SnapchatGhostIcon } from './icons/SnapchatGhostIcon'
-export { default as SnapchatSquareIcon } from './icons/SnapchatSquareIcon'
-export { default as SnowboardingIcon } from './icons/SnowboardingIcon'
-export { default as SnowflakeIcon } from './icons/SnowflakeIcon'
-export { default as SnowmanIcon } from './icons/SnowmanIcon'
-export { default as SnowplowIcon } from './icons/SnowplowIcon'
-export { default as SocksIcon } from './icons/SocksIcon'
-export { default as SolarPanelIcon } from './icons/SolarPanelIcon'
-export { default as SortIcon } from './icons/SortIcon'
-export { default as SortAlphaDownIcon } from './icons/SortAlphaDownIcon'
-export { default as SortAlphaDownAltIcon } from './icons/SortAlphaDownAltIcon'
-export { default as SortAlphaUpIcon } from './icons/SortAlphaUpIcon'
-export { default as SortAlphaUpAltIcon } from './icons/SortAlphaUpAltIcon'
-export { default as SortAmountDownIcon } from './icons/SortAmountDownIcon'
-export { default as SortAmountDownAltIcon } from './icons/SortAmountDownAltIcon'
-export { default as SortAmountUpIcon } from './icons/SortAmountUpIcon'
-export { default as SortAmountUpAltIcon } from './icons/SortAmountUpAltIcon'
-export { default as SortDownIcon } from './icons/SortDownIcon'
-export { default as SortNumericDownIcon } from './icons/SortNumericDownIcon'
-export { default as SortNumericDownAltIcon } from './icons/SortNumericDownAltIcon'
-export { default as SortNumericUpIcon } from './icons/SortNumericUpIcon'
-export { default as SortNumericUpAltIcon } from './icons/SortNumericUpAltIcon'
-export { default as SortUpIcon } from './icons/SortUpIcon'
-export { default as SoundcloudIcon } from './icons/SoundcloudIcon'
-export { default as SourcetreeIcon } from './icons/SourcetreeIcon'
-export { default as SpaIcon } from './icons/SpaIcon'
-export { default as SpaceShuttleIcon } from './icons/SpaceShuttleIcon'
-export { default as SpeakapIcon } from './icons/SpeakapIcon'
-export { default as SpeakerDeckIcon } from './icons/SpeakerDeckIcon'
-export { default as SpellCheckIcon } from './icons/SpellCheckIcon'
-export { default as SpiderIcon } from './icons/SpiderIcon'
-export { default as SpinnerIcon } from './icons/SpinnerIcon'
-export { default as SplotchIcon } from './icons/SplotchIcon'
-export { default as SpotifyIcon } from './icons/SpotifyIcon'
-export { default as SprayCanIcon } from './icons/SprayCanIcon'
-export { default as SquareIcon } from './icons/SquareIcon'
-export { default as SquareFullIcon } from './icons/SquareFullIcon'
-export { default as SquareRootAltIcon } from './icons/SquareRootAltIcon'
-export { default as SquarespaceIcon } from './icons/SquarespaceIcon'
-export { default as StackExchangeIcon } from './icons/StackExchangeIcon'
-export { default as StackOverflowIcon } from './icons/StackOverflowIcon'
-export { default as StackpathIcon } from './icons/StackpathIcon'
-export { default as StampIcon } from './icons/StampIcon'
-export { default as StarIcon } from './icons/StarIcon'
-export { default as StarAndCrescentIcon } from './icons/StarAndCrescentIcon'
-export { default as StarHalfIcon } from './icons/StarHalfIcon'
-export { default as StarHalfAltIcon } from './icons/StarHalfAltIcon'
-export { default as StarOfDavidIcon } from './icons/StarOfDavidIcon'
-export { default as StarOfLifeIcon } from './icons/StarOfLifeIcon'
-export { default as StaylinkedIcon } from './icons/StaylinkedIcon'
-export { default as SteamIcon } from './icons/SteamIcon'
-export { default as SteamSquareIcon } from './icons/SteamSquareIcon'
-export { default as SteamSymbolIcon } from './icons/SteamSymbolIcon'
-export { default as StepBackwardIcon } from './icons/StepBackwardIcon'
-export { default as StepForwardIcon } from './icons/StepForwardIcon'
-export { default as StethoscopeIcon } from './icons/StethoscopeIcon'
-export { default as StickerMuleIcon } from './icons/StickerMuleIcon'
-export { default as StickyNoteIcon } from './icons/StickyNoteIcon'
-export { default as StopIcon } from './icons/StopIcon'
-export { default as StopCircleIcon } from './icons/StopCircleIcon'
-export { default as StopwatchIcon } from './icons/StopwatchIcon'
-export { default as StoreIcon } from './icons/StoreIcon'
-export { default as StoreAltIcon } from './icons/StoreAltIcon'
-export { default as StravaIcon } from './icons/StravaIcon'
-export { default as StreamIcon } from './icons/StreamIcon'
-export { default as StreetViewIcon } from './icons/StreetViewIcon'
-export { default as StrikethroughIcon } from './icons/StrikethroughIcon'
-export { default as StripeIcon } from './icons/StripeIcon'
-export { default as StripeSIcon } from './icons/StripeSIcon'
-export { default as StroopwafelIcon } from './icons/StroopwafelIcon'
-export { default as StudiovinariIcon } from './icons/StudiovinariIcon'
-export { default as StumbleuponIcon } from './icons/StumbleuponIcon'
-export { default as StumbleuponCircleIcon } from './icons/StumbleuponCircleIcon'
-export { default as SubscriptIcon } from './icons/SubscriptIcon'
-export { default as SubwayIcon } from './icons/SubwayIcon'
-export { default as SuitcaseIcon } from './icons/SuitcaseIcon'
-export { default as SuitcaseRollingIcon } from './icons/SuitcaseRollingIcon'
-export { default as SunIcon } from './icons/SunIcon'
-export { default as SuperpowersIcon } from './icons/SuperpowersIcon'
-export { default as SuperscriptIcon } from './icons/SuperscriptIcon'
-export { default as SuppleIcon } from './icons/SuppleIcon'
-export { default as SurpriseIcon } from './icons/SurpriseIcon'
-export { default as SuseIcon } from './icons/SuseIcon'
-export { default as SwatchbookIcon } from './icons/SwatchbookIcon'
-export { default as SwiftIcon } from './icons/SwiftIcon'
-export { default as SwimmerIcon } from './icons/SwimmerIcon'
-export { default as SwimmingPoolIcon } from './icons/SwimmingPoolIcon'
-export { default as SymfonyIcon } from './icons/SymfonyIcon'
-export { default as SynagogueIcon } from './icons/SynagogueIcon'
-export { default as SyncIcon } from './icons/SyncIcon'
-export { default as SyncAltIcon } from './icons/SyncAltIcon'
-export { default as SyringeIcon } from './icons/SyringeIcon'
-export { default as TableIcon } from './icons/TableIcon'
-export { default as TableTennisIcon } from './icons/TableTennisIcon'
-export { default as TabletIcon } from './icons/TabletIcon'
-export { default as TabletAltIcon } from './icons/TabletAltIcon'
-export { default as TabletsIcon } from './icons/TabletsIcon'
-export { default as TachometerAltIcon } from './icons/TachometerAltIcon'
-export { default as TagIcon } from './icons/TagIcon'
-export { default as TagsIcon } from './icons/TagsIcon'
-export { default as TapeIcon } from './icons/TapeIcon'
-export { default as TasksIcon } from './icons/TasksIcon'
-export { default as TaxiIcon } from './icons/TaxiIcon'
-export { default as TeamspeakIcon } from './icons/TeamspeakIcon'
-export { default as TeethIcon } from './icons/TeethIcon'
-export { default as TeethOpenIcon } from './icons/TeethOpenIcon'
-export { default as TelegramIcon } from './icons/TelegramIcon'
-export { default as TelegramPlaneIcon } from './icons/TelegramPlaneIcon'
-export { default as TemperatureHighIcon } from './icons/TemperatureHighIcon'
-export { default as TemperatureLowIcon } from './icons/TemperatureLowIcon'
-export { default as TencentWeiboIcon } from './icons/TencentWeiboIcon'
-export { default as TengeIcon } from './icons/TengeIcon'
-export { default as TerminalIcon } from './icons/TerminalIcon'
-export { default as TextHeightIcon } from './icons/TextHeightIcon'
-export { default as TextWidthIcon } from './icons/TextWidthIcon'
-export { default as ThIcon } from './icons/ThIcon'
-export { default as ThLargeIcon } from './icons/ThLargeIcon'
-export { default as ThListIcon } from './icons/ThListIcon'
-export { default as TheRedYetiIcon } from './icons/TheRedYetiIcon'
-export { default as TheaterMasksIcon } from './icons/TheaterMasksIcon'
-export { default as ThemecoIcon } from './icons/ThemecoIcon'
-export { default as ThemeisleIcon } from './icons/ThemeisleIcon'
-export { default as ThermometerIcon } from './icons/ThermometerIcon'
-export { default as ThermometerEmptyIcon } from './icons/ThermometerEmptyIcon'
-export { default as ThermometerFullIcon } from './icons/ThermometerFullIcon'
-export { default as ThermometerHalfIcon } from './icons/ThermometerHalfIcon'
-export { default as ThermometerQuarterIcon } from './icons/ThermometerQuarterIcon'
-export { default as ThermometerThreeQuartersIcon } from './icons/ThermometerThreeQuartersIcon'
-export { default as ThinkPeaksIcon } from './icons/ThinkPeaksIcon'
-export { default as ThumbsDownIcon } from './icons/ThumbsDownIcon'
-export { default as ThumbsUpIcon } from './icons/ThumbsUpIcon'
-export { default as ThumbtackIcon } from './icons/ThumbtackIcon'
-export { default as TicketAltIcon } from './icons/TicketAltIcon'
-export { default as TimesIcon } from './icons/TimesIcon'
-export { default as TimesCircleIcon } from './icons/TimesCircleIcon'
-export { default as TintIcon } from './icons/TintIcon'
-export { default as TintSlashIcon } from './icons/TintSlashIcon'
-export { default as TiredIcon } from './icons/TiredIcon'
-export { default as ToggleOffIcon } from './icons/ToggleOffIcon'
-export { default as ToggleOnIcon } from './icons/ToggleOnIcon'
-export { default as ToiletIcon } from './icons/ToiletIcon'
-export { default as ToiletPaperIcon } from './icons/ToiletPaperIcon'
-export { default as ToolboxIcon } from './icons/ToolboxIcon'
-export { default as ToolsIcon } from './icons/ToolsIcon'
-export { default as ToothIcon } from './icons/ToothIcon'
-export { default as TorahIcon } from './icons/TorahIcon'
-export { default as ToriiGateIcon } from './icons/ToriiGateIcon'
-export { default as TractorIcon } from './icons/TractorIcon'
-export { default as TradeFederationIcon } from './icons/TradeFederationIcon'
-export { default as TrademarkIcon } from './icons/TrademarkIcon'
-export { default as TrafficLightIcon } from './icons/TrafficLightIcon'
-export { default as TrainIcon } from './icons/TrainIcon'
-export { default as TramIcon } from './icons/TramIcon'
-export { default as TransgenderIcon } from './icons/TransgenderIcon'
-export { default as TransgenderAltIcon } from './icons/TransgenderAltIcon'
-export { default as TrashIcon } from './icons/TrashIcon'
-export { default as TrashAltIcon } from './icons/TrashAltIcon'
-export { default as TrashRestoreIcon } from './icons/TrashRestoreIcon'
-export { default as TrashRestoreAltIcon } from './icons/TrashRestoreAltIcon'
-export { default as TreeIcon } from './icons/TreeIcon'
-export { default as TrelloIcon } from './icons/TrelloIcon'
-export { default as TripadvisorIcon } from './icons/TripadvisorIcon'
-export { default as TrophyIcon } from './icons/TrophyIcon'
-export { default as TruckIcon } from './icons/TruckIcon'
-export { default as TruckLoadingIcon } from './icons/TruckLoadingIcon'
-export { default as TruckMonsterIcon } from './icons/TruckMonsterIcon'
-export { default as TruckMovingIcon } from './icons/TruckMovingIcon'
-export { default as TruckPickupIcon } from './icons/TruckPickupIcon'
-export { default as TshirtIcon } from './icons/TshirtIcon'
-export { default as TtyIcon } from './icons/TtyIcon'
-export { default as TumblrIcon } from './icons/TumblrIcon'
-export { default as TumblrSquareIcon } from './icons/TumblrSquareIcon'
-export { default as TvIcon } from './icons/TvIcon'
-export { default as TwitchIcon } from './icons/TwitchIcon'
-export { default as TwitterIcon } from './icons/TwitterIcon'
-export { default as TwitterSquareIcon } from './icons/TwitterSquareIcon'
-export { default as Typo3Icon } from './icons/Typo3Icon'
-export { default as UberIcon } from './icons/UberIcon'
-export { default as UbuntuIcon } from './icons/UbuntuIcon'
-export { default as UikitIcon } from './icons/UikitIcon'
-export { default as UmbracoIcon } from './icons/UmbracoIcon'
-export { default as UmbrellaIcon } from './icons/UmbrellaIcon'
-export { default as UmbrellaBeachIcon } from './icons/UmbrellaBeachIcon'
-export { default as UnderlineIcon } from './icons/UnderlineIcon'
-export { default as UndoIcon } from './icons/UndoIcon'
-export { default as UndoAltIcon } from './icons/UndoAltIcon'
-export { default as UniregistryIcon } from './icons/UniregistryIcon'
-export { default as UniversalAccessIcon } from './icons/UniversalAccessIcon'
-export { default as UniversityIcon } from './icons/UniversityIcon'
-export { default as UnlinkIcon } from './icons/UnlinkIcon'
-export { default as UnlockIcon } from './icons/UnlockIcon'
-export { default as UnlockAltIcon } from './icons/UnlockAltIcon'
-export { default as UntappdIcon } from './icons/UntappdIcon'
-export { default as UploadIcon } from './icons/UploadIcon'
-export { default as UpsIcon } from './icons/UpsIcon'
-export { default as UsbIcon } from './icons/UsbIcon'
-export { default as UserIcon } from './icons/UserIcon'
-export { default as UserAltIcon } from './icons/UserAltIcon'
-export { default as UserAltSlashIcon } from './icons/UserAltSlashIcon'
-export { default as UserAstronautIcon } from './icons/UserAstronautIcon'
-export { default as UserCheckIcon } from './icons/UserCheckIcon'
-export { default as UserCircleIcon } from './icons/UserCircleIcon'
-export { default as UserClockIcon } from './icons/UserClockIcon'
-export { default as UserCogIcon } from './icons/UserCogIcon'
-export { default as UserEditIcon } from './icons/UserEditIcon'
-export { default as UserFriendsIcon } from './icons/UserFriendsIcon'
-export { default as UserGraduateIcon } from './icons/UserGraduateIcon'
-export { default as UserInjuredIcon } from './icons/UserInjuredIcon'
-export { default as UserLockIcon } from './icons/UserLockIcon'
-export { default as UserMdIcon } from './icons/UserMdIcon'
-export { default as UserMinusIcon } from './icons/UserMinusIcon'
-export { default as UserNinjaIcon } from './icons/UserNinjaIcon'
-export { default as UserNurseIcon } from './icons/UserNurseIcon'
-export { default as UserPlusIcon } from './icons/UserPlusIcon'
-export { default as UserSecretIcon } from './icons/UserSecretIcon'
-export { default as UserShieldIcon } from './icons/UserShieldIcon'
-export { default as UserSlashIcon } from './icons/UserSlashIcon'
-export { default as UserTagIcon } from './icons/UserTagIcon'
-export { default as UserTieIcon } from './icons/UserTieIcon'
-export { default as UserTimesIcon } from './icons/UserTimesIcon'
-export { default as UsersIcon } from './icons/UsersIcon'
-export { default as UsersCogIcon } from './icons/UsersCogIcon'
-export { default as UspsIcon } from './icons/UspsIcon'
-export { default as UssunnahIcon } from './icons/UssunnahIcon'
-export { default as UtensilSpoonIcon } from './icons/UtensilSpoonIcon'
-export { default as UtensilsIcon } from './icons/UtensilsIcon'
-export { default as VaadinIcon } from './icons/VaadinIcon'
-export { default as VectorSquareIcon } from './icons/VectorSquareIcon'
-export { default as VenusIcon } from './icons/VenusIcon'
-export { default as VenusDoubleIcon } from './icons/VenusDoubleIcon'
-export { default as VenusMarsIcon } from './icons/VenusMarsIcon'
-export { default as ViacoinIcon } from './icons/ViacoinIcon'
-export { default as ViadeoIcon } from './icons/ViadeoIcon'
-export { default as ViadeoSquareIcon } from './icons/ViadeoSquareIcon'
-export { default as VialIcon } from './icons/VialIcon'
-export { default as VialsIcon } from './icons/VialsIcon'
-export { default as ViberIcon } from './icons/ViberIcon'
-export { default as VideoIcon } from './icons/VideoIcon'
-export { default as VideoSlashIcon } from './icons/VideoSlashIcon'
-export { default as ViharaIcon } from './icons/ViharaIcon'
-export { default as VimeoIcon } from './icons/VimeoIcon'
-export { default as VimeoSquareIcon } from './icons/VimeoSquareIcon'
-export { default as VimeoVIcon } from './icons/VimeoVIcon'
-export { default as VineIcon } from './icons/VineIcon'
-export { default as VkIcon } from './icons/VkIcon'
-export { default as VnvIcon } from './icons/VnvIcon'
-export { default as VoicemailIcon } from './icons/VoicemailIcon'
-export { default as VolleyballBallIcon } from './icons/VolleyballBallIcon'
-export { default as VolumeDownIcon } from './icons/VolumeDownIcon'
-export { default as VolumeMuteIcon } from './icons/VolumeMuteIcon'
-export { default as VolumeOffIcon } from './icons/VolumeOffIcon'
-export { default as VolumeUpIcon } from './icons/VolumeUpIcon'
-export { default as VoteYeaIcon } from './icons/VoteYeaIcon'
-export { default as VrCardboardIcon } from './icons/VrCardboardIcon'
-export { default as VuejsIcon } from './icons/VuejsIcon'
-export { default as WalkingIcon } from './icons/WalkingIcon'
-export { default as WalletIcon } from './icons/WalletIcon'
-export { default as WarehouseIcon } from './icons/WarehouseIcon'
-export { default as WaterIcon } from './icons/WaterIcon'
-export { default as WaveSquareIcon } from './icons/WaveSquareIcon'
-export { default as WazeIcon } from './icons/WazeIcon'
-export { default as WeeblyIcon } from './icons/WeeblyIcon'
-export { default as WeiboIcon } from './icons/WeiboIcon'
-export { default as WeightIcon } from './icons/WeightIcon'
-export { default as WeightHangingIcon } from './icons/WeightHangingIcon'
-export { default as WeixinIcon } from './icons/WeixinIcon'
-export { default as WhatsappIcon } from './icons/WhatsappIcon'
-export { default as WhatsappSquareIcon } from './icons/WhatsappSquareIcon'
-export { default as WheelchairIcon } from './icons/WheelchairIcon'
-export { default as WhmcsIcon } from './icons/WhmcsIcon'
-export { default as WifiIcon } from './icons/WifiIcon'
-export { default as WikipediaWIcon } from './icons/WikipediaWIcon'
-export { default as WindIcon } from './icons/WindIcon'
-export { default as WindowCloseIcon } from './icons/WindowCloseIcon'
-export { default as WindowMaximizeIcon } from './icons/WindowMaximizeIcon'
-export { default as WindowMinimizeIcon } from './icons/WindowMinimizeIcon'
-export { default as WindowRestoreIcon } from './icons/WindowRestoreIcon'
-export { default as WindowsIcon } from './icons/WindowsIcon'
-export { default as WineBottleIcon } from './icons/WineBottleIcon'
-export { default as WineGlassIcon } from './icons/WineGlassIcon'
-export { default as WineGlassAltIcon } from './icons/WineGlassAltIcon'
-export { default as WixIcon } from './icons/WixIcon'
-export { default as WizardsOfTheCoastIcon } from './icons/WizardsOfTheCoastIcon'
-export { default as WolfPackBattalionIcon } from './icons/WolfPackBattalionIcon'
-export { default as WonSignIcon } from './icons/WonSignIcon'
-export { default as WordpressIcon } from './icons/WordpressIcon'
-export { default as WordpressSimpleIcon } from './icons/WordpressSimpleIcon'
-export { default as WpbeginnerIcon } from './icons/WpbeginnerIcon'
-export { default as WpexplorerIcon } from './icons/WpexplorerIcon'
-export { default as WpformsIcon } from './icons/WpformsIcon'
-export { default as WpressrIcon } from './icons/WpressrIcon'
-export { default as WrenchIcon } from './icons/WrenchIcon'
-export { default as XRayIcon } from './icons/XRayIcon'
-export { default as XboxIcon } from './icons/XboxIcon'
-export { default as XingIcon } from './icons/XingIcon'
-export { default as XingSquareIcon } from './icons/XingSquareIcon'
-export { default as YCombinatorIcon } from './icons/YCombinatorIcon'
-export { default as YahooIcon } from './icons/YahooIcon'
-export { default as YammerIcon } from './icons/YammerIcon'
-export { default as YandexIcon } from './icons/YandexIcon'
-export { default as YandexInternationalIcon } from './icons/YandexInternationalIcon'
-export { default as YarnIcon } from './icons/YarnIcon'
-export { default as YelpIcon } from './icons/YelpIcon'
-export { default as YenSignIcon } from './icons/YenSignIcon'
-export { default as YinYangIcon } from './icons/YinYangIcon'
-export { default as YoastIcon } from './icons/YoastIcon'
-export { default as YoutubeIcon } from './icons/YoutubeIcon'
-export { default as YoutubeSquareIcon } from './icons/YoutubeSquareIcon'
-export { default as ZhihuIcon } from './icons/ZhihuIcon'
-export { default as GlassIcon } from './icons/GlassIcon'
-export { default as StarOIcon } from './icons/StarOIcon'
-export { default as RemoveIcon } from './icons/RemoveIcon'
-export { default as CloseIcon } from './icons/CloseIcon'
-export { default as GearIcon } from './icons/GearIcon'
-export { default as TrashOIcon } from './icons/TrashOIcon'
-export { default as FileOIcon } from './icons/FileOIcon'
-export { default as ClockOIcon } from './icons/ClockOIcon'
-export { default as ArrowCircleODownIcon } from './icons/ArrowCircleODownIcon'
-export { default as ArrowCircleOUpIcon } from './icons/ArrowCircleOUpIcon'
-export { default as PlayCircleOIcon } from './icons/PlayCircleOIcon'
-export { default as RepeatIcon } from './icons/RepeatIcon'
-export { default as RotateRightIcon } from './icons/RotateRightIcon'
-export { default as RefreshIcon } from './icons/RefreshIcon'
-export { default as DedentIcon } from './icons/DedentIcon'
-export { default as VideoCameraIcon } from './icons/VideoCameraIcon'
-export { default as PictureOIcon } from './icons/PictureOIcon'
-export { default as PhotoIcon } from './icons/PhotoIcon'
-export { default as PencilIcon } from './icons/PencilIcon'
-export { default as PencilSquareOIcon } from './icons/PencilSquareOIcon'
-export { default as ShareSquareOIcon } from './icons/ShareSquareOIcon'
-export { default as CheckSquareOIcon } from './icons/CheckSquareOIcon'
-export { default as ArrowsIcon } from './icons/ArrowsIcon'
-export { default as TimesCircleOIcon } from './icons/TimesCircleOIcon'
-export { default as CheckCircleOIcon } from './icons/CheckCircleOIcon'
-export { default as MailForwardIcon } from './icons/MailForwardIcon'
-export { default as WarningIcon } from './icons/WarningIcon'
-export { default as ArrowsVIcon } from './icons/ArrowsVIcon'
-export { default as ArrowsHIcon } from './icons/ArrowsHIcon'
-export { default as BarChartIcon } from './icons/BarChartIcon'
-export { default as BarChartOIcon } from './icons/BarChartOIcon'
-export { default as GearsIcon } from './icons/GearsIcon'
-export { default as ThumbsOUpIcon } from './icons/ThumbsOUpIcon'
-export { default as ThumbsODownIcon } from './icons/ThumbsODownIcon'
-export { default as HeartOIcon } from './icons/HeartOIcon'
-export { default as SignOutIcon } from './icons/SignOutIcon'
-export { default as LinkedinSquareIcon } from './icons/LinkedinSquareIcon'
-export { default as ExternalLinkIcon } from './icons/ExternalLinkIcon'
-export { default as SignInIcon } from './icons/SignInIcon'
-export { default as LemonOIcon } from './icons/LemonOIcon'
-export { default as SquareOIcon } from './icons/SquareOIcon'
-export { default as BookmarkOIcon } from './icons/BookmarkOIcon'
-export { default as FeedIcon } from './icons/FeedIcon'
-export { default as HddOIcon } from './icons/HddOIcon'
-export { default as HandORightIcon } from './icons/HandORightIcon'
-export { default as HandOLeftIcon } from './icons/HandOLeftIcon'
-export { default as HandOUpIcon } from './icons/HandOUpIcon'
-export { default as HandODownIcon } from './icons/HandODownIcon'
-export { default as GroupIcon } from './icons/GroupIcon'
-export { default as ChainIcon } from './icons/ChainIcon'
-export { default as ScissorsIcon } from './icons/ScissorsIcon'
-export { default as FilesOIcon } from './icons/FilesOIcon'
-export { default as FloppyOIcon } from './icons/FloppyOIcon'
-export { default as NaviconIcon } from './icons/NaviconIcon'
-export { default as ReorderIcon } from './icons/ReorderIcon'
-export { default as MoneyIcon } from './icons/MoneyIcon'
-export { default as UnsortedIcon } from './icons/UnsortedIcon'
-export { default as SortDescIcon } from './icons/SortDescIcon'
-export { default as SortAscIcon } from './icons/SortAscIcon'
-export { default as RotateLeftIcon } from './icons/RotateLeftIcon'
-export { default as LegalIcon } from './icons/LegalIcon'
-export { default as TachometerIcon } from './icons/TachometerIcon'
-export { default as DashboardIcon } from './icons/DashboardIcon'
-export { default as CommentOIcon } from './icons/CommentOIcon'
-export { default as CommentsOIcon } from './icons/CommentsOIcon'
-export { default as FlashIcon } from './icons/FlashIcon'
-export { default as LightbulbOIcon } from './icons/LightbulbOIcon'
-export { default as ExchangeIcon } from './icons/ExchangeIcon'
-export { default as CloudDownloadIcon } from './icons/CloudDownloadIcon'
-export { default as CloudUploadIcon } from './icons/CloudUploadIcon'
-export { default as BellOIcon } from './icons/BellOIcon'
-export { default as CutleryIcon } from './icons/CutleryIcon'
-export { default as FileTextOIcon } from './icons/FileTextOIcon'
-export { default as BuildingOIcon } from './icons/BuildingOIcon'
-export { default as HospitalOIcon } from './icons/HospitalOIcon'
-export { default as MobilePhoneIcon } from './icons/MobilePhoneIcon'
-export { default as CircleOIcon } from './icons/CircleOIcon'
-export { default as MailReplyIcon } from './icons/MailReplyIcon'
-export { default as FolderOIcon } from './icons/FolderOIcon'
-export { default as FolderOpenOIcon } from './icons/FolderOpenOIcon'
-export { default as SmileOIcon } from './icons/SmileOIcon'
-export { default as FrownOIcon } from './icons/FrownOIcon'
-export { default as MehOIcon } from './icons/MehOIcon'
-export { default as KeyboardOIcon } from './icons/KeyboardOIcon'
-export { default as FlagOIcon } from './icons/FlagOIcon'
-export { default as MailReplyAllIcon } from './icons/MailReplyAllIcon'
-export { default as StarHalfOIcon } from './icons/StarHalfOIcon'
-export { default as StarHalfEmptyIcon } from './icons/StarHalfEmptyIcon'
-export { default as StarHalfFullIcon } from './icons/StarHalfFullIcon'
-export { default as CodeForkIcon } from './icons/CodeForkIcon'
-export { default as ChainBrokenIcon } from './icons/ChainBrokenIcon'
-export { default as ShieldIcon } from './icons/ShieldIcon'
-export { default as CalendarOIcon } from './icons/CalendarOIcon'
-export { default as TicketIcon } from './icons/TicketIcon'
-export { default as MinusSquareOIcon } from './icons/MinusSquareOIcon'
-export { default as LevelUpIcon } from './icons/LevelUpIcon'
-export { default as LevelDownIcon } from './icons/LevelDownIcon'
-export { default as PencilSquareIcon } from './icons/PencilSquareIcon'
-export { default as ExternalLinkSquareIcon } from './icons/ExternalLinkSquareIcon'
-export { default as CaretSquareODownIcon } from './icons/CaretSquareODownIcon'
-export { default as ToggleDownIcon } from './icons/ToggleDownIcon'
-export { default as CaretSquareOUpIcon } from './icons/CaretSquareOUpIcon'
-export { default as ToggleUpIcon } from './icons/ToggleUpIcon'
-export { default as CaretSquareORightIcon } from './icons/CaretSquareORightIcon'
-export { default as ToggleRightIcon } from './icons/ToggleRightIcon'
-export { default as EurIcon } from './icons/EurIcon'
-export { default as EuroIcon } from './icons/EuroIcon'
-export { default as GbpIcon } from './icons/GbpIcon'
-export { default as UsdIcon } from './icons/UsdIcon'
-export { default as DollarIcon } from './icons/DollarIcon'
-export { default as InrIcon } from './icons/InrIcon'
-export { default as RupeeIcon } from './icons/RupeeIcon'
-export { default as JpyIcon } from './icons/JpyIcon'
-export { default as CnyIcon } from './icons/CnyIcon'
-export { default as RmbIcon } from './icons/RmbIcon'
-export { default as YenIcon } from './icons/YenIcon'
-export { default as RubIcon } from './icons/RubIcon'
-export { default as RubleIcon } from './icons/RubleIcon'
-export { default as RoubleIcon } from './icons/RoubleIcon'
-export { default as KrwIcon } from './icons/KrwIcon'
-export { default as WonIcon } from './icons/WonIcon'
-export { default as FileTextIcon } from './icons/FileTextIcon'
-export { default as SortAlphaAscIcon } from './icons/SortAlphaAscIcon'
-export { default as SortAlphaDescIcon } from './icons/SortAlphaDescIcon'
-export { default as SortAmountAscIcon } from './icons/SortAmountAscIcon'
-export { default as SortAmountDescIcon } from './icons/SortAmountDescIcon'
-export { default as SortNumericAscIcon } from './icons/SortNumericAscIcon'
-export { default as SortNumericDescIcon } from './icons/SortNumericDescIcon'
-export { default as YoutubePlayIcon } from './icons/YoutubePlayIcon'
-export { default as BitbucketSquareIcon } from './icons/BitbucketSquareIcon'
-export { default as LongArrowDownIcon } from './icons/LongArrowDownIcon'
-export { default as LongArrowUpIcon } from './icons/LongArrowUpIcon'
-export { default as LongArrowLeftIcon } from './icons/LongArrowLeftIcon'
-export { default as LongArrowRightIcon } from './icons/LongArrowRightIcon'
-export { default as GittipIcon } from './icons/GittipIcon'
-export { default as SunOIcon } from './icons/SunOIcon'
-export { default as MoonOIcon } from './icons/MoonOIcon'
-export { default as ArrowCircleORightIcon } from './icons/ArrowCircleORightIcon'
-export { default as ArrowCircleOLeftIcon } from './icons/ArrowCircleOLeftIcon'
-export { default as CaretSquareOLeftIcon } from './icons/CaretSquareOLeftIcon'
-export { default as ToggleLeftIcon } from './icons/ToggleLeftIcon'
-export { default as DotCircleOIcon } from './icons/DotCircleOIcon'
-export { default as TryIcon } from './icons/TryIcon'
-export { default as TurkishLiraIcon } from './icons/TurkishLiraIcon'
-export { default as PlusSquareOIcon } from './icons/PlusSquareOIcon'
-export { default as InstitutionIcon } from './icons/InstitutionIcon'
-export { default as BankIcon } from './icons/BankIcon'
-export { default as MortarBoardIcon } from './icons/MortarBoardIcon'
-export { default as SpoonIcon } from './icons/SpoonIcon'
-export { default as AutomobileIcon } from './icons/AutomobileIcon'
-export { default as CabIcon } from './icons/CabIcon'
-export { default as EnvelopeOIcon } from './icons/EnvelopeOIcon'
-export { default as FilePdfOIcon } from './icons/FilePdfOIcon'
-export { default as FileWordOIcon } from './icons/FileWordOIcon'
-export { default as FileExcelOIcon } from './icons/FileExcelOIcon'
-export { default as FilePowerpointOIcon } from './icons/FilePowerpointOIcon'
-export { default as FileImageOIcon } from './icons/FileImageOIcon'
-export { default as FilePhotoOIcon } from './icons/FilePhotoOIcon'
-export { default as FilePictureOIcon } from './icons/FilePictureOIcon'
-export { default as FileArchiveOIcon } from './icons/FileArchiveOIcon'
-export { default as FileZipOIcon } from './icons/FileZipOIcon'
-export { default as FileAudioOIcon } from './icons/FileAudioOIcon'
-export { default as FileSoundOIcon } from './icons/FileSoundOIcon'
-export { default as FileVideoOIcon } from './icons/FileVideoOIcon'
-export { default as FileMovieOIcon } from './icons/FileMovieOIcon'
-export { default as FileCodeOIcon } from './icons/FileCodeOIcon'
-export { default as LifeBouyIcon } from './icons/LifeBouyIcon'
-export { default as LifeBuoyIcon } from './icons/LifeBuoyIcon'
-export { default as LifeSaverIcon } from './icons/LifeSaverIcon'
-export { default as SupportIcon } from './icons/SupportIcon'
-export { default as CircleONotchIcon } from './icons/CircleONotchIcon'
-export { default as RaIcon } from './icons/RaIcon'
-export { default as ResistanceIcon } from './icons/ResistanceIcon'
-export { default as GeIcon } from './icons/GeIcon'
-export { default as YCombinatorSquareIcon } from './icons/YCombinatorSquareIcon'
-export { default as YcSquareIcon } from './icons/YcSquareIcon'
-export { default as WechatIcon } from './icons/WechatIcon'
-export { default as SendIcon } from './icons/SendIcon'
-export { default as PaperPlaneOIcon } from './icons/PaperPlaneOIcon'
-export { default as SendOIcon } from './icons/SendOIcon'
-export { default as CircleThinIcon } from './icons/CircleThinIcon'
-export { default as HeaderIcon } from './icons/HeaderIcon'
-export { default as SlidersIcon } from './icons/SlidersIcon'
-export { default as FutbolOIcon } from './icons/FutbolOIcon'
-export { default as SoccerBallOIcon } from './icons/SoccerBallOIcon'
-export { default as NewspaperOIcon } from './icons/NewspaperOIcon'
-export { default as BellSlashOIcon } from './icons/BellSlashOIcon'
-export { default as AreaChartIcon } from './icons/AreaChartIcon'
-export { default as PieChartIcon } from './icons/PieChartIcon'
-export { default as LineChartIcon } from './icons/LineChartIcon'
-export { default as CcIcon } from './icons/CcIcon'
-export { default as IlsIcon } from './icons/IlsIcon'
-export { default as ShekelIcon } from './icons/ShekelIcon'
-export { default as SheqelIcon } from './icons/SheqelIcon'
-export { default as MeanpathIcon } from './icons/MeanpathIcon'
-export { default as DiamondIcon } from './icons/DiamondIcon'
-export { default as IntersexIcon } from './icons/IntersexIcon'
-export { default as FacebookOfficialIcon } from './icons/FacebookOfficialIcon'
-export { default as YcIcon } from './icons/YcIcon'
-export { default as Battery4Icon } from './icons/Battery4Icon'
-export { default as BatteryIcon } from './icons/BatteryIcon'
-export { default as Battery3Icon } from './icons/Battery3Icon'
-export { default as Battery2Icon } from './icons/Battery2Icon'
-export { default as Battery1Icon } from './icons/Battery1Icon'
-export { default as Battery0Icon } from './icons/Battery0Icon'
-export { default as StickyNoteOIcon } from './icons/StickyNoteOIcon'
-export { default as HourglassOIcon } from './icons/HourglassOIcon'
-export { default as Hourglass1Icon } from './icons/Hourglass1Icon'
-export { default as Hourglass2Icon } from './icons/Hourglass2Icon'
-export { default as Hourglass3Icon } from './icons/Hourglass3Icon'
-export { default as HandRockOIcon } from './icons/HandRockOIcon'
-export { default as HandGrabOIcon } from './icons/HandGrabOIcon'
-export { default as HandPaperOIcon } from './icons/HandPaperOIcon'
-export { default as HandStopOIcon } from './icons/HandStopOIcon'
-export { default as HandScissorsOIcon } from './icons/HandScissorsOIcon'
-export { default as HandLizardOIcon } from './icons/HandLizardOIcon'
-export { default as HandSpockOIcon } from './icons/HandSpockOIcon'
-export { default as HandPointerOIcon } from './icons/HandPointerOIcon'
-export { default as HandPeaceOIcon } from './icons/HandPeaceOIcon'
-export { default as TelevisionIcon } from './icons/TelevisionIcon'
-export { default as CalendarPlusOIcon } from './icons/CalendarPlusOIcon'
-export { default as CalendarMinusOIcon } from './icons/CalendarMinusOIcon'
-export { default as CalendarTimesOIcon } from './icons/CalendarTimesOIcon'
-export { default as CalendarCheckOIcon } from './icons/CalendarCheckOIcon'
-export { default as MapOIcon } from './icons/MapOIcon'
-export { default as CommentingIcon } from './icons/CommentingIcon'
-export { default as CommentingOIcon } from './icons/CommentingOIcon'
-export { default as CreditCardAltIcon } from './icons/CreditCardAltIcon'
-export { default as PauseCircleOIcon } from './icons/PauseCircleOIcon'
-export { default as StopCircleOIcon } from './icons/StopCircleOIcon'
-export { default as WheelchairAltIcon } from './icons/WheelchairAltIcon'
-export { default as QuestionCircleOIcon } from './icons/QuestionCircleOIcon'
-export { default as VolumeControlPhoneIcon } from './icons/VolumeControlPhoneIcon'
-export { default as AslInterpretingIcon } from './icons/AslInterpretingIcon'
-export { default as DeafnessIcon } from './icons/DeafnessIcon'
-export { default as HardOfHearingIcon } from './icons/HardOfHearingIcon'
-export { default as SigningIcon } from './icons/SigningIcon'
-export { default as GooglePlusOfficialIcon } from './icons/GooglePlusOfficialIcon'
-export { default as GooglePlusCircleIcon } from './icons/GooglePlusCircleIcon'
-export { default as FaIcon } from './icons/FaIcon'
-export { default as HandshakeOIcon } from './icons/HandshakeOIcon'
-export { default as EnvelopeOpenOIcon } from './icons/EnvelopeOpenOIcon'
-export { default as AddressBookOIcon } from './icons/AddressBookOIcon'
-export { default as VcardIcon } from './icons/VcardIcon'
-export { default as AddressCardOIcon } from './icons/AddressCardOIcon'
-export { default as VcardOIcon } from './icons/VcardOIcon'
-export { default as UserCircleOIcon } from './icons/UserCircleOIcon'
-export { default as UserOIcon } from './icons/UserOIcon'
-export { default as DriversLicenseIcon } from './icons/DriversLicenseIcon'
-export { default as IdCardOIcon } from './icons/IdCardOIcon'
-export { default as DriversLicenseOIcon } from './icons/DriversLicenseOIcon'
-export { default as Thermometer4Icon } from './icons/Thermometer4Icon'
-export { default as Thermometer3Icon } from './icons/Thermometer3Icon'
-export { default as Thermometer2Icon } from './icons/Thermometer2Icon'
-export { default as Thermometer1Icon } from './icons/Thermometer1Icon'
-export { default as Thermometer0Icon } from './icons/Thermometer0Icon'
-export { default as BathtubIcon } from './icons/BathtubIcon'
-export { default as S15Icon } from './icons/S15Icon'
-export { default as TimesRectangleIcon } from './icons/TimesRectangleIcon'
-export { default as WindowCloseOIcon } from './icons/WindowCloseOIcon'
-export { default as TimesRectangleOIcon } from './icons/TimesRectangleOIcon'
-export { default as EercastIcon } from './icons/EercastIcon'
-export { default as SnowflakeOIcon } from './icons/SnowflakeOIcon'
+import createFontIcon from './createFontIcon'
+
+export const FiveHundredPxIcon = createFontIcon('la-500px', 'lab')
+export const AccessibleIconIcon = createFontIcon('la-accessible-icon', 'lab')
+export const AccusoftIcon = createFontIcon('la-accusoft', 'lab')
+export const AcquisitionsIncorporatedIcon = createFontIcon('la-acquisitions-incorporated', 'lab')
+export const AdIcon = createFontIcon('la-ad', 'las')
+export const AddressBookIcon = createFontIcon('la-address-book', 'las')
+export const AddressCardIcon = createFontIcon('la-address-card', 'las')
+export const AdjustIcon = createFontIcon('la-adjust', 'las')
+export const AdnIcon = createFontIcon('la-adn', 'lab')
+export const AdobeIcon = createFontIcon('la-adobe', 'lab')
+export const AdversalIcon = createFontIcon('la-adversal', 'lab')
+export const AffiliatethemeIcon = createFontIcon('la-affiliatetheme', 'lab')
+export const AirFreshenerIcon = createFontIcon('la-air-freshener', 'las')
+export const AirbnbIcon = createFontIcon('la-airbnb', 'lab')
+export const AlgoliaIcon = createFontIcon('la-algolia', 'lab')
+export const AlignCenterIcon = createFontIcon('la-align-center', 'las')
+export const AlignJustifyIcon = createFontIcon('la-align-justify', 'las')
+export const AlignLeftIcon = createFontIcon('la-align-left', 'las')
+export const AlignRightIcon = createFontIcon('la-align-right', 'las')
+export const AlipayIcon = createFontIcon('la-alipay', 'lab')
+export const AllergiesIcon = createFontIcon('la-allergies', 'las')
+export const AmazonIcon = createFontIcon('la-amazon', 'lab')
+export const AmazonPayIcon = createFontIcon('la-amazon-pay', 'lab')
+export const AmbulanceIcon = createFontIcon('la-ambulance', 'las')
+export const AmericanSignLanguageInterpretingIcon = createFontIcon('la-american-sign-language-interpreting', 'las')
+export const AmiliaIcon = createFontIcon('la-amilia', 'lab')
+export const AnchorIcon = createFontIcon('la-anchor', 'las')
+export const AndroidIcon = createFontIcon('la-android', 'lab')
+export const AngellistIcon = createFontIcon('la-angellist', 'lab')
+export const AngleDoubleDownIcon = createFontIcon('la-angle-double-down', 'las')
+export const AngleDoubleLeftIcon = createFontIcon('la-angle-double-left', 'las')
+export const AngleDoubleRightIcon = createFontIcon('la-angle-double-right', 'las')
+export const AngleDoubleUpIcon = createFontIcon('la-angle-double-up', 'las')
+export const AngleDownIcon = createFontIcon('la-angle-down', 'las')
+export const AngleLeftIcon = createFontIcon('la-angle-left', 'las')
+export const AngleRightIcon = createFontIcon('la-angle-right', 'las')
+export const AngleUpIcon = createFontIcon('la-angle-up', 'las')
+export const AngryIcon = createFontIcon('la-angry', 'las')
+export const AngrycreativeIcon = createFontIcon('la-angrycreative', 'lab')
+export const AngularIcon = createFontIcon('la-angular', 'lab')
+export const AnkhIcon = createFontIcon('la-ankh', 'las')
+export const AppStoreIcon = createFontIcon('la-app-store', 'lab')
+export const AppStoreIosIcon = createFontIcon('la-app-store-ios', 'lab')
+export const ApperIcon = createFontIcon('la-apper', 'lab')
+export const AppleIcon = createFontIcon('la-apple', 'lab')
+export const AppleAltIcon = createFontIcon('la-apple-alt', 'las')
+export const ApplePayIcon = createFontIcon('la-apple-pay', 'lab')
+export const ArchiveIcon = createFontIcon('la-archive', 'las')
+export const ArchwayIcon = createFontIcon('la-archway', 'las')
+export const ArrowAltCircleDownIcon = createFontIcon('la-arrow-alt-circle-down', 'las')
+export const ArrowAltCircleLeftIcon = createFontIcon('la-arrow-alt-circle-left', 'las')
+export const ArrowAltCircleRightIcon = createFontIcon('la-arrow-alt-circle-right', 'las')
+export const ArrowAltCircleUpIcon = createFontIcon('la-arrow-alt-circle-up', 'las')
+export const ArrowCircleDownIcon = createFontIcon('la-arrow-circle-down', 'las')
+export const ArrowCircleLeftIcon = createFontIcon('la-arrow-circle-left', 'las')
+export const ArrowCircleRightIcon = createFontIcon('la-arrow-circle-right', 'las')
+export const ArrowCircleUpIcon = createFontIcon('la-arrow-circle-up', 'las')
+export const ArrowDownIcon = createFontIcon('la-arrow-down', 'las')
+export const ArrowLeftIcon = createFontIcon('la-arrow-left', 'las')
+export const ArrowRightIcon = createFontIcon('la-arrow-right', 'las')
+export const ArrowUpIcon = createFontIcon('la-arrow-up', 'las')
+export const ArrowsAltIcon = createFontIcon('la-arrows-alt', 'las')
+export const ArrowsAltHIcon = createFontIcon('la-arrows-alt-h', 'las')
+export const ArrowsAltVIcon = createFontIcon('la-arrows-alt-v', 'las')
+export const ArtstationIcon = createFontIcon('la-artstation', 'lab')
+export const AssistiveListeningSystemsIcon = createFontIcon('la-assistive-listening-systems', 'las')
+export const AsteriskIcon = createFontIcon('la-asterisk', 'las')
+export const AsymmetrikIcon = createFontIcon('la-asymmetrik', 'lab')
+export const AtIcon = createFontIcon('la-at', 'las')
+export const AtlasIcon = createFontIcon('la-atlas', 'las')
+export const AtlassianIcon = createFontIcon('la-atlassian', 'lab')
+export const AtomIcon = createFontIcon('la-atom', 'las')
+export const AudibleIcon = createFontIcon('la-audible', 'lab')
+export const AudioDescriptionIcon = createFontIcon('la-audio-description', 'las')
+export const AutoprefixerIcon = createFontIcon('la-autoprefixer', 'lab')
+export const AvianexIcon = createFontIcon('la-avianex', 'lab')
+export const AviatoIcon = createFontIcon('la-aviato', 'lab')
+export const AwardIcon = createFontIcon('la-award', 'las')
+export const AwsIcon = createFontIcon('la-aws', 'lab')
+export const BabyIcon = createFontIcon('la-baby', 'las')
+export const BabyCarriageIcon = createFontIcon('la-baby-carriage', 'las')
+export const BackspaceIcon = createFontIcon('la-backspace', 'las')
+export const BackwardIcon = createFontIcon('la-backward', 'las')
+export const BaconIcon = createFontIcon('la-bacon', 'las')
+export const BalanceScaleIcon = createFontIcon('la-balance-scale', 'las')
+export const BalanceScaleLeftIcon = createFontIcon('la-balance-scale-left', 'las')
+export const BalanceScaleRightIcon = createFontIcon('la-balance-scale-right', 'las')
+export const BanIcon = createFontIcon('la-ban', 'las')
+export const BandAidIcon = createFontIcon('la-band-aid', 'las')
+export const BandcampIcon = createFontIcon('la-bandcamp', 'lab')
+export const BarcodeIcon = createFontIcon('la-barcode', 'las')
+export const BarsIcon = createFontIcon('la-bars', 'las')
+export const BaseballBallIcon = createFontIcon('la-baseball-ball', 'las')
+export const BasketballBallIcon = createFontIcon('la-basketball-ball', 'las')
+export const BathIcon = createFontIcon('la-bath', 'las')
+export const BatteryEmptyIcon = createFontIcon('la-battery-empty', 'las')
+export const BatteryFullIcon = createFontIcon('la-battery-full', 'las')
+export const BatteryHalfIcon = createFontIcon('la-battery-half', 'las')
+export const BatteryQuarterIcon = createFontIcon('la-battery-quarter', 'las')
+export const BatteryThreeQuartersIcon = createFontIcon('la-battery-three-quarters', 'las')
+export const BattleNetIcon = createFontIcon('la-battle-net', 'lab')
+export const BedIcon = createFontIcon('la-bed', 'las')
+export const BeerIcon = createFontIcon('la-beer', 'las')
+export const BehanceIcon = createFontIcon('la-behance', 'lab')
+export const BehanceSquareIcon = createFontIcon('la-behance-square', 'lab')
+export const BellIcon = createFontIcon('la-bell', 'las')
+export const BellSlashIcon = createFontIcon('la-bell-slash', 'las')
+export const BezierCurveIcon = createFontIcon('la-bezier-curve', 'las')
+export const BibleIcon = createFontIcon('la-bible', 'las')
+export const BicycleIcon = createFontIcon('la-bicycle', 'las')
+export const BikingIcon = createFontIcon('la-biking', 'las')
+export const BimobjectIcon = createFontIcon('la-bimobject', 'lab')
+export const BinocularsIcon = createFontIcon('la-binoculars', 'las')
+export const BiohazardIcon = createFontIcon('la-biohazard', 'las')
+export const BirthdayCakeIcon = createFontIcon('la-birthday-cake', 'las')
+export const BitbucketIcon = createFontIcon('la-bitbucket', 'lab')
+export const BitcoinIcon = createFontIcon('la-bitcoin', 'lab')
+export const BityIcon = createFontIcon('la-bity', 'lab')
+export const BlackTieIcon = createFontIcon('la-black-tie', 'lab')
+export const BlackberryIcon = createFontIcon('la-blackberry', 'lab')
+export const BlenderIcon = createFontIcon('la-blender', 'las')
+export const BlenderPhoneIcon = createFontIcon('la-blender-phone', 'las')
+export const BlindIcon = createFontIcon('la-blind', 'las')
+export const BlogIcon = createFontIcon('la-blog', 'las')
+export const BloggerIcon = createFontIcon('la-blogger', 'lab')
+export const BloggerBIcon = createFontIcon('la-blogger-b', 'lab')
+export const BluetoothIcon = createFontIcon('la-bluetooth', 'lab')
+export const BluetoothBIcon = createFontIcon('la-bluetooth-b', 'lab')
+export const BoldIcon = createFontIcon('la-bold', 'las')
+export const BoltIcon = createFontIcon('la-bolt', 'las')
+export const BombIcon = createFontIcon('la-bomb', 'las')
+export const BoneIcon = createFontIcon('la-bone', 'las')
+export const BongIcon = createFontIcon('la-bong', 'las')
+export const BookIcon = createFontIcon('la-book', 'las')
+export const BookDeadIcon = createFontIcon('la-book-dead', 'las')
+export const BookMedicalIcon = createFontIcon('la-book-medical', 'las')
+export const BookOpenIcon = createFontIcon('la-book-open', 'las')
+export const BookReaderIcon = createFontIcon('la-book-reader', 'las')
+export const BookmarkIcon = createFontIcon('la-bookmark', 'las')
+export const BootstrapIcon = createFontIcon('la-bootstrap', 'lab')
+export const BorderAllIcon = createFontIcon('la-border-all', 'las')
+export const BorderNoneIcon = createFontIcon('la-border-none', 'las')
+export const BorderStyleIcon = createFontIcon('la-border-style', 'las')
+export const BowlingBallIcon = createFontIcon('la-bowling-ball', 'las')
+export const BoxIcon = createFontIcon('la-box', 'las')
+export const BoxOpenIcon = createFontIcon('la-box-open', 'las')
+export const BoxesIcon = createFontIcon('la-boxes', 'las')
+export const BrailleIcon = createFontIcon('la-braille', 'las')
+export const BrainIcon = createFontIcon('la-brain', 'las')
+export const BreadSliceIcon = createFontIcon('la-bread-slice', 'las')
+export const BriefcaseIcon = createFontIcon('la-briefcase', 'las')
+export const BriefcaseMedicalIcon = createFontIcon('la-briefcase-medical', 'las')
+export const BroadcastTowerIcon = createFontIcon('la-broadcast-tower', 'las')
+export const BroomIcon = createFontIcon('la-broom', 'las')
+export const BrushIcon = createFontIcon('la-brush', 'las')
+export const BtcIcon = createFontIcon('la-btc', 'lab')
+export const BufferIcon = createFontIcon('la-buffer', 'lab')
+export const BugIcon = createFontIcon('la-bug', 'las')
+export const BuildingIcon = createFontIcon('la-building', 'las')
+export const BullhornIcon = createFontIcon('la-bullhorn', 'las')
+export const BullseyeIcon = createFontIcon('la-bullseye', 'las')
+export const BurnIcon = createFontIcon('la-burn', 'las')
+export const BuromobelexperteIcon = createFontIcon('la-buromobelexperte', 'lab')
+export const BusIcon = createFontIcon('la-bus', 'las')
+export const BusAltIcon = createFontIcon('la-bus-alt', 'las')
+export const BusinessTimeIcon = createFontIcon('la-business-time', 'las')
+export const BuyNLargeIcon = createFontIcon('la-buy-n-large', 'lab')
+export const BuyselladsIcon = createFontIcon('la-buysellads', 'lab')
+export const CalculatorIcon = createFontIcon('la-calculator', 'las')
+export const CalendarIcon = createFontIcon('la-calendar', 'las')
+export const CalendarAltIcon = createFontIcon('la-calendar-alt', 'las')
+export const CalendarCheckIcon = createFontIcon('la-calendar-check', 'las')
+export const CalendarDayIcon = createFontIcon('la-calendar-day', 'las')
+export const CalendarMinusIcon = createFontIcon('la-calendar-minus', 'las')
+export const CalendarPlusIcon = createFontIcon('la-calendar-plus', 'las')
+export const CalendarTimesIcon = createFontIcon('la-calendar-times', 'las')
+export const CalendarWeekIcon = createFontIcon('la-calendar-week', 'las')
+export const CameraIcon = createFontIcon('la-camera', 'las')
+export const CameraRetroIcon = createFontIcon('la-camera-retro', 'las')
+export const CampgroundIcon = createFontIcon('la-campground', 'las')
+export const CanadianMapleLeafIcon = createFontIcon('la-canadian-maple-leaf', 'lab')
+export const CandyCaneIcon = createFontIcon('la-candy-cane', 'las')
+export const CannabisIcon = createFontIcon('la-cannabis', 'las')
+export const CapsulesIcon = createFontIcon('la-capsules', 'las')
+export const CarIcon = createFontIcon('la-car', 'las')
+export const CarAltIcon = createFontIcon('la-car-alt', 'las')
+export const CarBatteryIcon = createFontIcon('la-car-battery', 'las')
+export const CarCrashIcon = createFontIcon('la-car-crash', 'las')
+export const CarSideIcon = createFontIcon('la-car-side', 'las')
+export const CaretDownIcon = createFontIcon('la-caret-down', 'las')
+export const CaretLeftIcon = createFontIcon('la-caret-left', 'las')
+export const CaretRightIcon = createFontIcon('la-caret-right', 'las')
+export const CaretSquareDownIcon = createFontIcon('la-caret-square-down', 'las')
+export const CaretSquareLeftIcon = createFontIcon('la-caret-square-left', 'las')
+export const CaretSquareRightIcon = createFontIcon('la-caret-square-right', 'las')
+export const CaretSquareUpIcon = createFontIcon('la-caret-square-up', 'las')
+export const CaretUpIcon = createFontIcon('la-caret-up', 'las')
+export const CarrotIcon = createFontIcon('la-carrot', 'las')
+export const CartArrowDownIcon = createFontIcon('la-cart-arrow-down', 'las')
+export const CartPlusIcon = createFontIcon('la-cart-plus', 'las')
+export const CashRegisterIcon = createFontIcon('la-cash-register', 'las')
+export const CatIcon = createFontIcon('la-cat', 'las')
+export const CcAmazonPayIcon = createFontIcon('la-cc-amazon-pay', 'lab')
+export const CcAmexIcon = createFontIcon('la-cc-amex', 'lab')
+export const CcApplePayIcon = createFontIcon('la-cc-apple-pay', 'lab')
+export const CcDinersClubIcon = createFontIcon('la-cc-diners-club', 'lab')
+export const CcDiscoverIcon = createFontIcon('la-cc-discover', 'lab')
+export const CcJcbIcon = createFontIcon('la-cc-jcb', 'lab')
+export const CcMastercardIcon = createFontIcon('la-cc-mastercard', 'lab')
+export const CcPaypalIcon = createFontIcon('la-cc-paypal', 'lab')
+export const CcStripeIcon = createFontIcon('la-cc-stripe', 'lab')
+export const CcVisaIcon = createFontIcon('la-cc-visa', 'lab')
+export const CentercodeIcon = createFontIcon('la-centercode', 'lab')
+export const CentosIcon = createFontIcon('la-centos', 'lab')
+export const CertificateIcon = createFontIcon('la-certificate', 'las')
+export const ChairIcon = createFontIcon('la-chair', 'las')
+export const ChalkboardIcon = createFontIcon('la-chalkboard', 'las')
+export const ChalkboardTeacherIcon = createFontIcon('la-chalkboard-teacher', 'las')
+export const ChargingStationIcon = createFontIcon('la-charging-station', 'las')
+export const ChartAreaIcon = createFontIcon('la-chart-area', 'las')
+export const ChartBarIcon = createFontIcon('la-chart-bar', 'las')
+export const ChartLineIcon = createFontIcon('la-chart-line', 'las')
+export const ChartPieIcon = createFontIcon('la-chart-pie', 'las')
+export const CheckIcon = createFontIcon('la-check', 'las')
+export const CheckCircleIcon = createFontIcon('la-check-circle', 'las')
+export const CheckDoubleIcon = createFontIcon('la-check-double', 'las')
+export const CheckSquareIcon = createFontIcon('la-check-square', 'las')
+export const CheeseIcon = createFontIcon('la-cheese', 'las')
+export const ChessIcon = createFontIcon('la-chess', 'las')
+export const ChessBishopIcon = createFontIcon('la-chess-bishop', 'las')
+export const ChessBoardIcon = createFontIcon('la-chess-board', 'las')
+export const ChessKingIcon = createFontIcon('la-chess-king', 'las')
+export const ChessKnightIcon = createFontIcon('la-chess-knight', 'las')
+export const ChessPawnIcon = createFontIcon('la-chess-pawn', 'las')
+export const ChessQueenIcon = createFontIcon('la-chess-queen', 'las')
+export const ChessRookIcon = createFontIcon('la-chess-rook', 'las')
+export const ChevronCircleDownIcon = createFontIcon('la-chevron-circle-down', 'las')
+export const ChevronCircleLeftIcon = createFontIcon('la-chevron-circle-left', 'las')
+export const ChevronCircleRightIcon = createFontIcon('la-chevron-circle-right', 'las')
+export const ChevronCircleUpIcon = createFontIcon('la-chevron-circle-up', 'las')
+export const ChevronDownIcon = createFontIcon('la-chevron-down', 'las')
+export const ChevronLeftIcon = createFontIcon('la-chevron-left', 'las')
+export const ChevronRightIcon = createFontIcon('la-chevron-right', 'las')
+export const ChevronUpIcon = createFontIcon('la-chevron-up', 'las')
+export const ChildIcon = createFontIcon('la-child', 'las')
+export const ChromeIcon = createFontIcon('la-chrome', 'lab')
+export const ChromecastIcon = createFontIcon('la-chromecast', 'lab')
+export const ChurchIcon = createFontIcon('la-church', 'las')
+export const CircleIcon = createFontIcon('la-circle', 'las')
+export const CircleNotchIcon = createFontIcon('la-circle-notch', 'las')
+export const CityIcon = createFontIcon('la-city', 'las')
+export const ClinicMedicalIcon = createFontIcon('la-clinic-medical', 'las')
+export const ClipboardIcon = createFontIcon('la-clipboard', 'las')
+export const ClipboardCheckIcon = createFontIcon('la-clipboard-check', 'las')
+export const ClipboardListIcon = createFontIcon('la-clipboard-list', 'las')
+export const ClockIcon = createFontIcon('la-clock', 'las')
+export const CloneIcon = createFontIcon('la-clone', 'las')
+export const ClosedCaptioningIcon = createFontIcon('la-closed-captioning', 'las')
+export const CloudIcon = createFontIcon('la-cloud', 'las')
+export const CloudDownloadAltIcon = createFontIcon('la-cloud-download-alt', 'las')
+export const CloudMeatballIcon = createFontIcon('la-cloud-meatball', 'las')
+export const CloudMoonIcon = createFontIcon('la-cloud-moon', 'las')
+export const CloudMoonRainIcon = createFontIcon('la-cloud-moon-rain', 'las')
+export const CloudRainIcon = createFontIcon('la-cloud-rain', 'las')
+export const CloudShowersHeavyIcon = createFontIcon('la-cloud-showers-heavy', 'las')
+export const CloudSunIcon = createFontIcon('la-cloud-sun', 'las')
+export const CloudSunRainIcon = createFontIcon('la-cloud-sun-rain', 'las')
+export const CloudUploadAltIcon = createFontIcon('la-cloud-upload-alt', 'las')
+export const CloudscaleIcon = createFontIcon('la-cloudscale', 'lab')
+export const CloudsmithIcon = createFontIcon('la-cloudsmith', 'lab')
+export const CloudversifyIcon = createFontIcon('la-cloudversify', 'lab')
+export const CocktailIcon = createFontIcon('la-cocktail', 'las')
+export const CodeIcon = createFontIcon('la-code', 'las')
+export const CodeBranchIcon = createFontIcon('la-code-branch', 'las')
+export const CodepenIcon = createFontIcon('la-codepen', 'lab')
+export const CodiepieIcon = createFontIcon('la-codiepie', 'lab')
+export const CoffeeIcon = createFontIcon('la-coffee', 'las')
+export const CogIcon = createFontIcon('la-cog', 'las')
+export const CogsIcon = createFontIcon('la-cogs', 'las')
+export const CoinsIcon = createFontIcon('la-coins', 'las')
+export const ColumnsIcon = createFontIcon('la-columns', 'las')
+export const CommentIcon = createFontIcon('la-comment', 'las')
+export const CommentAltIcon = createFontIcon('la-comment-alt', 'las')
+export const CommentDollarIcon = createFontIcon('la-comment-dollar', 'las')
+export const CommentDotsIcon = createFontIcon('la-comment-dots', 'las')
+export const CommentMedicalIcon = createFontIcon('la-comment-medical', 'las')
+export const CommentSlashIcon = createFontIcon('la-comment-slash', 'las')
+export const CommentsIcon = createFontIcon('la-comments', 'las')
+export const CommentsDollarIcon = createFontIcon('la-comments-dollar', 'las')
+export const CompactDiscIcon = createFontIcon('la-compact-disc', 'las')
+export const CompassIcon = createFontIcon('la-compass', 'las')
+export const CompressIcon = createFontIcon('la-compress', 'las')
+export const CompressArrowsAltIcon = createFontIcon('la-compress-arrows-alt', 'las')
+export const ConciergeBellIcon = createFontIcon('la-concierge-bell', 'las')
+export const ConfluenceIcon = createFontIcon('la-confluence', 'lab')
+export const ConnectdevelopIcon = createFontIcon('la-connectdevelop', 'lab')
+export const ContaoIcon = createFontIcon('la-contao', 'lab')
+export const CookieIcon = createFontIcon('la-cookie', 'las')
+export const CookieBiteIcon = createFontIcon('la-cookie-bite', 'las')
+export const CopyIcon = createFontIcon('la-copy', 'las')
+export const CopyrightIcon = createFontIcon('la-copyright', 'las')
+export const CottonBureauIcon = createFontIcon('la-cotton-bureau', 'lab')
+export const CouchIcon = createFontIcon('la-couch', 'las')
+export const CpanelIcon = createFontIcon('la-cpanel', 'lab')
+export const CreativeCommonsIcon = createFontIcon('la-creative-commons', 'lab')
+export const CreativeCommonsByIcon = createFontIcon('la-creative-commons-by', 'lab')
+export const CreativeCommonsNcIcon = createFontIcon('la-creative-commons-nc', 'lab')
+export const CreativeCommonsNcEuIcon = createFontIcon('la-creative-commons-nc-eu', 'lab')
+export const CreativeCommonsNcJpIcon = createFontIcon('la-creative-commons-nc-jp', 'lab')
+export const CreativeCommonsNdIcon = createFontIcon('la-creative-commons-nd', 'lab')
+export const CreativeCommonsPdIcon = createFontIcon('la-creative-commons-pd', 'lab')
+export const CreativeCommonsPdAltIcon = createFontIcon('la-creative-commons-pd-alt', 'lab')
+export const CreativeCommonsRemixIcon = createFontIcon('la-creative-commons-remix', 'lab')
+export const CreativeCommonsSaIcon = createFontIcon('la-creative-commons-sa', 'lab')
+export const CreativeCommonsSamplingIcon = createFontIcon('la-creative-commons-sampling', 'lab')
+export const CreativeCommonsSamplingPlusIcon = createFontIcon('la-creative-commons-sampling-plus', 'lab')
+export const CreativeCommonsShareIcon = createFontIcon('la-creative-commons-share', 'lab')
+export const CreativeCommonsZeroIcon = createFontIcon('la-creative-commons-zero', 'lab')
+export const CreditCardIcon = createFontIcon('la-credit-card', 'las')
+export const CriticalRoleIcon = createFontIcon('la-critical-role', 'lab')
+export const CropIcon = createFontIcon('la-crop', 'las')
+export const CropAltIcon = createFontIcon('la-crop-alt', 'las')
+export const CrossIcon = createFontIcon('la-cross', 'las')
+export const CrosshairsIcon = createFontIcon('la-crosshairs', 'las')
+export const CrowIcon = createFontIcon('la-crow', 'las')
+export const CrownIcon = createFontIcon('la-crown', 'las')
+export const CrutchIcon = createFontIcon('la-crutch', 'las')
+export const Css3Icon = createFontIcon('la-css3', 'lab')
+export const Css3AltIcon = createFontIcon('la-css3-alt', 'lab')
+export const CubeIcon = createFontIcon('la-cube', 'las')
+export const CubesIcon = createFontIcon('la-cubes', 'las')
+export const CutIcon = createFontIcon('la-cut', 'las')
+export const CuttlefishIcon = createFontIcon('la-cuttlefish', 'lab')
+export const DAndDIcon = createFontIcon('la-d-and-d', 'lab')
+export const DAndDBeyondIcon = createFontIcon('la-d-and-d-beyond', 'lab')
+export const DashcubeIcon = createFontIcon('la-dashcube', 'lab')
+export const DatabaseIcon = createFontIcon('la-database', 'las')
+export const DeafIcon = createFontIcon('la-deaf', 'las')
+export const DeliciousIcon = createFontIcon('la-delicious', 'lab')
+export const DemocratIcon = createFontIcon('la-democrat', 'las')
+export const DeploydogIcon = createFontIcon('la-deploydog', 'lab')
+export const DeskproIcon = createFontIcon('la-deskpro', 'lab')
+export const DesktopIcon = createFontIcon('la-desktop', 'las')
+export const DevIcon = createFontIcon('la-dev', 'lab')
+export const DeviantartIcon = createFontIcon('la-deviantart', 'lab')
+export const DharmachakraIcon = createFontIcon('la-dharmachakra', 'las')
+export const DhlIcon = createFontIcon('la-dhl', 'lab')
+export const DiagnosesIcon = createFontIcon('la-diagnoses', 'las')
+export const DiasporaIcon = createFontIcon('la-diaspora', 'lab')
+export const DiceIcon = createFontIcon('la-dice', 'las')
+export const DiceD20Icon = createFontIcon('la-dice-d20', 'las')
+export const DiceD6Icon = createFontIcon('la-dice-d6', 'las')
+export const DiceFiveIcon = createFontIcon('la-dice-five', 'las')
+export const DiceFourIcon = createFontIcon('la-dice-four', 'las')
+export const DiceOneIcon = createFontIcon('la-dice-one', 'las')
+export const DiceSixIcon = createFontIcon('la-dice-six', 'las')
+export const DiceThreeIcon = createFontIcon('la-dice-three', 'las')
+export const DiceTwoIcon = createFontIcon('la-dice-two', 'las')
+export const DiggIcon = createFontIcon('la-digg', 'lab')
+export const DigitalOceanIcon = createFontIcon('la-digital-ocean', 'lab')
+export const DigitalTachographIcon = createFontIcon('la-digital-tachograph', 'las')
+export const DirectionsIcon = createFontIcon('la-directions', 'las')
+export const DiscordIcon = createFontIcon('la-discord', 'lab')
+export const DiscourseIcon = createFontIcon('la-discourse', 'lab')
+export const DivideIcon = createFontIcon('la-divide', 'las')
+export const DizzyIcon = createFontIcon('la-dizzy', 'las')
+export const DnaIcon = createFontIcon('la-dna', 'las')
+export const DochubIcon = createFontIcon('la-dochub', 'lab')
+export const DockerIcon = createFontIcon('la-docker', 'lab')
+export const DogIcon = createFontIcon('la-dog', 'las')
+export const DollarSignIcon = createFontIcon('la-dollar-sign', 'las')
+export const DollyIcon = createFontIcon('la-dolly', 'las')
+export const DollyFlatbedIcon = createFontIcon('la-dolly-flatbed', 'las')
+export const DonateIcon = createFontIcon('la-donate', 'las')
+export const DoorClosedIcon = createFontIcon('la-door-closed', 'las')
+export const DoorOpenIcon = createFontIcon('la-door-open', 'las')
+export const DotCircleIcon = createFontIcon('la-dot-circle', 'las')
+export const DoveIcon = createFontIcon('la-dove', 'las')
+export const DownloadIcon = createFontIcon('la-download', 'las')
+export const Draft2digitalIcon = createFontIcon('la-draft2digital', 'lab')
+export const DraftingCompassIcon = createFontIcon('la-drafting-compass', 'las')
+export const DragonIcon = createFontIcon('la-dragon', 'las')
+export const DrawPolygonIcon = createFontIcon('la-draw-polygon', 'las')
+export const DribbbleIcon = createFontIcon('la-dribbble', 'lab')
+export const DribbbleSquareIcon = createFontIcon('la-dribbble-square', 'lab')
+export const DropboxIcon = createFontIcon('la-dropbox', 'lab')
+export const DrumIcon = createFontIcon('la-drum', 'las')
+export const DrumSteelpanIcon = createFontIcon('la-drum-steelpan', 'las')
+export const DrumstickBiteIcon = createFontIcon('la-drumstick-bite', 'las')
+export const DrupalIcon = createFontIcon('la-drupal', 'lab')
+export const DumbbellIcon = createFontIcon('la-dumbbell', 'las')
+export const DumpsterIcon = createFontIcon('la-dumpster', 'las')
+export const DumpsterFireIcon = createFontIcon('la-dumpster-fire', 'las')
+export const DungeonIcon = createFontIcon('la-dungeon', 'las')
+export const DyalogIcon = createFontIcon('la-dyalog', 'lab')
+export const EarlybirdsIcon = createFontIcon('la-earlybirds', 'lab')
+export const EbayIcon = createFontIcon('la-ebay', 'lab')
+export const EdgeIcon = createFontIcon('la-edge', 'lab')
+export const EditIcon = createFontIcon('la-edit', 'las')
+export const EggIcon = createFontIcon('la-egg', 'las')
+export const EjectIcon = createFontIcon('la-eject', 'las')
+export const ElementorIcon = createFontIcon('la-elementor', 'lab')
+export const EllipsisHIcon = createFontIcon('la-ellipsis-h', 'las')
+export const EllipsisVIcon = createFontIcon('la-ellipsis-v', 'las')
+export const ElloIcon = createFontIcon('la-ello', 'lab')
+export const EmberIcon = createFontIcon('la-ember', 'lab')
+export const EmpireIcon = createFontIcon('la-empire', 'lab')
+export const EnvelopeIcon = createFontIcon('la-envelope', 'las')
+export const EnvelopeOpenIcon = createFontIcon('la-envelope-open', 'las')
+export const EnvelopeOpenTextIcon = createFontIcon('la-envelope-open-text', 'las')
+export const EnvelopeSquareIcon = createFontIcon('la-envelope-square', 'las')
+export const EnviraIcon = createFontIcon('la-envira', 'lab')
+export const EqualsIcon = createFontIcon('la-equals', 'las')
+export const EraserIcon = createFontIcon('la-eraser', 'las')
+export const ErlangIcon = createFontIcon('la-erlang', 'lab')
+export const EthereumIcon = createFontIcon('la-ethereum', 'lab')
+export const EthernetIcon = createFontIcon('la-ethernet', 'las')
+export const EtsyIcon = createFontIcon('la-etsy', 'lab')
+export const EuroSignIcon = createFontIcon('la-euro-sign', 'las')
+export const EvernoteIcon = createFontIcon('la-evernote', 'lab')
+export const ExchangeAltIcon = createFontIcon('la-exchange-alt', 'las')
+export const ExclamationIcon = createFontIcon('la-exclamation', 'las')
+export const ExclamationCircleIcon = createFontIcon('la-exclamation-circle', 'las')
+export const ExclamationTriangleIcon = createFontIcon('la-exclamation-triangle', 'las')
+export const ExpandIcon = createFontIcon('la-expand', 'las')
+export const ExpandArrowsAltIcon = createFontIcon('la-expand-arrows-alt', 'las')
+export const ExpeditedsslIcon = createFontIcon('la-expeditedssl', 'lab')
+export const ExternalLinkAltIcon = createFontIcon('la-external-link-alt', 'las')
+export const ExternalLinkSquareAltIcon = createFontIcon('la-external-link-square-alt', 'las')
+export const EyeIcon = createFontIcon('la-eye', 'las')
+export const EyeDropperIcon = createFontIcon('la-eye-dropper', 'las')
+export const EyeSlashIcon = createFontIcon('la-eye-slash', 'las')
+export const FacebookIcon = createFontIcon('la-facebook', 'lab')
+export const FacebookFIcon = createFontIcon('la-facebook-f', 'lab')
+export const FacebookMessengerIcon = createFontIcon('la-facebook-messenger', 'lab')
+export const FacebookSquareIcon = createFontIcon('la-facebook-square', 'lab')
+export const FanIcon = createFontIcon('la-fan', 'las')
+export const FantasyFlightGamesIcon = createFontIcon('la-fantasy-flight-games', 'lab')
+export const FastBackwardIcon = createFontIcon('la-fast-backward', 'las')
+export const FastForwardIcon = createFontIcon('la-fast-forward', 'las')
+export const FaxIcon = createFontIcon('la-fax', 'las')
+export const FeatherIcon = createFontIcon('la-feather', 'las')
+export const FeatherAltIcon = createFontIcon('la-feather-alt', 'las')
+export const FedexIcon = createFontIcon('la-fedex', 'lab')
+export const FedoraIcon = createFontIcon('la-fedora', 'lab')
+export const FemaleIcon = createFontIcon('la-female', 'las')
+export const FighterJetIcon = createFontIcon('la-fighter-jet', 'las')
+export const FigmaIcon = createFontIcon('la-figma', 'lab')
+export const FileIcon = createFontIcon('la-file', 'las')
+export const FileAltIcon = createFontIcon('la-file-alt', 'las')
+export const FileArchiveIcon = createFontIcon('la-file-archive', 'las')
+export const FileAudioIcon = createFontIcon('la-file-audio', 'las')
+export const FileCodeIcon = createFontIcon('la-file-code', 'las')
+export const FileContractIcon = createFontIcon('la-file-contract', 'las')
+export const FileCsvIcon = createFontIcon('la-file-csv', 'las')
+export const FileDownloadIcon = createFontIcon('la-file-download', 'las')
+export const FileExcelIcon = createFontIcon('la-file-excel', 'las')
+export const FileExportIcon = createFontIcon('la-file-export', 'las')
+export const FileImageIcon = createFontIcon('la-file-image', 'las')
+export const FileImportIcon = createFontIcon('la-file-import', 'las')
+export const FileInvoiceIcon = createFontIcon('la-file-invoice', 'las')
+export const FileInvoiceDollarIcon = createFontIcon('la-file-invoice-dollar', 'las')
+export const FileMedicalIcon = createFontIcon('la-file-medical', 'las')
+export const FileMedicalAltIcon = createFontIcon('la-file-medical-alt', 'las')
+export const FilePdfIcon = createFontIcon('la-file-pdf', 'las')
+export const FilePowerpointIcon = createFontIcon('la-file-powerpoint', 'las')
+export const FilePrescriptionIcon = createFontIcon('la-file-prescription', 'las')
+export const FileSignatureIcon = createFontIcon('la-file-signature', 'las')
+export const FileUploadIcon = createFontIcon('la-file-upload', 'las')
+export const FileVideoIcon = createFontIcon('la-file-video', 'las')
+export const FileWordIcon = createFontIcon('la-file-word', 'las')
+export const FillIcon = createFontIcon('la-fill', 'las')
+export const FillDripIcon = createFontIcon('la-fill-drip', 'las')
+export const FilmIcon = createFontIcon('la-film', 'las')
+export const FilterIcon = createFontIcon('la-filter', 'las')
+export const FingerprintIcon = createFontIcon('la-fingerprint', 'las')
+export const FireIcon = createFontIcon('la-fire', 'las')
+export const FireAltIcon = createFontIcon('la-fire-alt', 'las')
+export const FireExtinguisherIcon = createFontIcon('la-fire-extinguisher', 'las')
+export const FirefoxIcon = createFontIcon('la-firefox', 'lab')
+export const FirstAidIcon = createFontIcon('la-first-aid', 'las')
+export const FirstOrderIcon = createFontIcon('la-first-order', 'lab')
+export const FirstOrderAltIcon = createFontIcon('la-first-order-alt', 'lab')
+export const FirstdraftIcon = createFontIcon('la-firstdraft', 'lab')
+export const FishIcon = createFontIcon('la-fish', 'las')
+export const FistRaisedIcon = createFontIcon('la-fist-raised', 'las')
+export const FlagIcon = createFontIcon('la-flag', 'las')
+export const FlagCheckeredIcon = createFontIcon('la-flag-checkered', 'las')
+export const FlagUsaIcon = createFontIcon('la-flag-usa', 'las')
+export const FlaskIcon = createFontIcon('la-flask', 'las')
+export const FlickrIcon = createFontIcon('la-flickr', 'lab')
+export const FlipboardIcon = createFontIcon('la-flipboard', 'lab')
+export const FlushedIcon = createFontIcon('la-flushed', 'las')
+export const FlyIcon = createFontIcon('la-fly', 'lab')
+export const FolderIcon = createFontIcon('la-folder', 'las')
+export const FolderMinusIcon = createFontIcon('la-folder-minus', 'las')
+export const FolderOpenIcon = createFontIcon('la-folder-open', 'las')
+export const FolderPlusIcon = createFontIcon('la-folder-plus', 'las')
+export const FontIcon = createFontIcon('la-font', 'las')
+export const FontAwesomeIcon = createFontIcon('la-font-awesome', 'lab')
+export const FontAwesomeAltIcon = createFontIcon('la-font-awesome-alt', 'lab')
+export const FontAwesomeFlagIcon = createFontIcon('la-font-awesome-flag', 'lab')
+export const FontAwesomeLogoFullIcon = createFontIcon('la-font-awesome-logo-full', 'la')
+export const FonticonsIcon = createFontIcon('la-fonticons', 'lab')
+export const FonticonsFiIcon = createFontIcon('la-fonticons-fi', 'lab')
+export const FootballBallIcon = createFontIcon('la-football-ball', 'las')
+export const FortAwesomeIcon = createFontIcon('la-fort-awesome', 'lab')
+export const FortAwesomeAltIcon = createFontIcon('la-fort-awesome-alt', 'lab')
+export const ForumbeeIcon = createFontIcon('la-forumbee', 'lab')
+export const ForwardIcon = createFontIcon('la-forward', 'las')
+export const FoursquareIcon = createFontIcon('la-foursquare', 'lab')
+export const FreeCodeCampIcon = createFontIcon('la-free-code-camp', 'lab')
+export const FreebsdIcon = createFontIcon('la-freebsd', 'lab')
+export const FrogIcon = createFontIcon('la-frog', 'las')
+export const FrownIcon = createFontIcon('la-frown', 'las')
+export const FrownOpenIcon = createFontIcon('la-frown-open', 'las')
+export const FulcrumIcon = createFontIcon('la-fulcrum', 'lab')
+export const FunnelDollarIcon = createFontIcon('la-funnel-dollar', 'las')
+export const FutbolIcon = createFontIcon('la-futbol', 'las')
+export const GalacticRepublicIcon = createFontIcon('la-galactic-republic', 'lab')
+export const GalacticSenateIcon = createFontIcon('la-galactic-senate', 'lab')
+export const GamepadIcon = createFontIcon('la-gamepad', 'las')
+export const GasPumpIcon = createFontIcon('la-gas-pump', 'las')
+export const GavelIcon = createFontIcon('la-gavel', 'las')
+export const GemIcon = createFontIcon('la-gem', 'las')
+export const GenderlessIcon = createFontIcon('la-genderless', 'las')
+export const GetPocketIcon = createFontIcon('la-get-pocket', 'lab')
+export const GgIcon = createFontIcon('la-gg', 'lab')
+export const GgCircleIcon = createFontIcon('la-gg-circle', 'lab')
+export const GhostIcon = createFontIcon('la-ghost', 'las')
+export const GiftIcon = createFontIcon('la-gift', 'las')
+export const GiftsIcon = createFontIcon('la-gifts', 'las')
+export const GitIcon = createFontIcon('la-git', 'lab')
+export const GitAltIcon = createFontIcon('la-git-alt', 'lab')
+export const GitSquareIcon = createFontIcon('la-git-square', 'lab')
+export const GithubIcon = createFontIcon('la-github', 'lab')
+export const GithubAltIcon = createFontIcon('la-github-alt', 'lab')
+export const GithubSquareIcon = createFontIcon('la-github-square', 'lab')
+export const GitkrakenIcon = createFontIcon('la-gitkraken', 'lab')
+export const GitlabIcon = createFontIcon('la-gitlab', 'lab')
+export const GitterIcon = createFontIcon('la-gitter', 'lab')
+export const GlassCheersIcon = createFontIcon('la-glass-cheers', 'las')
+export const GlassMartiniIcon = createFontIcon('la-glass-martini', 'las')
+export const GlassMartiniAltIcon = createFontIcon('la-glass-martini-alt', 'las')
+export const GlassWhiskeyIcon = createFontIcon('la-glass-whiskey', 'las')
+export const GlassesIcon = createFontIcon('la-glasses', 'las')
+export const GlideIcon = createFontIcon('la-glide', 'lab')
+export const GlideGIcon = createFontIcon('la-glide-g', 'lab')
+export const GlobeIcon = createFontIcon('la-globe', 'las')
+export const GlobeAfricaIcon = createFontIcon('la-globe-africa', 'las')
+export const GlobeAmericasIcon = createFontIcon('la-globe-americas', 'las')
+export const GlobeAsiaIcon = createFontIcon('la-globe-asia', 'las')
+export const GlobeEuropeIcon = createFontIcon('la-globe-europe', 'las')
+export const GoforeIcon = createFontIcon('la-gofore', 'lab')
+export const GolfBallIcon = createFontIcon('la-golf-ball', 'las')
+export const GoodreadsIcon = createFontIcon('la-goodreads', 'lab')
+export const GoodreadsGIcon = createFontIcon('la-goodreads-g', 'lab')
+export const GoogleIcon = createFontIcon('la-google', 'lab')
+export const GoogleDriveIcon = createFontIcon('la-google-drive', 'lab')
+export const GooglePlayIcon = createFontIcon('la-google-play', 'lab')
+export const GooglePlusIcon = createFontIcon('la-google-plus', 'lab')
+export const GooglePlusGIcon = createFontIcon('la-google-plus-g', 'lab')
+export const GooglePlusSquareIcon = createFontIcon('la-google-plus-square', 'lab')
+export const GoogleWalletIcon = createFontIcon('la-google-wallet', 'lab')
+export const GopuramIcon = createFontIcon('la-gopuram', 'las')
+export const GraduationCapIcon = createFontIcon('la-graduation-cap', 'las')
+export const GratipayIcon = createFontIcon('la-gratipay', 'lab')
+export const GravIcon = createFontIcon('la-grav', 'lab')
+export const GreaterThanIcon = createFontIcon('la-greater-than', 'las')
+export const GreaterThanEqualIcon = createFontIcon('la-greater-than-equal', 'las')
+export const GrimaceIcon = createFontIcon('la-grimace', 'las')
+export const GrinIcon = createFontIcon('la-grin', 'las')
+export const GrinAltIcon = createFontIcon('la-grin-alt', 'las')
+export const GrinBeamIcon = createFontIcon('la-grin-beam', 'las')
+export const GrinBeamSweatIcon = createFontIcon('la-grin-beam-sweat', 'las')
+export const GrinHeartsIcon = createFontIcon('la-grin-hearts', 'las')
+export const GrinSquintIcon = createFontIcon('la-grin-squint', 'las')
+export const GrinSquintTearsIcon = createFontIcon('la-grin-squint-tears', 'las')
+export const GrinStarsIcon = createFontIcon('la-grin-stars', 'las')
+export const GrinTearsIcon = createFontIcon('la-grin-tears', 'las')
+export const GrinTongueIcon = createFontIcon('la-grin-tongue', 'las')
+export const GrinTongueSquintIcon = createFontIcon('la-grin-tongue-squint', 'las')
+export const GrinTongueWinkIcon = createFontIcon('la-grin-tongue-wink', 'las')
+export const GrinWinkIcon = createFontIcon('la-grin-wink', 'las')
+export const GripHorizontalIcon = createFontIcon('la-grip-horizontal', 'las')
+export const GripLinesIcon = createFontIcon('la-grip-lines', 'las')
+export const GripLinesVerticalIcon = createFontIcon('la-grip-lines-vertical', 'las')
+export const GripVerticalIcon = createFontIcon('la-grip-vertical', 'las')
+export const GripfireIcon = createFontIcon('la-gripfire', 'lab')
+export const GruntIcon = createFontIcon('la-grunt', 'lab')
+export const GuitarIcon = createFontIcon('la-guitar', 'las')
+export const GulpIcon = createFontIcon('la-gulp', 'lab')
+export const HSquareIcon = createFontIcon('la-h-square', 'las')
+export const HackerNewsIcon = createFontIcon('la-hacker-news', 'lab')
+export const HackerNewsSquareIcon = createFontIcon('la-hacker-news-square', 'lab')
+export const HackerrankIcon = createFontIcon('la-hackerrank', 'lab')
+export const HamburgerIcon = createFontIcon('la-hamburger', 'las')
+export const HammerIcon = createFontIcon('la-hammer', 'las')
+export const HamsaIcon = createFontIcon('la-hamsa', 'las')
+export const HandHoldingIcon = createFontIcon('la-hand-holding', 'las')
+export const HandHoldingHeartIcon = createFontIcon('la-hand-holding-heart', 'las')
+export const HandHoldingUsdIcon = createFontIcon('la-hand-holding-usd', 'las')
+export const HandLizardIcon = createFontIcon('la-hand-lizard', 'las')
+export const HandMiddleFingerIcon = createFontIcon('la-hand-middle-finger', 'las')
+export const HandPaperIcon = createFontIcon('la-hand-paper', 'las')
+export const HandPeaceIcon = createFontIcon('la-hand-peace', 'las')
+export const HandPointDownIcon = createFontIcon('la-hand-point-down', 'las')
+export const HandPointLeftIcon = createFontIcon('la-hand-point-left', 'las')
+export const HandPointRightIcon = createFontIcon('la-hand-point-right', 'las')
+export const HandPointUpIcon = createFontIcon('la-hand-point-up', 'las')
+export const HandPointerIcon = createFontIcon('la-hand-pointer', 'las')
+export const HandRockIcon = createFontIcon('la-hand-rock', 'las')
+export const HandScissorsIcon = createFontIcon('la-hand-scissors', 'las')
+export const HandSpockIcon = createFontIcon('la-hand-spock', 'las')
+export const HandsIcon = createFontIcon('la-hands', 'las')
+export const HandsHelpingIcon = createFontIcon('la-hands-helping', 'las')
+export const HandshakeIcon = createFontIcon('la-handshake', 'las')
+export const HanukiahIcon = createFontIcon('la-hanukiah', 'las')
+export const HardHatIcon = createFontIcon('la-hard-hat', 'las')
+export const HashtagIcon = createFontIcon('la-hashtag', 'las')
+export const HatCowboyIcon = createFontIcon('la-hat-cowboy', 'las')
+export const HatCowboySideIcon = createFontIcon('la-hat-cowboy-side', 'las')
+export const HatWizardIcon = createFontIcon('la-hat-wizard', 'las')
+export const HaykalIcon = createFontIcon('la-haykal', 'las')
+export const HddIcon = createFontIcon('la-hdd', 'las')
+export const HeadingIcon = createFontIcon('la-heading', 'las')
+export const HeadphonesIcon = createFontIcon('la-headphones', 'las')
+export const HeadphonesAltIcon = createFontIcon('la-headphones-alt', 'las')
+export const HeadsetIcon = createFontIcon('la-headset', 'las')
+export const HeartIcon = createFontIcon('la-heart', 'las')
+export const HeartBrokenIcon = createFontIcon('la-heart-broken', 'las')
+export const HeartbeatIcon = createFontIcon('la-heartbeat', 'las')
+export const HelicopterIcon = createFontIcon('la-helicopter', 'las')
+export const HighlighterIcon = createFontIcon('la-highlighter', 'las')
+export const HikingIcon = createFontIcon('la-hiking', 'las')
+export const HippoIcon = createFontIcon('la-hippo', 'las')
+export const HipsIcon = createFontIcon('la-hips', 'lab')
+export const HireAHelperIcon = createFontIcon('la-hire-a-helper', 'lab')
+export const HistoryIcon = createFontIcon('la-history', 'las')
+export const HockeyPuckIcon = createFontIcon('la-hockey-puck', 'las')
+export const HollyBerryIcon = createFontIcon('la-holly-berry', 'las')
+export const HomeIcon = createFontIcon('la-home', 'las')
+export const HooliIcon = createFontIcon('la-hooli', 'lab')
+export const HornbillIcon = createFontIcon('la-hornbill', 'lab')
+export const HorseIcon = createFontIcon('la-horse', 'las')
+export const HorseHeadIcon = createFontIcon('la-horse-head', 'las')
+export const HospitalIcon = createFontIcon('la-hospital', 'las')
+export const HospitalAltIcon = createFontIcon('la-hospital-alt', 'las')
+export const HospitalSymbolIcon = createFontIcon('la-hospital-symbol', 'las')
+export const HotTubIcon = createFontIcon('la-hot-tub', 'las')
+export const HotdogIcon = createFontIcon('la-hotdog', 'las')
+export const HotelIcon = createFontIcon('la-hotel', 'las')
+export const HotjarIcon = createFontIcon('la-hotjar', 'lab')
+export const HourglassIcon = createFontIcon('la-hourglass', 'las')
+export const HourglassEndIcon = createFontIcon('la-hourglass-end', 'las')
+export const HourglassHalfIcon = createFontIcon('la-hourglass-half', 'las')
+export const HourglassStartIcon = createFontIcon('la-hourglass-start', 'las')
+export const HouseDamageIcon = createFontIcon('la-house-damage', 'las')
+export const HouzzIcon = createFontIcon('la-houzz', 'lab')
+export const HryvniaIcon = createFontIcon('la-hryvnia', 'las')
+export const Html5Icon = createFontIcon('la-html5', 'lab')
+export const HubspotIcon = createFontIcon('la-hubspot', 'lab')
+export const ICursorIcon = createFontIcon('la-i-cursor', 'las')
+export const IceCreamIcon = createFontIcon('la-ice-cream', 'las')
+export const IciclesIcon = createFontIcon('la-icicles', 'las')
+export const IconsIcon = createFontIcon('la-icons', 'las')
+export const IdBadgeIcon = createFontIcon('la-id-badge', 'las')
+export const IdCardIcon = createFontIcon('la-id-card', 'las')
+export const IdCardAltIcon = createFontIcon('la-id-card-alt', 'las')
+export const IglooIcon = createFontIcon('la-igloo', 'las')
+export const ImageIcon = createFontIcon('la-image', 'las')
+export const ImagesIcon = createFontIcon('la-images', 'las')
+export const ImdbIcon = createFontIcon('la-imdb', 'lab')
+export const InboxIcon = createFontIcon('la-inbox', 'las')
+export const IndentIcon = createFontIcon('la-indent', 'las')
+export const IndustryIcon = createFontIcon('la-industry', 'las')
+export const InfinityIcon = createFontIcon('la-infinity', 'las')
+export const InfoIcon = createFontIcon('la-info', 'las')
+export const InfoCircleIcon = createFontIcon('la-info-circle', 'las')
+export const InstagramIcon = createFontIcon('la-instagram', 'lab')
+export const IntercomIcon = createFontIcon('la-intercom', 'lab')
+export const InternetExplorerIcon = createFontIcon('la-internet-explorer', 'lab')
+export const InvisionIcon = createFontIcon('la-invision', 'lab')
+export const IoxhostIcon = createFontIcon('la-ioxhost', 'lab')
+export const ItalicIcon = createFontIcon('la-italic', 'las')
+export const ItchIoIcon = createFontIcon('la-itch-io', 'lab')
+export const ItunesIcon = createFontIcon('la-itunes', 'lab')
+export const ItunesNoteIcon = createFontIcon('la-itunes-note', 'lab')
+export const JavaIcon = createFontIcon('la-java', 'lab')
+export const JediIcon = createFontIcon('la-jedi', 'las')
+export const JediOrderIcon = createFontIcon('la-jedi-order', 'lab')
+export const JenkinsIcon = createFontIcon('la-jenkins', 'lab')
+export const JiraIcon = createFontIcon('la-jira', 'lab')
+export const JogetIcon = createFontIcon('la-joget', 'lab')
+export const JointIcon = createFontIcon('la-joint', 'las')
+export const JoomlaIcon = createFontIcon('la-joomla', 'lab')
+export const JournalWhillsIcon = createFontIcon('la-journal-whills', 'las')
+export const JsIcon = createFontIcon('la-js', 'lab')
+export const JsSquareIcon = createFontIcon('la-js-square', 'lab')
+export const JsfiddleIcon = createFontIcon('la-jsfiddle', 'lab')
+export const KaabaIcon = createFontIcon('la-kaaba', 'las')
+export const KaggleIcon = createFontIcon('la-kaggle', 'lab')
+export const KeyIcon = createFontIcon('la-key', 'las')
+export const KeybaseIcon = createFontIcon('la-keybase', 'lab')
+export const KeyboardIcon = createFontIcon('la-keyboard', 'las')
+export const KeycdnIcon = createFontIcon('la-keycdn', 'lab')
+export const KhandaIcon = createFontIcon('la-khanda', 'las')
+export const KickstarterIcon = createFontIcon('la-kickstarter', 'lab')
+export const KickstarterKIcon = createFontIcon('la-kickstarter-k', 'lab')
+export const KissIcon = createFontIcon('la-kiss', 'las')
+export const KissBeamIcon = createFontIcon('la-kiss-beam', 'las')
+export const KissWinkHeartIcon = createFontIcon('la-kiss-wink-heart', 'las')
+export const KiwiBirdIcon = createFontIcon('la-kiwi-bird', 'las')
+export const KorvueIcon = createFontIcon('la-korvue', 'lab')
+export const LandmarkIcon = createFontIcon('la-landmark', 'las')
+export const LanguageIcon = createFontIcon('la-language', 'las')
+export const LaptopIcon = createFontIcon('la-laptop', 'las')
+export const LaptopCodeIcon = createFontIcon('la-laptop-code', 'las')
+export const LaptopMedicalIcon = createFontIcon('la-laptop-medical', 'las')
+export const LaravelIcon = createFontIcon('la-laravel', 'lab')
+export const LastfmIcon = createFontIcon('la-lastfm', 'lab')
+export const LastfmSquareIcon = createFontIcon('la-lastfm-square', 'lab')
+export const LaughIcon = createFontIcon('la-laugh', 'las')
+export const LaughBeamIcon = createFontIcon('la-laugh-beam', 'las')
+export const LaughSquintIcon = createFontIcon('la-laugh-squint', 'las')
+export const LaughWinkIcon = createFontIcon('la-laugh-wink', 'las')
+export const LayerGroupIcon = createFontIcon('la-layer-group', 'las')
+export const LeafIcon = createFontIcon('la-leaf', 'las')
+export const LeanpubIcon = createFontIcon('la-leanpub', 'lab')
+export const LemonIcon = createFontIcon('la-lemon', 'las')
+export const LessIcon = createFontIcon('la-less', 'lab')
+export const LessThanIcon = createFontIcon('la-less-than', 'las')
+export const LessThanEqualIcon = createFontIcon('la-less-than-equal', 'las')
+export const LevelDownAltIcon = createFontIcon('la-level-down-alt', 'las')
+export const LevelUpAltIcon = createFontIcon('la-level-up-alt', 'las')
+export const LifeRingIcon = createFontIcon('la-life-ring', 'las')
+export const LightbulbIcon = createFontIcon('la-lightbulb', 'las')
+export const LineIcon = createFontIcon('la-line', 'lab')
+export const LinkIcon = createFontIcon('la-link', 'las')
+export const LinkedinIcon = createFontIcon('la-linkedin', 'lab')
+export const LinkedinInIcon = createFontIcon('la-linkedin-in', 'lab')
+export const LinodeIcon = createFontIcon('la-linode', 'lab')
+export const LinuxIcon = createFontIcon('la-linux', 'lab')
+export const LiraSignIcon = createFontIcon('la-lira-sign', 'las')
+export const ListIcon = createFontIcon('la-list', 'las')
+export const ListAltIcon = createFontIcon('la-list-alt', 'las')
+export const ListOlIcon = createFontIcon('la-list-ol', 'las')
+export const ListUlIcon = createFontIcon('la-list-ul', 'las')
+export const LocationArrowIcon = createFontIcon('la-location-arrow', 'las')
+export const LockIcon = createFontIcon('la-lock', 'las')
+export const LockOpenIcon = createFontIcon('la-lock-open', 'las')
+export const LongArrowAltDownIcon = createFontIcon('la-long-arrow-alt-down', 'las')
+export const LongArrowAltLeftIcon = createFontIcon('la-long-arrow-alt-left', 'las')
+export const LongArrowAltRightIcon = createFontIcon('la-long-arrow-alt-right', 'las')
+export const LongArrowAltUpIcon = createFontIcon('la-long-arrow-alt-up', 'las')
+export const LowVisionIcon = createFontIcon('la-low-vision', 'las')
+export const LuggageCartIcon = createFontIcon('la-luggage-cart', 'las')
+export const LyftIcon = createFontIcon('la-lyft', 'lab')
+export const MagentoIcon = createFontIcon('la-magento', 'lab')
+export const MagicIcon = createFontIcon('la-magic', 'las')
+export const MagnetIcon = createFontIcon('la-magnet', 'las')
+export const MailBulkIcon = createFontIcon('la-mail-bulk', 'las')
+export const MailchimpIcon = createFontIcon('la-mailchimp', 'lab')
+export const MaleIcon = createFontIcon('la-male', 'las')
+export const MandalorianIcon = createFontIcon('la-mandalorian', 'lab')
+export const MapIcon = createFontIcon('la-map', 'las')
+export const MapMarkedIcon = createFontIcon('la-map-marked', 'las')
+export const MapMarkedAltIcon = createFontIcon('la-map-marked-alt', 'las')
+export const MapMarkerIcon = createFontIcon('la-map-marker', 'las')
+export const MapMarkerAltIcon = createFontIcon('la-map-marker-alt', 'las')
+export const MapPinIcon = createFontIcon('la-map-pin', 'las')
+export const MapSignsIcon = createFontIcon('la-map-signs', 'las')
+export const MarkdownIcon = createFontIcon('la-markdown', 'lab')
+export const MarkerIcon = createFontIcon('la-marker', 'las')
+export const MarsIcon = createFontIcon('la-mars', 'las')
+export const MarsDoubleIcon = createFontIcon('la-mars-double', 'las')
+export const MarsStrokeIcon = createFontIcon('la-mars-stroke', 'las')
+export const MarsStrokeHIcon = createFontIcon('la-mars-stroke-h', 'las')
+export const MarsStrokeVIcon = createFontIcon('la-mars-stroke-v', 'las')
+export const MaskIcon = createFontIcon('la-mask', 'las')
+export const MastodonIcon = createFontIcon('la-mastodon', 'lab')
+export const MaxcdnIcon = createFontIcon('la-maxcdn', 'lab')
+export const MdbIcon = createFontIcon('la-mdb', 'lab')
+export const MedalIcon = createFontIcon('la-medal', 'las')
+export const MedappsIcon = createFontIcon('la-medapps', 'lab')
+export const MediumIcon = createFontIcon('la-medium', 'lab')
+export const MediumMIcon = createFontIcon('la-medium-m', 'lab')
+export const MedkitIcon = createFontIcon('la-medkit', 'las')
+export const MedrtIcon = createFontIcon('la-medrt', 'lab')
+export const MeetupIcon = createFontIcon('la-meetup', 'lab')
+export const MegaportIcon = createFontIcon('la-megaport', 'lab')
+export const MehIcon = createFontIcon('la-meh', 'las')
+export const MehBlankIcon = createFontIcon('la-meh-blank', 'las')
+export const MehRollingEyesIcon = createFontIcon('la-meh-rolling-eyes', 'las')
+export const MemoryIcon = createFontIcon('la-memory', 'las')
+export const MendeleyIcon = createFontIcon('la-mendeley', 'lab')
+export const MenorahIcon = createFontIcon('la-menorah', 'las')
+export const MercuryIcon = createFontIcon('la-mercury', 'las')
+export const MeteorIcon = createFontIcon('la-meteor', 'las')
+export const MicrochipIcon = createFontIcon('la-microchip', 'las')
+export const MicrophoneIcon = createFontIcon('la-microphone', 'las')
+export const MicrophoneAltIcon = createFontIcon('la-microphone-alt', 'las')
+export const MicrophoneAltSlashIcon = createFontIcon('la-microphone-alt-slash', 'las')
+export const MicrophoneSlashIcon = createFontIcon('la-microphone-slash', 'las')
+export const MicroscopeIcon = createFontIcon('la-microscope', 'las')
+export const MicrosoftIcon = createFontIcon('la-microsoft', 'lab')
+export const MinusIcon = createFontIcon('la-minus', 'las')
+export const MinusCircleIcon = createFontIcon('la-minus-circle', 'las')
+export const MinusSquareIcon = createFontIcon('la-minus-square', 'las')
+export const MittenIcon = createFontIcon('la-mitten', 'las')
+export const MixIcon = createFontIcon('la-mix', 'lab')
+export const MixcloudIcon = createFontIcon('la-mixcloud', 'lab')
+export const MizuniIcon = createFontIcon('la-mizuni', 'lab')
+export const MobileIcon = createFontIcon('la-mobile', 'las')
+export const MobileAltIcon = createFontIcon('la-mobile-alt', 'las')
+export const ModxIcon = createFontIcon('la-modx', 'lab')
+export const MoneroIcon = createFontIcon('la-monero', 'lab')
+export const MoneyBillIcon = createFontIcon('la-money-bill', 'las')
+export const MoneyBillAltIcon = createFontIcon('la-money-bill-alt', 'las')
+export const MoneyBillWaveIcon = createFontIcon('la-money-bill-wave', 'las')
+export const MoneyBillWaveAltIcon = createFontIcon('la-money-bill-wave-alt', 'las')
+export const MoneyCheckIcon = createFontIcon('la-money-check', 'las')
+export const MoneyCheckAltIcon = createFontIcon('la-money-check-alt', 'las')
+export const MonumentIcon = createFontIcon('la-monument', 'las')
+export const MoonIcon = createFontIcon('la-moon', 'las')
+export const MortarPestleIcon = createFontIcon('la-mortar-pestle', 'las')
+export const MosqueIcon = createFontIcon('la-mosque', 'las')
+export const MotorcycleIcon = createFontIcon('la-motorcycle', 'las')
+export const MountainIcon = createFontIcon('la-mountain', 'las')
+export const MouseIcon = createFontIcon('la-mouse', 'las')
+export const MousePointerIcon = createFontIcon('la-mouse-pointer', 'las')
+export const MugHotIcon = createFontIcon('la-mug-hot', 'las')
+export const MusicIcon = createFontIcon('la-music', 'las')
+export const NapsterIcon = createFontIcon('la-napster', 'lab')
+export const NeosIcon = createFontIcon('la-neos', 'lab')
+export const NetworkWiredIcon = createFontIcon('la-network-wired', 'las')
+export const NeuterIcon = createFontIcon('la-neuter', 'las')
+export const NewspaperIcon = createFontIcon('la-newspaper', 'las')
+export const NimblrIcon = createFontIcon('la-nimblr', 'lab')
+export const NodeIcon = createFontIcon('la-node', 'lab')
+export const NodeJsIcon = createFontIcon('la-node-js', 'lab')
+export const NotEqualIcon = createFontIcon('la-not-equal', 'las')
+export const NotesMedicalIcon = createFontIcon('la-notes-medical', 'las')
+export const NpmIcon = createFontIcon('la-npm', 'lab')
+export const Ns8Icon = createFontIcon('la-ns8', 'lab')
+export const NutritionixIcon = createFontIcon('la-nutritionix', 'lab')
+export const ObjectGroupIcon = createFontIcon('la-object-group', 'las')
+export const ObjectUngroupIcon = createFontIcon('la-object-ungroup', 'las')
+export const OdnoklassnikiIcon = createFontIcon('la-odnoklassniki', 'lab')
+export const OdnoklassnikiSquareIcon = createFontIcon('la-odnoklassniki-square', 'lab')
+export const OilCanIcon = createFontIcon('la-oil-can', 'las')
+export const OldRepublicIcon = createFontIcon('la-old-republic', 'lab')
+export const OmIcon = createFontIcon('la-om', 'las')
+export const OpencartIcon = createFontIcon('la-opencart', 'lab')
+export const OpenidIcon = createFontIcon('la-openid', 'lab')
+export const OperaIcon = createFontIcon('la-opera', 'lab')
+export const OptinMonsterIcon = createFontIcon('la-optin-monster', 'lab')
+export const OrcidIcon = createFontIcon('la-orcid', 'lab')
+export const OsiIcon = createFontIcon('la-osi', 'lab')
+export const OtterIcon = createFontIcon('la-otter', 'las')
+export const OutdentIcon = createFontIcon('la-outdent', 'las')
+export const Page4Icon = createFontIcon('la-page4', 'lab')
+export const PagelinesIcon = createFontIcon('la-pagelines', 'lab')
+export const PagerIcon = createFontIcon('la-pager', 'las')
+export const PaintBrushIcon = createFontIcon('la-paint-brush', 'las')
+export const PaintRollerIcon = createFontIcon('la-paint-roller', 'las')
+export const PaletteIcon = createFontIcon('la-palette', 'las')
+export const PalfedIcon = createFontIcon('la-palfed', 'lab')
+export const PalletIcon = createFontIcon('la-pallet', 'las')
+export const PaperPlaneIcon = createFontIcon('la-paper-plane', 'las')
+export const PaperclipIcon = createFontIcon('la-paperclip', 'las')
+export const ParachuteBoxIcon = createFontIcon('la-parachute-box', 'las')
+export const ParagraphIcon = createFontIcon('la-paragraph', 'las')
+export const ParkingIcon = createFontIcon('la-parking', 'las')
+export const PassportIcon = createFontIcon('la-passport', 'las')
+export const PastafarianismIcon = createFontIcon('la-pastafarianism', 'las')
+export const PasteIcon = createFontIcon('la-paste', 'las')
+export const PatreonIcon = createFontIcon('la-patreon', 'lab')
+export const PauseIcon = createFontIcon('la-pause', 'las')
+export const PauseCircleIcon = createFontIcon('la-pause-circle', 'las')
+export const PawIcon = createFontIcon('la-paw', 'las')
+export const PaypalIcon = createFontIcon('la-paypal', 'lab')
+export const PeaceIcon = createFontIcon('la-peace', 'las')
+export const PenIcon = createFontIcon('la-pen', 'las')
+export const PenAltIcon = createFontIcon('la-pen-alt', 'las')
+export const PenFancyIcon = createFontIcon('la-pen-fancy', 'las')
+export const PenNibIcon = createFontIcon('la-pen-nib', 'las')
+export const PenSquareIcon = createFontIcon('la-pen-square', 'las')
+export const PencilAltIcon = createFontIcon('la-pencil-alt', 'las')
+export const PencilRulerIcon = createFontIcon('la-pencil-ruler', 'las')
+export const PennyArcadeIcon = createFontIcon('la-penny-arcade', 'lab')
+export const PeopleCarryIcon = createFontIcon('la-people-carry', 'las')
+export const PepperHotIcon = createFontIcon('la-pepper-hot', 'las')
+export const PercentIcon = createFontIcon('la-percent', 'las')
+export const PercentageIcon = createFontIcon('la-percentage', 'las')
+export const PeriscopeIcon = createFontIcon('la-periscope', 'lab')
+export const PersonBoothIcon = createFontIcon('la-person-booth', 'las')
+export const PhabricatorIcon = createFontIcon('la-phabricator', 'lab')
+export const PhoenixFrameworkIcon = createFontIcon('la-phoenix-framework', 'lab')
+export const PhoenixSquadronIcon = createFontIcon('la-phoenix-squadron', 'lab')
+export const PhoneIcon = createFontIcon('la-phone', 'las')
+export const PhoneAltIcon = createFontIcon('la-phone-alt', 'las')
+export const PhoneSlashIcon = createFontIcon('la-phone-slash', 'las')
+export const PhoneSquareIcon = createFontIcon('la-phone-square', 'las')
+export const PhoneSquareAltIcon = createFontIcon('la-phone-square-alt', 'las')
+export const PhoneVolumeIcon = createFontIcon('la-phone-volume', 'las')
+export const PhotoVideoIcon = createFontIcon('la-photo-video', 'las')
+export const PhpIcon = createFontIcon('la-php', 'lab')
+export const PiedPiperIcon = createFontIcon('la-pied-piper', 'lab')
+export const PiedPiperAltIcon = createFontIcon('la-pied-piper-alt', 'lab')
+export const PiedPiperHatIcon = createFontIcon('la-pied-piper-hat', 'lab')
+export const PiedPiperPpIcon = createFontIcon('la-pied-piper-pp', 'lab')
+export const PiggyBankIcon = createFontIcon('la-piggy-bank', 'las')
+export const PillsIcon = createFontIcon('la-pills', 'las')
+export const PinterestIcon = createFontIcon('la-pinterest', 'lab')
+export const PinterestPIcon = createFontIcon('la-pinterest-p', 'lab')
+export const PinterestSquareIcon = createFontIcon('la-pinterest-square', 'lab')
+export const PizzaSliceIcon = createFontIcon('la-pizza-slice', 'las')
+export const PlaceOfWorshipIcon = createFontIcon('la-place-of-worship', 'las')
+export const PlaneIcon = createFontIcon('la-plane', 'las')
+export const PlaneArrivalIcon = createFontIcon('la-plane-arrival', 'las')
+export const PlaneDepartureIcon = createFontIcon('la-plane-departure', 'las')
+export const PlayIcon = createFontIcon('la-play', 'las')
+export const PlayCircleIcon = createFontIcon('la-play-circle', 'las')
+export const PlaystationIcon = createFontIcon('la-playstation', 'lab')
+export const PlugIcon = createFontIcon('la-plug', 'las')
+export const PlusIcon = createFontIcon('la-plus', 'las')
+export const PlusCircleIcon = createFontIcon('la-plus-circle', 'las')
+export const PlusSquareIcon = createFontIcon('la-plus-square', 'las')
+export const PodcastIcon = createFontIcon('la-podcast', 'las')
+export const PollIcon = createFontIcon('la-poll', 'las')
+export const PollHIcon = createFontIcon('la-poll-h', 'las')
+export const PooIcon = createFontIcon('la-poo', 'las')
+export const PooStormIcon = createFontIcon('la-poo-storm', 'las')
+export const PoopIcon = createFontIcon('la-poop', 'las')
+export const PortraitIcon = createFontIcon('la-portrait', 'las')
+export const PoundSignIcon = createFontIcon('la-pound-sign', 'las')
+export const PowerOffIcon = createFontIcon('la-power-off', 'las')
+export const PrayIcon = createFontIcon('la-pray', 'las')
+export const PrayingHandsIcon = createFontIcon('la-praying-hands', 'las')
+export const PrescriptionIcon = createFontIcon('la-prescription', 'las')
+export const PrescriptionBottleIcon = createFontIcon('la-prescription-bottle', 'las')
+export const PrescriptionBottleAltIcon = createFontIcon('la-prescription-bottle-alt', 'las')
+export const PrintIcon = createFontIcon('la-print', 'las')
+export const ProceduresIcon = createFontIcon('la-procedures', 'las')
+export const ProductHuntIcon = createFontIcon('la-product-hunt', 'lab')
+export const ProjectDiagramIcon = createFontIcon('la-project-diagram', 'las')
+export const PushedIcon = createFontIcon('la-pushed', 'lab')
+export const PuzzlePieceIcon = createFontIcon('la-puzzle-piece', 'las')
+export const PythonIcon = createFontIcon('la-python', 'lab')
+export const QqIcon = createFontIcon('la-qq', 'lab')
+export const QrcodeIcon = createFontIcon('la-qrcode', 'las')
+export const QuestionIcon = createFontIcon('la-question', 'las')
+export const QuestionCircleIcon = createFontIcon('la-question-circle', 'las')
+export const QuidditchIcon = createFontIcon('la-quidditch', 'las')
+export const QuinscapeIcon = createFontIcon('la-quinscape', 'lab')
+export const QuoraIcon = createFontIcon('la-quora', 'lab')
+export const QuoteLeftIcon = createFontIcon('la-quote-left', 'las')
+export const QuoteRightIcon = createFontIcon('la-quote-right', 'las')
+export const QuranIcon = createFontIcon('la-quran', 'las')
+export const RProjectIcon = createFontIcon('la-r-project', 'lab')
+export const RadiationIcon = createFontIcon('la-radiation', 'las')
+export const RadiationAltIcon = createFontIcon('la-radiation-alt', 'las')
+export const RainbowIcon = createFontIcon('la-rainbow', 'las')
+export const RandomIcon = createFontIcon('la-random', 'las')
+export const RaspberryPiIcon = createFontIcon('la-raspberry-pi', 'lab')
+export const RavelryIcon = createFontIcon('la-ravelry', 'lab')
+export const ReactIcon = createFontIcon('la-react', 'lab')
+export const ReacteuropeIcon = createFontIcon('la-reacteurope', 'lab')
+export const ReadmeIcon = createFontIcon('la-readme', 'lab')
+export const RebelIcon = createFontIcon('la-rebel', 'lab')
+export const ReceiptIcon = createFontIcon('la-receipt', 'las')
+export const RecordVinylIcon = createFontIcon('la-record-vinyl', 'las')
+export const RecycleIcon = createFontIcon('la-recycle', 'las')
+export const RedRiverIcon = createFontIcon('la-red-river', 'lab')
+export const RedditIcon = createFontIcon('la-reddit', 'lab')
+export const RedditAlienIcon = createFontIcon('la-reddit-alien', 'lab')
+export const RedditSquareIcon = createFontIcon('la-reddit-square', 'lab')
+export const RedhatIcon = createFontIcon('la-redhat', 'lab')
+export const RedoIcon = createFontIcon('la-redo', 'las')
+export const RedoAltIcon = createFontIcon('la-redo-alt', 'las')
+export const RegisteredIcon = createFontIcon('la-registered', 'las')
+export const RemoveFormatIcon = createFontIcon('la-remove-format', 'las')
+export const RenrenIcon = createFontIcon('la-renren', 'lab')
+export const ReplyIcon = createFontIcon('la-reply', 'las')
+export const ReplyAllIcon = createFontIcon('la-reply-all', 'las')
+export const ReplydIcon = createFontIcon('la-replyd', 'lab')
+export const RepublicanIcon = createFontIcon('la-republican', 'las')
+export const ResearchgateIcon = createFontIcon('la-researchgate', 'lab')
+export const ResolvingIcon = createFontIcon('la-resolving', 'lab')
+export const RestroomIcon = createFontIcon('la-restroom', 'las')
+export const RetweetIcon = createFontIcon('la-retweet', 'las')
+export const RevIcon = createFontIcon('la-rev', 'lab')
+export const RibbonIcon = createFontIcon('la-ribbon', 'las')
+export const RingIcon = createFontIcon('la-ring', 'las')
+export const RoadIcon = createFontIcon('la-road', 'las')
+export const RobotIcon = createFontIcon('la-robot', 'las')
+export const RocketIcon = createFontIcon('la-rocket', 'las')
+export const RocketchatIcon = createFontIcon('la-rocketchat', 'lab')
+export const RockrmsIcon = createFontIcon('la-rockrms', 'lab')
+export const RouteIcon = createFontIcon('la-route', 'las')
+export const RssIcon = createFontIcon('la-rss', 'las')
+export const RssSquareIcon = createFontIcon('la-rss-square', 'las')
+export const RubleSignIcon = createFontIcon('la-ruble-sign', 'las')
+export const RulerIcon = createFontIcon('la-ruler', 'las')
+export const RulerCombinedIcon = createFontIcon('la-ruler-combined', 'las')
+export const RulerHorizontalIcon = createFontIcon('la-ruler-horizontal', 'las')
+export const RulerVerticalIcon = createFontIcon('la-ruler-vertical', 'las')
+export const RunningIcon = createFontIcon('la-running', 'las')
+export const RupeeSignIcon = createFontIcon('la-rupee-sign', 'las')
+export const SadCryIcon = createFontIcon('la-sad-cry', 'las')
+export const SadTearIcon = createFontIcon('la-sad-tear', 'las')
+export const SafariIcon = createFontIcon('la-safari', 'lab')
+export const SalesforceIcon = createFontIcon('la-salesforce', 'lab')
+export const SassIcon = createFontIcon('la-sass', 'lab')
+export const SatelliteIcon = createFontIcon('la-satellite', 'las')
+export const SatelliteDishIcon = createFontIcon('la-satellite-dish', 'las')
+export const SaveIcon = createFontIcon('la-save', 'las')
+export const SchlixIcon = createFontIcon('la-schlix', 'lab')
+export const SchoolIcon = createFontIcon('la-school', 'las')
+export const ScrewdriverIcon = createFontIcon('la-screwdriver', 'las')
+export const ScribdIcon = createFontIcon('la-scribd', 'lab')
+export const ScrollIcon = createFontIcon('la-scroll', 'las')
+export const SdCardIcon = createFontIcon('la-sd-card', 'las')
+export const SearchIcon = createFontIcon('la-search', 'las')
+export const SearchDollarIcon = createFontIcon('la-search-dollar', 'las')
+export const SearchLocationIcon = createFontIcon('la-search-location', 'las')
+export const SearchMinusIcon = createFontIcon('la-search-minus', 'las')
+export const SearchPlusIcon = createFontIcon('la-search-plus', 'las')
+export const SearchenginIcon = createFontIcon('la-searchengin', 'lab')
+export const SeedlingIcon = createFontIcon('la-seedling', 'las')
+export const SellcastIcon = createFontIcon('la-sellcast', 'lab')
+export const SellsyIcon = createFontIcon('la-sellsy', 'lab')
+export const ServerIcon = createFontIcon('la-server', 'las')
+export const ServicestackIcon = createFontIcon('la-servicestack', 'lab')
+export const ShapesIcon = createFontIcon('la-shapes', 'las')
+export const ShareIcon = createFontIcon('la-share', 'las')
+export const ShareAltIcon = createFontIcon('la-share-alt', 'las')
+export const ShareAltSquareIcon = createFontIcon('la-share-alt-square', 'las')
+export const ShareSquareIcon = createFontIcon('la-share-square', 'las')
+export const ShekelSignIcon = createFontIcon('la-shekel-sign', 'las')
+export const ShieldAltIcon = createFontIcon('la-shield-alt', 'las')
+export const ShipIcon = createFontIcon('la-ship', 'las')
+export const ShippingFastIcon = createFontIcon('la-shipping-fast', 'las')
+export const ShirtsinbulkIcon = createFontIcon('la-shirtsinbulk', 'lab')
+export const ShoePrintsIcon = createFontIcon('la-shoe-prints', 'las')
+export const ShoppingBagIcon = createFontIcon('la-shopping-bag', 'las')
+export const ShoppingBasketIcon = createFontIcon('la-shopping-basket', 'las')
+export const ShoppingCartIcon = createFontIcon('la-shopping-cart', 'las')
+export const ShopwareIcon = createFontIcon('la-shopware', 'lab')
+export const ShowerIcon = createFontIcon('la-shower', 'las')
+export const ShuttleVanIcon = createFontIcon('la-shuttle-van', 'las')
+export const SignIcon = createFontIcon('la-sign', 'las')
+export const SignInAltIcon = createFontIcon('la-sign-in-alt', 'las')
+export const SignLanguageIcon = createFontIcon('la-sign-language', 'las')
+export const SignOutAltIcon = createFontIcon('la-sign-out-alt', 'las')
+export const SignalIcon = createFontIcon('la-signal', 'las')
+export const SignatureIcon = createFontIcon('la-signature', 'las')
+export const SimCardIcon = createFontIcon('la-sim-card', 'las')
+export const SimplybuiltIcon = createFontIcon('la-simplybuilt', 'lab')
+export const SistrixIcon = createFontIcon('la-sistrix', 'lab')
+export const SitemapIcon = createFontIcon('la-sitemap', 'las')
+export const SithIcon = createFontIcon('la-sith', 'lab')
+export const SkatingIcon = createFontIcon('la-skating', 'las')
+export const SketchIcon = createFontIcon('la-sketch', 'lab')
+export const SkiingIcon = createFontIcon('la-skiing', 'las')
+export const SkiingNordicIcon = createFontIcon('la-skiing-nordic', 'las')
+export const SkullIcon = createFontIcon('la-skull', 'las')
+export const SkullCrossbonesIcon = createFontIcon('la-skull-crossbones', 'las')
+export const SkyatlasIcon = createFontIcon('la-skyatlas', 'lab')
+export const SkypeIcon = createFontIcon('la-skype', 'lab')
+export const SlackIcon = createFontIcon('la-slack', 'lab')
+export const SlackHashIcon = createFontIcon('la-slack-hash', 'lab')
+export const SlashIcon = createFontIcon('la-slash', 'las')
+export const SleighIcon = createFontIcon('la-sleigh', 'las')
+export const SlidersHIcon = createFontIcon('la-sliders-h', 'las')
+export const SlideshareIcon = createFontIcon('la-slideshare', 'lab')
+export const SmileIcon = createFontIcon('la-smile', 'las')
+export const SmileBeamIcon = createFontIcon('la-smile-beam', 'las')
+export const SmileWinkIcon = createFontIcon('la-smile-wink', 'las')
+export const SmogIcon = createFontIcon('la-smog', 'las')
+export const SmokingIcon = createFontIcon('la-smoking', 'las')
+export const SmokingBanIcon = createFontIcon('la-smoking-ban', 'las')
+export const SmsIcon = createFontIcon('la-sms', 'las')
+export const SnapchatIcon = createFontIcon('la-snapchat', 'lab')
+export const SnapchatGhostIcon = createFontIcon('la-snapchat-ghost', 'lab')
+export const SnapchatSquareIcon = createFontIcon('la-snapchat-square', 'lab')
+export const SnowboardingIcon = createFontIcon('la-snowboarding', 'las')
+export const SnowflakeIcon = createFontIcon('la-snowflake', 'las')
+export const SnowmanIcon = createFontIcon('la-snowman', 'las')
+export const SnowplowIcon = createFontIcon('la-snowplow', 'las')
+export const SocksIcon = createFontIcon('la-socks', 'las')
+export const SolarPanelIcon = createFontIcon('la-solar-panel', 'las')
+export const SortIcon = createFontIcon('la-sort', 'las')
+export const SortAlphaDownIcon = createFontIcon('la-sort-alpha-down', 'las')
+export const SortAlphaDownAltIcon = createFontIcon('la-sort-alpha-down-alt', 'las')
+export const SortAlphaUpIcon = createFontIcon('la-sort-alpha-up', 'las')
+export const SortAlphaUpAltIcon = createFontIcon('la-sort-alpha-up-alt', 'las')
+export const SortAmountDownIcon = createFontIcon('la-sort-amount-down', 'las')
+export const SortAmountDownAltIcon = createFontIcon('la-sort-amount-down-alt', 'las')
+export const SortAmountUpIcon = createFontIcon('la-sort-amount-up', 'las')
+export const SortAmountUpAltIcon = createFontIcon('la-sort-amount-up-alt', 'las')
+export const SortDownIcon = createFontIcon('la-sort-down', 'las')
+export const SortNumericDownIcon = createFontIcon('la-sort-numeric-down', 'las')
+export const SortNumericDownAltIcon = createFontIcon('la-sort-numeric-down-alt', 'las')
+export const SortNumericUpIcon = createFontIcon('la-sort-numeric-up', 'las')
+export const SortNumericUpAltIcon = createFontIcon('la-sort-numeric-up-alt', 'las')
+export const SortUpIcon = createFontIcon('la-sort-up', 'las')
+export const SoundcloudIcon = createFontIcon('la-soundcloud', 'lab')
+export const SourcetreeIcon = createFontIcon('la-sourcetree', 'lab')
+export const SpaIcon = createFontIcon('la-spa', 'las')
+export const SpaceShuttleIcon = createFontIcon('la-space-shuttle', 'las')
+export const SpeakapIcon = createFontIcon('la-speakap', 'lab')
+export const SpeakerDeckIcon = createFontIcon('la-speaker-deck', 'lab')
+export const SpellCheckIcon = createFontIcon('la-spell-check', 'las')
+export const SpiderIcon = createFontIcon('la-spider', 'las')
+export const SpinnerIcon = createFontIcon('la-spinner', 'las')
+export const SplotchIcon = createFontIcon('la-splotch', 'las')
+export const SpotifyIcon = createFontIcon('la-spotify', 'lab')
+export const SprayCanIcon = createFontIcon('la-spray-can', 'las')
+export const SquareIcon = createFontIcon('la-square', 'las')
+export const SquareFullIcon = createFontIcon('la-square-full', 'las')
+export const SquareRootAltIcon = createFontIcon('la-square-root-alt', 'las')
+export const SquarespaceIcon = createFontIcon('la-squarespace', 'lab')
+export const StackExchangeIcon = createFontIcon('la-stack-exchange', 'lab')
+export const StackOverflowIcon = createFontIcon('la-stack-overflow', 'lab')
+export const StackpathIcon = createFontIcon('la-stackpath', 'lab')
+export const StampIcon = createFontIcon('la-stamp', 'las')
+export const StarIcon = createFontIcon('la-star', 'las')
+export const StarAndCrescentIcon = createFontIcon('la-star-and-crescent', 'las')
+export const StarHalfIcon = createFontIcon('la-star-half', 'las')
+export const StarHalfAltIcon = createFontIcon('la-star-half-alt', 'las')
+export const StarOfDavidIcon = createFontIcon('la-star-of-david', 'las')
+export const StarOfLifeIcon = createFontIcon('la-star-of-life', 'las')
+export const StaylinkedIcon = createFontIcon('la-staylinked', 'lab')
+export const SteamIcon = createFontIcon('la-steam', 'lab')
+export const SteamSquareIcon = createFontIcon('la-steam-square', 'lab')
+export const SteamSymbolIcon = createFontIcon('la-steam-symbol', 'lab')
+export const StepBackwardIcon = createFontIcon('la-step-backward', 'las')
+export const StepForwardIcon = createFontIcon('la-step-forward', 'las')
+export const StethoscopeIcon = createFontIcon('la-stethoscope', 'las')
+export const StickerMuleIcon = createFontIcon('la-sticker-mule', 'lab')
+export const StickyNoteIcon = createFontIcon('la-sticky-note', 'las')
+export const StopIcon = createFontIcon('la-stop', 'las')
+export const StopCircleIcon = createFontIcon('la-stop-circle', 'las')
+export const StopwatchIcon = createFontIcon('la-stopwatch', 'las')
+export const StoreIcon = createFontIcon('la-store', 'las')
+export const StoreAltIcon = createFontIcon('la-store-alt', 'las')
+export const StravaIcon = createFontIcon('la-strava', 'lab')
+export const StreamIcon = createFontIcon('la-stream', 'las')
+export const StreetViewIcon = createFontIcon('la-street-view', 'las')
+export const StrikethroughIcon = createFontIcon('la-strikethrough', 'las')
+export const StripeIcon = createFontIcon('la-stripe', 'lab')
+export const StripeSIcon = createFontIcon('la-stripe-s', 'lab')
+export const StroopwafelIcon = createFontIcon('la-stroopwafel', 'las')
+export const StudiovinariIcon = createFontIcon('la-studiovinari', 'lab')
+export const StumbleuponIcon = createFontIcon('la-stumbleupon', 'lab')
+export const StumbleuponCircleIcon = createFontIcon('la-stumbleupon-circle', 'lab')
+export const SubscriptIcon = createFontIcon('la-subscript', 'las')
+export const SubwayIcon = createFontIcon('la-subway', 'las')
+export const SuitcaseIcon = createFontIcon('la-suitcase', 'las')
+export const SuitcaseRollingIcon = createFontIcon('la-suitcase-rolling', 'las')
+export const SunIcon = createFontIcon('la-sun', 'las')
+export const SuperpowersIcon = createFontIcon('la-superpowers', 'lab')
+export const SuperscriptIcon = createFontIcon('la-superscript', 'las')
+export const SuppleIcon = createFontIcon('la-supple', 'lab')
+export const SurpriseIcon = createFontIcon('la-surprise', 'las')
+export const SuseIcon = createFontIcon('la-suse', 'lab')
+export const SwatchbookIcon = createFontIcon('la-swatchbook', 'las')
+export const SwiftIcon = createFontIcon('la-swift', 'lab')
+export const SwimmerIcon = createFontIcon('la-swimmer', 'las')
+export const SwimmingPoolIcon = createFontIcon('la-swimming-pool', 'las')
+export const SymfonyIcon = createFontIcon('la-symfony', 'lab')
+export const SynagogueIcon = createFontIcon('la-synagogue', 'las')
+export const SyncIcon = createFontIcon('la-sync', 'las')
+export const SyncAltIcon = createFontIcon('la-sync-alt', 'las')
+export const SyringeIcon = createFontIcon('la-syringe', 'las')
+export const TableIcon = createFontIcon('la-table', 'las')
+export const TableTennisIcon = createFontIcon('la-table-tennis', 'las')
+export const TabletIcon = createFontIcon('la-tablet', 'las')
+export const TabletAltIcon = createFontIcon('la-tablet-alt', 'las')
+export const TabletsIcon = createFontIcon('la-tablets', 'las')
+export const TachometerAltIcon = createFontIcon('la-tachometer-alt', 'las')
+export const TagIcon = createFontIcon('la-tag', 'las')
+export const TagsIcon = createFontIcon('la-tags', 'las')
+export const TapeIcon = createFontIcon('la-tape', 'las')
+export const TasksIcon = createFontIcon('la-tasks', 'las')
+export const TaxiIcon = createFontIcon('la-taxi', 'las')
+export const TeamspeakIcon = createFontIcon('la-teamspeak', 'lab')
+export const TeethIcon = createFontIcon('la-teeth', 'las')
+export const TeethOpenIcon = createFontIcon('la-teeth-open', 'las')
+export const TelegramIcon = createFontIcon('la-telegram', 'lab')
+export const TelegramPlaneIcon = createFontIcon('la-telegram-plane', 'lab')
+export const TemperatureHighIcon = createFontIcon('la-temperature-high', 'las')
+export const TemperatureLowIcon = createFontIcon('la-temperature-low', 'las')
+export const TencentWeiboIcon = createFontIcon('la-tencent-weibo', 'lab')
+export const TengeIcon = createFontIcon('la-tenge', 'las')
+export const TerminalIcon = createFontIcon('la-terminal', 'las')
+export const TextHeightIcon = createFontIcon('la-text-height', 'las')
+export const TextWidthIcon = createFontIcon('la-text-width', 'las')
+export const ThIcon = createFontIcon('la-th', 'las')
+export const ThLargeIcon = createFontIcon('la-th-large', 'las')
+export const ThListIcon = createFontIcon('la-th-list', 'las')
+export const TheRedYetiIcon = createFontIcon('la-the-red-yeti', 'lab')
+export const TheaterMasksIcon = createFontIcon('la-theater-masks', 'las')
+export const ThemecoIcon = createFontIcon('la-themeco', 'lab')
+export const ThemeisleIcon = createFontIcon('la-themeisle', 'lab')
+export const ThermometerIcon = createFontIcon('la-thermometer', 'las')
+export const ThermometerEmptyIcon = createFontIcon('la-thermometer-empty', 'las')
+export const ThermometerFullIcon = createFontIcon('la-thermometer-full', 'las')
+export const ThermometerHalfIcon = createFontIcon('la-thermometer-half', 'las')
+export const ThermometerQuarterIcon = createFontIcon('la-thermometer-quarter', 'las')
+export const ThermometerThreeQuartersIcon = createFontIcon('la-thermometer-three-quarters', 'las')
+export const ThinkPeaksIcon = createFontIcon('la-think-peaks', 'lab')
+export const ThumbsDownIcon = createFontIcon('la-thumbs-down', 'las')
+export const ThumbsUpIcon = createFontIcon('la-thumbs-up', 'las')
+export const ThumbtackIcon = createFontIcon('la-thumbtack', 'las')
+export const TicketAltIcon = createFontIcon('la-ticket-alt', 'las')
+export const TimesIcon = createFontIcon('la-times', 'las')
+export const TimesCircleIcon = createFontIcon('la-times-circle', 'las')
+export const TintIcon = createFontIcon('la-tint', 'las')
+export const TintSlashIcon = createFontIcon('la-tint-slash', 'las')
+export const TiredIcon = createFontIcon('la-tired', 'las')
+export const ToggleOffIcon = createFontIcon('la-toggle-off', 'las')
+export const ToggleOnIcon = createFontIcon('la-toggle-on', 'las')
+export const ToiletIcon = createFontIcon('la-toilet', 'las')
+export const ToiletPaperIcon = createFontIcon('la-toilet-paper', 'las')
+export const ToolboxIcon = createFontIcon('la-toolbox', 'las')
+export const ToolsIcon = createFontIcon('la-tools', 'las')
+export const ToothIcon = createFontIcon('la-tooth', 'las')
+export const TorahIcon = createFontIcon('la-torah', 'las')
+export const ToriiGateIcon = createFontIcon('la-torii-gate', 'las')
+export const TractorIcon = createFontIcon('la-tractor', 'las')
+export const TradeFederationIcon = createFontIcon('la-trade-federation', 'lab')
+export const TrademarkIcon = createFontIcon('la-trademark', 'las')
+export const TrafficLightIcon = createFontIcon('la-traffic-light', 'las')
+export const TrainIcon = createFontIcon('la-train', 'las')
+export const TramIcon = createFontIcon('la-tram', 'las')
+export const TransgenderIcon = createFontIcon('la-transgender', 'las')
+export const TransgenderAltIcon = createFontIcon('la-transgender-alt', 'las')
+export const TrashIcon = createFontIcon('la-trash', 'las')
+export const TrashAltIcon = createFontIcon('la-trash-alt', 'las')
+export const TrashRestoreIcon = createFontIcon('la-trash-restore', 'las')
+export const TrashRestoreAltIcon = createFontIcon('la-trash-restore-alt', 'las')
+export const TreeIcon = createFontIcon('la-tree', 'las')
+export const TrelloIcon = createFontIcon('la-trello', 'lab')
+export const TripadvisorIcon = createFontIcon('la-tripadvisor', 'lab')
+export const TrophyIcon = createFontIcon('la-trophy', 'las')
+export const TruckIcon = createFontIcon('la-truck', 'las')
+export const TruckLoadingIcon = createFontIcon('la-truck-loading', 'las')
+export const TruckMonsterIcon = createFontIcon('la-truck-monster', 'las')
+export const TruckMovingIcon = createFontIcon('la-truck-moving', 'las')
+export const TruckPickupIcon = createFontIcon('la-truck-pickup', 'las')
+export const TshirtIcon = createFontIcon('la-tshirt', 'las')
+export const TtyIcon = createFontIcon('la-tty', 'las')
+export const TumblrIcon = createFontIcon('la-tumblr', 'lab')
+export const TumblrSquareIcon = createFontIcon('la-tumblr-square', 'lab')
+export const TvIcon = createFontIcon('la-tv', 'las')
+export const TwitchIcon = createFontIcon('la-twitch', 'lab')
+export const TwitterIcon = createFontIcon('la-twitter', 'lab')
+export const TwitterSquareIcon = createFontIcon('la-twitter-square', 'lab')
+export const Typo3Icon = createFontIcon('la-typo3', 'lab')
+export const UberIcon = createFontIcon('la-uber', 'lab')
+export const UbuntuIcon = createFontIcon('la-ubuntu', 'lab')
+export const UikitIcon = createFontIcon('la-uikit', 'lab')
+export const UmbracoIcon = createFontIcon('la-umbraco', 'lab')
+export const UmbrellaIcon = createFontIcon('la-umbrella', 'las')
+export const UmbrellaBeachIcon = createFontIcon('la-umbrella-beach', 'las')
+export const UnderlineIcon = createFontIcon('la-underline', 'las')
+export const UndoIcon = createFontIcon('la-undo', 'las')
+export const UndoAltIcon = createFontIcon('la-undo-alt', 'las')
+export const UniregistryIcon = createFontIcon('la-uniregistry', 'lab')
+export const UniversalAccessIcon = createFontIcon('la-universal-access', 'las')
+export const UniversityIcon = createFontIcon('la-university', 'las')
+export const UnlinkIcon = createFontIcon('la-unlink', 'las')
+export const UnlockIcon = createFontIcon('la-unlock', 'las')
+export const UnlockAltIcon = createFontIcon('la-unlock-alt', 'las')
+export const UntappdIcon = createFontIcon('la-untappd', 'lab')
+export const UploadIcon = createFontIcon('la-upload', 'las')
+export const UpsIcon = createFontIcon('la-ups', 'lab')
+export const UsbIcon = createFontIcon('la-usb', 'lab')
+export const UserIcon = createFontIcon('la-user', 'las')
+export const UserAltIcon = createFontIcon('la-user-alt', 'las')
+export const UserAltSlashIcon = createFontIcon('la-user-alt-slash', 'las')
+export const UserAstronautIcon = createFontIcon('la-user-astronaut', 'las')
+export const UserCheckIcon = createFontIcon('la-user-check', 'las')
+export const UserCircleIcon = createFontIcon('la-user-circle', 'las')
+export const UserClockIcon = createFontIcon('la-user-clock', 'las')
+export const UserCogIcon = createFontIcon('la-user-cog', 'las')
+export const UserEditIcon = createFontIcon('la-user-edit', 'las')
+export const UserFriendsIcon = createFontIcon('la-user-friends', 'las')
+export const UserGraduateIcon = createFontIcon('la-user-graduate', 'las')
+export const UserInjuredIcon = createFontIcon('la-user-injured', 'las')
+export const UserLockIcon = createFontIcon('la-user-lock', 'las')
+export const UserMdIcon = createFontIcon('la-user-md', 'las')
+export const UserMinusIcon = createFontIcon('la-user-minus', 'las')
+export const UserNinjaIcon = createFontIcon('la-user-ninja', 'las')
+export const UserNurseIcon = createFontIcon('la-user-nurse', 'las')
+export const UserPlusIcon = createFontIcon('la-user-plus', 'las')
+export const UserSecretIcon = createFontIcon('la-user-secret', 'las')
+export const UserShieldIcon = createFontIcon('la-user-shield', 'las')
+export const UserSlashIcon = createFontIcon('la-user-slash', 'las')
+export const UserTagIcon = createFontIcon('la-user-tag', 'las')
+export const UserTieIcon = createFontIcon('la-user-tie', 'las')
+export const UserTimesIcon = createFontIcon('la-user-times', 'las')
+export const UsersIcon = createFontIcon('la-users', 'las')
+export const UsersCogIcon = createFontIcon('la-users-cog', 'las')
+export const UspsIcon = createFontIcon('la-usps', 'lab')
+export const UssunnahIcon = createFontIcon('la-ussunnah', 'lab')
+export const UtensilSpoonIcon = createFontIcon('la-utensil-spoon', 'las')
+export const UtensilsIcon = createFontIcon('la-utensils', 'las')
+export const VaadinIcon = createFontIcon('la-vaadin', 'lab')
+export const VectorSquareIcon = createFontIcon('la-vector-square', 'las')
+export const VenusIcon = createFontIcon('la-venus', 'las')
+export const VenusDoubleIcon = createFontIcon('la-venus-double', 'las')
+export const VenusMarsIcon = createFontIcon('la-venus-mars', 'las')
+export const ViacoinIcon = createFontIcon('la-viacoin', 'lab')
+export const ViadeoIcon = createFontIcon('la-viadeo', 'lab')
+export const ViadeoSquareIcon = createFontIcon('la-viadeo-square', 'lab')
+export const VialIcon = createFontIcon('la-vial', 'las')
+export const VialsIcon = createFontIcon('la-vials', 'las')
+export const ViberIcon = createFontIcon('la-viber', 'lab')
+export const VideoIcon = createFontIcon('la-video', 'las')
+export const VideoSlashIcon = createFontIcon('la-video-slash', 'las')
+export const ViharaIcon = createFontIcon('la-vihara', 'las')
+export const VimeoIcon = createFontIcon('la-vimeo', 'lab')
+export const VimeoSquareIcon = createFontIcon('la-vimeo-square', 'lab')
+export const VimeoVIcon = createFontIcon('la-vimeo-v', 'lab')
+export const VineIcon = createFontIcon('la-vine', 'lab')
+export const VkIcon = createFontIcon('la-vk', 'lab')
+export const VnvIcon = createFontIcon('la-vnv', 'lab')
+export const VoicemailIcon = createFontIcon('la-voicemail', 'las')
+export const VolleyballBallIcon = createFontIcon('la-volleyball-ball', 'las')
+export const VolumeDownIcon = createFontIcon('la-volume-down', 'las')
+export const VolumeMuteIcon = createFontIcon('la-volume-mute', 'las')
+export const VolumeOffIcon = createFontIcon('la-volume-off', 'las')
+export const VolumeUpIcon = createFontIcon('la-volume-up', 'las')
+export const VoteYeaIcon = createFontIcon('la-vote-yea', 'las')
+export const VrCardboardIcon = createFontIcon('la-vr-cardboard', 'las')
+export const VuejsIcon = createFontIcon('la-vuejs', 'lab')
+export const WalkingIcon = createFontIcon('la-walking', 'las')
+export const WalletIcon = createFontIcon('la-wallet', 'las')
+export const WarehouseIcon = createFontIcon('la-warehouse', 'las')
+export const WaterIcon = createFontIcon('la-water', 'las')
+export const WaveSquareIcon = createFontIcon('la-wave-square', 'las')
+export const WazeIcon = createFontIcon('la-waze', 'lab')
+export const WeeblyIcon = createFontIcon('la-weebly', 'lab')
+export const WeiboIcon = createFontIcon('la-weibo', 'lab')
+export const WeightIcon = createFontIcon('la-weight', 'las')
+export const WeightHangingIcon = createFontIcon('la-weight-hanging', 'las')
+export const WeixinIcon = createFontIcon('la-weixin', 'lab')
+export const WhatsappIcon = createFontIcon('la-whatsapp', 'lab')
+export const WhatsappSquareIcon = createFontIcon('la-whatsapp-square', 'lab')
+export const WheelchairIcon = createFontIcon('la-wheelchair', 'las')
+export const WhmcsIcon = createFontIcon('la-whmcs', 'lab')
+export const WifiIcon = createFontIcon('la-wifi', 'las')
+export const WikipediaWIcon = createFontIcon('la-wikipedia-w', 'lab')
+export const WindIcon = createFontIcon('la-wind', 'las')
+export const WindowCloseIcon = createFontIcon('la-window-close', 'las')
+export const WindowMaximizeIcon = createFontIcon('la-window-maximize', 'las')
+export const WindowMinimizeIcon = createFontIcon('la-window-minimize', 'las')
+export const WindowRestoreIcon = createFontIcon('la-window-restore', 'las')
+export const WindowsIcon = createFontIcon('la-windows', 'lab')
+export const WineBottleIcon = createFontIcon('la-wine-bottle', 'las')
+export const WineGlassIcon = createFontIcon('la-wine-glass', 'las')
+export const WineGlassAltIcon = createFontIcon('la-wine-glass-alt', 'las')
+export const WixIcon = createFontIcon('la-wix', 'lab')
+export const WizardsOfTheCoastIcon = createFontIcon('la-wizards-of-the-coast', 'lab')
+export const WolfPackBattalionIcon = createFontIcon('la-wolf-pack-battalion', 'lab')
+export const WonSignIcon = createFontIcon('la-won-sign', 'las')
+export const WordpressIcon = createFontIcon('la-wordpress', 'lab')
+export const WordpressSimpleIcon = createFontIcon('la-wordpress-simple', 'lab')
+export const WpbeginnerIcon = createFontIcon('la-wpbeginner', 'lab')
+export const WpexplorerIcon = createFontIcon('la-wpexplorer', 'lab')
+export const WpformsIcon = createFontIcon('la-wpforms', 'lab')
+export const WpressrIcon = createFontIcon('la-wpressr', 'lab')
+export const WrenchIcon = createFontIcon('la-wrench', 'las')
+export const XRayIcon = createFontIcon('la-x-ray', 'las')
+export const XboxIcon = createFontIcon('la-xbox', 'lab')
+export const XingIcon = createFontIcon('la-xing', 'lab')
+export const XingSquareIcon = createFontIcon('la-xing-square', 'lab')
+export const YCombinatorIcon = createFontIcon('la-y-combinator', 'lab')
+export const YahooIcon = createFontIcon('la-yahoo', 'lab')
+export const YammerIcon = createFontIcon('la-yammer', 'lab')
+export const YandexIcon = createFontIcon('la-yandex', 'lab')
+export const YandexInternationalIcon = createFontIcon('la-yandex-international', 'lab')
+export const YarnIcon = createFontIcon('la-yarn', 'lab')
+export const YelpIcon = createFontIcon('la-yelp', 'lab')
+export const YenSignIcon = createFontIcon('la-yen-sign', 'las')
+export const YinYangIcon = createFontIcon('la-yin-yang', 'las')
+export const YoastIcon = createFontIcon('la-yoast', 'lab')
+export const YoutubeIcon = createFontIcon('la-youtube', 'lab')
+export const YoutubeSquareIcon = createFontIcon('la-youtube-square', 'lab')
+export const ZhihuIcon = createFontIcon('la-zhihu', 'lab')
+export const GlassIcon = createFontIcon('la-glass', 'la')
+export const StarOIcon = createFontIcon('la-star-o', 'la')
+export const RemoveIcon = createFontIcon('la-remove', 'la')
+export const CloseIcon = createFontIcon('la-close', 'la')
+export const GearIcon = createFontIcon('la-gear', 'la')
+export const TrashOIcon = createFontIcon('la-trash-o', 'la')
+export const FileOIcon = createFontIcon('la-file-o', 'la')
+export const ClockOIcon = createFontIcon('la-clock-o', 'la')
+export const ArrowCircleODownIcon = createFontIcon('la-arrow-circle-o-down', 'la')
+export const ArrowCircleOUpIcon = createFontIcon('la-arrow-circle-o-up', 'la')
+export const PlayCircleOIcon = createFontIcon('la-play-circle-o', 'la')
+export const RepeatIcon = createFontIcon('la-repeat', 'la')
+export const RotateRightIcon = createFontIcon('la-rotate-right', 'la')
+export const RefreshIcon = createFontIcon('la-refresh', 'la')
+export const DedentIcon = createFontIcon('la-dedent', 'la')
+export const VideoCameraIcon = createFontIcon('la-video-camera', 'la')
+export const PictureOIcon = createFontIcon('la-picture-o', 'la')
+export const PhotoIcon = createFontIcon('la-photo', 'la')
+export const PencilIcon = createFontIcon('la-pencil', 'la')
+export const PencilSquareOIcon = createFontIcon('la-pencil-square-o', 'la')
+export const ShareSquareOIcon = createFontIcon('la-share-square-o', 'la')
+export const CheckSquareOIcon = createFontIcon('la-check-square-o', 'la')
+export const ArrowsIcon = createFontIcon('la-arrows', 'la')
+export const TimesCircleOIcon = createFontIcon('la-times-circle-o', 'la')
+export const CheckCircleOIcon = createFontIcon('la-check-circle-o', 'la')
+export const MailForwardIcon = createFontIcon('la-mail-forward', 'la')
+export const WarningIcon = createFontIcon('la-warning', 'la')
+export const ArrowsVIcon = createFontIcon('la-arrows-v', 'la')
+export const ArrowsHIcon = createFontIcon('la-arrows-h', 'la')
+export const BarChartIcon = createFontIcon('la-bar-chart', 'la')
+export const BarChartOIcon = createFontIcon('la-bar-chart-o', 'la')
+export const GearsIcon = createFontIcon('la-gears', 'la')
+export const ThumbsOUpIcon = createFontIcon('la-thumbs-o-up', 'la')
+export const ThumbsODownIcon = createFontIcon('la-thumbs-o-down', 'la')
+export const HeartOIcon = createFontIcon('la-heart-o', 'la')
+export const SignOutIcon = createFontIcon('la-sign-out', 'la')
+export const LinkedinSquareIcon = createFontIcon('la-linkedin-square', 'la')
+export const ExternalLinkIcon = createFontIcon('la-external-link', 'la')
+export const SignInIcon = createFontIcon('la-sign-in', 'la')
+export const LemonOIcon = createFontIcon('la-lemon-o', 'la')
+export const SquareOIcon = createFontIcon('la-square-o', 'la')
+export const BookmarkOIcon = createFontIcon('la-bookmark-o', 'la')
+export const FeedIcon = createFontIcon('la-feed', 'la')
+export const HddOIcon = createFontIcon('la-hdd-o', 'la')
+export const HandORightIcon = createFontIcon('la-hand-o-right', 'la')
+export const HandOLeftIcon = createFontIcon('la-hand-o-left', 'la')
+export const HandOUpIcon = createFontIcon('la-hand-o-up', 'la')
+export const HandODownIcon = createFontIcon('la-hand-o-down', 'la')
+export const GroupIcon = createFontIcon('la-group', 'la')
+export const ChainIcon = createFontIcon('la-chain', 'la')
+export const ScissorsIcon = createFontIcon('la-scissors', 'la')
+export const FilesOIcon = createFontIcon('la-files-o', 'la')
+export const FloppyOIcon = createFontIcon('la-floppy-o', 'la')
+export const NaviconIcon = createFontIcon('la-navicon', 'la')
+export const ReorderIcon = createFontIcon('la-reorder', 'la')
+export const MoneyIcon = createFontIcon('la-money', 'la')
+export const UnsortedIcon = createFontIcon('la-unsorted', 'la')
+export const SortDescIcon = createFontIcon('la-sort-desc', 'la')
+export const SortAscIcon = createFontIcon('la-sort-asc', 'la')
+export const RotateLeftIcon = createFontIcon('la-rotate-left', 'la')
+export const LegalIcon = createFontIcon('la-legal', 'la')
+export const TachometerIcon = createFontIcon('la-tachometer', 'la')
+export const DashboardIcon = createFontIcon('la-dashboard', 'la')
+export const CommentOIcon = createFontIcon('la-comment-o', 'la')
+export const CommentsOIcon = createFontIcon('la-comments-o', 'la')
+export const FlashIcon = createFontIcon('la-flash', 'la')
+export const LightbulbOIcon = createFontIcon('la-lightbulb-o', 'la')
+export const ExchangeIcon = createFontIcon('la-exchange', 'la')
+export const CloudDownloadIcon = createFontIcon('la-cloud-download', 'la')
+export const CloudUploadIcon = createFontIcon('la-cloud-upload', 'la')
+export const BellOIcon = createFontIcon('la-bell-o', 'la')
+export const CutleryIcon = createFontIcon('la-cutlery', 'la')
+export const FileTextOIcon = createFontIcon('la-file-text-o', 'la')
+export const BuildingOIcon = createFontIcon('la-building-o', 'la')
+export const HospitalOIcon = createFontIcon('la-hospital-o', 'la')
+export const MobilePhoneIcon = createFontIcon('la-mobile-phone', 'la')
+export const CircleOIcon = createFontIcon('la-circle-o', 'la')
+export const MailReplyIcon = createFontIcon('la-mail-reply', 'la')
+export const FolderOIcon = createFontIcon('la-folder-o', 'la')
+export const FolderOpenOIcon = createFontIcon('la-folder-open-o', 'la')
+export const SmileOIcon = createFontIcon('la-smile-o', 'la')
+export const FrownOIcon = createFontIcon('la-frown-o', 'la')
+export const MehOIcon = createFontIcon('la-meh-o', 'la')
+export const KeyboardOIcon = createFontIcon('la-keyboard-o', 'la')
+export const FlagOIcon = createFontIcon('la-flag-o', 'la')
+export const MailReplyAllIcon = createFontIcon('la-mail-reply-all', 'la')
+export const StarHalfOIcon = createFontIcon('la-star-half-o', 'la')
+export const StarHalfEmptyIcon = createFontIcon('la-star-half-empty', 'la')
+export const StarHalfFullIcon = createFontIcon('la-star-half-full', 'la')
+export const CodeForkIcon = createFontIcon('la-code-fork', 'la')
+export const ChainBrokenIcon = createFontIcon('la-chain-broken', 'la')
+export const ShieldIcon = createFontIcon('la-shield', 'la')
+export const CalendarOIcon = createFontIcon('la-calendar-o', 'la')
+export const TicketIcon = createFontIcon('la-ticket', 'la')
+export const MinusSquareOIcon = createFontIcon('la-minus-square-o', 'la')
+export const LevelUpIcon = createFontIcon('la-level-up', 'la')
+export const LevelDownIcon = createFontIcon('la-level-down', 'la')
+export const PencilSquareIcon = createFontIcon('la-pencil-square', 'la')
+export const ExternalLinkSquareIcon = createFontIcon('la-external-link-square', 'la')
+export const CaretSquareODownIcon = createFontIcon('la-caret-square-o-down', 'la')
+export const ToggleDownIcon = createFontIcon('la-toggle-down', 'la')
+export const CaretSquareOUpIcon = createFontIcon('la-caret-square-o-up', 'la')
+export const ToggleUpIcon = createFontIcon('la-toggle-up', 'la')
+export const CaretSquareORightIcon = createFontIcon('la-caret-square-o-right', 'la')
+export const ToggleRightIcon = createFontIcon('la-toggle-right', 'la')
+export const EurIcon = createFontIcon('la-eur', 'la')
+export const EuroIcon = createFontIcon('la-euro', 'la')
+export const GbpIcon = createFontIcon('la-gbp', 'la')
+export const UsdIcon = createFontIcon('la-usd', 'la')
+export const DollarIcon = createFontIcon('la-dollar', 'la')
+export const InrIcon = createFontIcon('la-inr', 'la')
+export const RupeeIcon = createFontIcon('la-rupee', 'la')
+export const JpyIcon = createFontIcon('la-jpy', 'la')
+export const CnyIcon = createFontIcon('la-cny', 'la')
+export const RmbIcon = createFontIcon('la-rmb', 'la')
+export const YenIcon = createFontIcon('la-yen', 'la')
+export const RubIcon = createFontIcon('la-rub', 'la')
+export const RubleIcon = createFontIcon('la-ruble', 'la')
+export const RoubleIcon = createFontIcon('la-rouble', 'la')
+export const KrwIcon = createFontIcon('la-krw', 'la')
+export const WonIcon = createFontIcon('la-won', 'la')
+export const FileTextIcon = createFontIcon('la-file-text', 'la')
+export const SortAlphaAscIcon = createFontIcon('la-sort-alpha-asc', 'la')
+export const SortAlphaDescIcon = createFontIcon('la-sort-alpha-desc', 'la')
+export const SortAmountAscIcon = createFontIcon('la-sort-amount-asc', 'la')
+export const SortAmountDescIcon = createFontIcon('la-sort-amount-desc', 'la')
+export const SortNumericAscIcon = createFontIcon('la-sort-numeric-asc', 'la')
+export const SortNumericDescIcon = createFontIcon('la-sort-numeric-desc', 'la')
+export const YoutubePlayIcon = createFontIcon('la-youtube-play', 'la')
+export const BitbucketSquareIcon = createFontIcon('la-bitbucket-square', 'la')
+export const LongArrowDownIcon = createFontIcon('la-long-arrow-down', 'la')
+export const LongArrowUpIcon = createFontIcon('la-long-arrow-up', 'la')
+export const LongArrowLeftIcon = createFontIcon('la-long-arrow-left', 'la')
+export const LongArrowRightIcon = createFontIcon('la-long-arrow-right', 'la')
+export const GittipIcon = createFontIcon('la-gittip', 'la')
+export const SunOIcon = createFontIcon('la-sun-o', 'la')
+export const MoonOIcon = createFontIcon('la-moon-o', 'la')
+export const ArrowCircleORightIcon = createFontIcon('la-arrow-circle-o-right', 'la')
+export const ArrowCircleOLeftIcon = createFontIcon('la-arrow-circle-o-left', 'la')
+export const CaretSquareOLeftIcon = createFontIcon('la-caret-square-o-left', 'la')
+export const ToggleLeftIcon = createFontIcon('la-toggle-left', 'la')
+export const DotCircleOIcon = createFontIcon('la-dot-circle-o', 'la')
+export const TryIcon = createFontIcon('la-try', 'la')
+export const TurkishLiraIcon = createFontIcon('la-turkish-lira', 'la')
+export const PlusSquareOIcon = createFontIcon('la-plus-square-o', 'la')
+export const InstitutionIcon = createFontIcon('la-institution', 'la')
+export const BankIcon = createFontIcon('la-bank', 'la')
+export const MortarBoardIcon = createFontIcon('la-mortar-board', 'la')
+export const SpoonIcon = createFontIcon('la-spoon', 'la')
+export const AutomobileIcon = createFontIcon('la-automobile', 'la')
+export const CabIcon = createFontIcon('la-cab', 'la')
+export const EnvelopeOIcon = createFontIcon('la-envelope-o', 'la')
+export const FilePdfOIcon = createFontIcon('la-file-pdf-o', 'la')
+export const FileWordOIcon = createFontIcon('la-file-word-o', 'la')
+export const FileExcelOIcon = createFontIcon('la-file-excel-o', 'la')
+export const FilePowerpointOIcon = createFontIcon('la-file-powerpoint-o', 'la')
+export const FileImageOIcon = createFontIcon('la-file-image-o', 'la')
+export const FilePhotoOIcon = createFontIcon('la-file-photo-o', 'la')
+export const FilePictureOIcon = createFontIcon('la-file-picture-o', 'la')
+export const FileArchiveOIcon = createFontIcon('la-file-archive-o', 'la')
+export const FileZipOIcon = createFontIcon('la-file-zip-o', 'la')
+export const FileAudioOIcon = createFontIcon('la-file-audio-o', 'la')
+export const FileSoundOIcon = createFontIcon('la-file-sound-o', 'la')
+export const FileVideoOIcon = createFontIcon('la-file-video-o', 'la')
+export const FileMovieOIcon = createFontIcon('la-file-movie-o', 'la')
+export const FileCodeOIcon = createFontIcon('la-file-code-o', 'la')
+export const LifeBouyIcon = createFontIcon('la-life-bouy', 'la')
+export const LifeBuoyIcon = createFontIcon('la-life-buoy', 'la')
+export const LifeSaverIcon = createFontIcon('la-life-saver', 'la')
+export const SupportIcon = createFontIcon('la-support', 'la')
+export const CircleONotchIcon = createFontIcon('la-circle-o-notch', 'la')
+export const RaIcon = createFontIcon('la-ra', 'la')
+export const ResistanceIcon = createFontIcon('la-resistance', 'la')
+export const GeIcon = createFontIcon('la-ge', 'la')
+export const YCombinatorSquareIcon = createFontIcon('la-y-combinator-square', 'la')
+export const YcSquareIcon = createFontIcon('la-yc-square', 'la')
+export const WechatIcon = createFontIcon('la-wechat', 'la')
+export const SendIcon = createFontIcon('la-send', 'la')
+export const PaperPlaneOIcon = createFontIcon('la-paper-plane-o', 'la')
+export const SendOIcon = createFontIcon('la-send-o', 'la')
+export const CircleThinIcon = createFontIcon('la-circle-thin', 'la')
+export const HeaderIcon = createFontIcon('la-header', 'la')
+export const SlidersIcon = createFontIcon('la-sliders', 'la')
+export const FutbolOIcon = createFontIcon('la-futbol-o', 'la')
+export const SoccerBallOIcon = createFontIcon('la-soccer-ball-o', 'la')
+export const NewspaperOIcon = createFontIcon('la-newspaper-o', 'la')
+export const BellSlashOIcon = createFontIcon('la-bell-slash-o', 'la')
+export const AreaChartIcon = createFontIcon('la-area-chart', 'la')
+export const PieChartIcon = createFontIcon('la-pie-chart', 'la')
+export const LineChartIcon = createFontIcon('la-line-chart', 'la')
+export const CcIcon = createFontIcon('la-cc', 'la')
+export const IlsIcon = createFontIcon('la-ils', 'la')
+export const ShekelIcon = createFontIcon('la-shekel', 'la')
+export const SheqelIcon = createFontIcon('la-sheqel', 'la')
+export const MeanpathIcon = createFontIcon('la-meanpath', 'la')
+export const DiamondIcon = createFontIcon('la-diamond', 'la')
+export const IntersexIcon = createFontIcon('la-intersex', 'la')
+export const FacebookOfficialIcon = createFontIcon('la-facebook-official', 'la')
+export const YcIcon = createFontIcon('la-yc', 'la')
+export const Battery4Icon = createFontIcon('la-battery-4', 'la')
+export const BatteryIcon = createFontIcon('la-battery', 'la')
+export const Battery3Icon = createFontIcon('la-battery-3', 'la')
+export const Battery2Icon = createFontIcon('la-battery-2', 'la')
+export const Battery1Icon = createFontIcon('la-battery-1', 'la')
+export const Battery0Icon = createFontIcon('la-battery-0', 'la')
+export const StickyNoteOIcon = createFontIcon('la-sticky-note-o', 'la')
+export const HourglassOIcon = createFontIcon('la-hourglass-o', 'la')
+export const Hourglass1Icon = createFontIcon('la-hourglass-1', 'la')
+export const Hourglass2Icon = createFontIcon('la-hourglass-2', 'la')
+export const Hourglass3Icon = createFontIcon('la-hourglass-3', 'la')
+export const HandRockOIcon = createFontIcon('la-hand-rock-o', 'la')
+export const HandGrabOIcon = createFontIcon('la-hand-grab-o', 'la')
+export const HandPaperOIcon = createFontIcon('la-hand-paper-o', 'la')
+export const HandStopOIcon = createFontIcon('la-hand-stop-o', 'la')
+export const HandScissorsOIcon = createFontIcon('la-hand-scissors-o', 'la')
+export const HandLizardOIcon = createFontIcon('la-hand-lizard-o', 'la')
+export const HandSpockOIcon = createFontIcon('la-hand-spock-o', 'la')
+export const HandPointerOIcon = createFontIcon('la-hand-pointer-o', 'la')
+export const HandPeaceOIcon = createFontIcon('la-hand-peace-o', 'la')
+export const TelevisionIcon = createFontIcon('la-television', 'la')
+export const CalendarPlusOIcon = createFontIcon('la-calendar-plus-o', 'la')
+export const CalendarMinusOIcon = createFontIcon('la-calendar-minus-o', 'la')
+export const CalendarTimesOIcon = createFontIcon('la-calendar-times-o', 'la')
+export const CalendarCheckOIcon = createFontIcon('la-calendar-check-o', 'la')
+export const MapOIcon = createFontIcon('la-map-o', 'la')
+export const CommentingIcon = createFontIcon('la-commenting', 'la')
+export const CommentingOIcon = createFontIcon('la-commenting-o', 'la')
+export const CreditCardAltIcon = createFontIcon('la-credit-card-alt', 'la')
+export const PauseCircleOIcon = createFontIcon('la-pause-circle-o', 'la')
+export const StopCircleOIcon = createFontIcon('la-stop-circle-o', 'la')
+export const WheelchairAltIcon = createFontIcon('la-wheelchair-alt', 'la')
+export const QuestionCircleOIcon = createFontIcon('la-question-circle-o', 'la')
+export const VolumeControlPhoneIcon = createFontIcon('la-volume-control-phone', 'la')
+export const AslInterpretingIcon = createFontIcon('la-asl-interpreting', 'la')
+export const DeafnessIcon = createFontIcon('la-deafness', 'la')
+export const HardOfHearingIcon = createFontIcon('la-hard-of-hearing', 'la')
+export const SigningIcon = createFontIcon('la-signing', 'la')
+export const GooglePlusOfficialIcon = createFontIcon('la-google-plus-official', 'la')
+export const GooglePlusCircleIcon = createFontIcon('la-google-plus-circle', 'la')
+export const FaIcon = createFontIcon('la-fa', 'la')
+export const HandshakeOIcon = createFontIcon('la-handshake-o', 'la')
+export const EnvelopeOpenOIcon = createFontIcon('la-envelope-open-o', 'la')
+export const AddressBookOIcon = createFontIcon('la-address-book-o', 'la')
+export const VcardIcon = createFontIcon('la-vcard', 'la')
+export const AddressCardOIcon = createFontIcon('la-address-card-o', 'la')
+export const VcardOIcon = createFontIcon('la-vcard-o', 'la')
+export const UserCircleOIcon = createFontIcon('la-user-circle-o', 'la')
+export const UserOIcon = createFontIcon('la-user-o', 'la')
+export const DriversLicenseIcon = createFontIcon('la-drivers-license', 'la')
+export const IdCardOIcon = createFontIcon('la-id-card-o', 'la')
+export const DriversLicenseOIcon = createFontIcon('la-drivers-license-o', 'la')
+export const Thermometer4Icon = createFontIcon('la-thermometer-4', 'la')
+export const Thermometer3Icon = createFontIcon('la-thermometer-3', 'la')
+export const Thermometer2Icon = createFontIcon('la-thermometer-2', 'la')
+export const Thermometer1Icon = createFontIcon('la-thermometer-1', 'la')
+export const Thermometer0Icon = createFontIcon('la-thermometer-0', 'la')
+export const BathtubIcon = createFontIcon('la-bathtub', 'la')
+export const S15Icon = createFontIcon('la-s15', 'la')
+export const TimesRectangleIcon = createFontIcon('la-times-rectangle', 'la')
+export const WindowCloseOIcon = createFontIcon('la-window-close-o', 'la')
+export const TimesRectangleOIcon = createFontIcon('la-times-rectangle-o', 'la')
+export const EercastIcon = createFontIcon('la-eercast', 'la')
+export const SnowflakeOIcon = createFontIcon('la-snowflake-o', 'la')

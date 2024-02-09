@@ -10,7 +10,7 @@
 
 1. **Add the library as a dependency from NPM:**
 
-```bash
+```sh
     # yarn
     yarn add react-line-awesome
 
@@ -48,7 +48,7 @@ function MinimalExample(props) {
 
 function LongerExample(props) {
   return (
-    <ThumbsUpIcon className="custom-class" component="span" style="color: blue">
+    <ThumbsUpIcon className="custom-class" component="span" style={{ color: 'blue' }}>
       <span>I am a child!</span>
     </ThumbsUpIcon>
   )

@@ -1,6 +1,7 @@
 const program = require('commander')
 const fs = require('fs')
 const path = require('path')
+const defaultVariants = require('../src/resources/line-awesome/defaultVariants.json')
 
 const toPascalCase = s => s.replace(/(\w)(\w*)/g, (g0, g1, g2) => g1.toUpperCase() + g2.toLowerCase()).replace(/-/g, '')
 
@@ -14,11 +15,8 @@ const toComponentName = s => {
 }
 
 program
-  .arguments('<cssFontPath> <outputDirectory>')
-  .action((cssFontPath, outputDirectory) => {
-    // Reset output directory
-    fs.readdirSync(outputDirectory).forEach(file => fs.unlinkSync(path.join(outputDirectory, file)))
-
+  .arguments('<cssFontPath>')
+  .action(cssFontPath => {
     // Get Line Awesome class names
     const fontCSS = fs.readFileSync(cssFontPath, { encoding: 'utf8' })
     const classNameRegex = /\.la-(\S{2,}):before/g
@@ -29,25 +27,23 @@ program
       const alphaOnlyMatch = match[1].toLowerCase().replace(/[^a-z]/, '')
       if (!seen[alphaOnlyMatch])
         iconNames.push({
-          className: `la la-${match[1]}`,
+          className: `la-${match[1]}`,
           componentName: toComponentName(match[1]),
         })
       seen[alphaOnlyMatch] = true
     }
 
-    // Write components files
-    const templateIcon = fs.readFileSync('src/templateIcon.tsx', { encoding: 'utf8' })
-    iconNames.forEach(({ className, componentName }) => {
-      const fileContent = templateIcon.replace('{{className}}', className)
-      fs.writeFileSync(`${outputDirectory}/${componentName}.tsx`, fileContent, 'utf8')
-    })
-
     // Write index.d.ts
     fs.writeFileSync(
       'src/index.ts',
-      iconNames
-        .map(({ _, componentName }) => `export { default as ${componentName} } from './icons/${componentName}'`)
-        .join('\n'),
+      `import createFontIcon from './createFontIcon'\n\nexport type { IconProps } from './createFontIcon'\n\n` +
+        iconNames
+          .map(({ className, componentName }) => {
+            if (!defaultVariants[className]) console.warn('Missing an default variant for', className)
+            return `export const ${componentName} = createFontIcon('${className}', '${defaultVariants[className] ||
+              'la'}')`
+          })
+          .join('\n'),
       'utf8'
     )
   })

@@ -1,9 +1,6 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-# Build the project
-yarn start
-
 # Lint the source
 yarn run tslint --project tsconfig.json
 
