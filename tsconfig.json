@@ -15,5 +15,5 @@
     "sourceMap": true,                      /* Generates corresponding '.map' file. */
   },
   "include": ["src/**/*"],
-  "exclude": ["node_modules", "src/templateFontIcon.tsx"]
+  "exclude": ["node_modules", "src/index.tsx", "src/App.tsx"]
 }

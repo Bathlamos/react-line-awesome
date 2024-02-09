@@ -1,7 +1,7 @@
 {
   "name": "react-line-awesome",
   "description": "React components for Line Awesome Icons",
-  "version": "1.3.2",
+  "version": "1.4.0",
   "keywords": [
     "react",
     "font awesome",
@@ -13,24 +13,29 @@
   "author": "Philippe Legault <philippe@legault.cc> (https://legault.cc)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
   "devDependencies": {
+    "@types/istanbul-lib-report": "^3.0.3",
     "@types/react": "16.8.19",
     "@types/react-dom": "16.8.4",
     "commander": "^2.20.0",
     "husky": "^8.0.0",
     "jest": "^24.8.0",
     "prettier": "^1.17.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "5.0.1",
     "tslint": "^5.17.0",
     "tslint-config-prettier": "^1.18.0",
-    "typescript": "3.5.1"
-  },
-  "peerDependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "typescript": "5.3.3"
   },
   "dependencies": {},
   "scripts": {
     "start": "yarn generate:icons && yarn build",
+    "visualize": "react-scripts start",
     "build": "NODE_ENV=production ./scripts/build.sh",
     "generate:icons": "node scripts/generate-icons.js src/resources/line-awesome/css/line-awesome.css",
     "prepare": "husky install"
@@ -39,5 +44,17 @@
     "hooks": {
       "pre-commit": "./scripts/pre-commit.sh"
     }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

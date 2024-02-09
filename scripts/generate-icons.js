@@ -1,6 +1,5 @@
 const program = require('commander')
 const fs = require('fs')
-const path = require('path')
 const defaultVariants = require('../src/resources/line-awesome/defaultVariants.json')
 
 const toPascalCase = s => s.replace(/(\w)(\w*)/g, (g0, g1, g2) => g1.toUpperCase() + g2.toLowerCase()).replace(/-/g, '')
@@ -35,8 +34,8 @@ program
 
     // Write index.d.ts
     fs.writeFileSync(
-      'src/index.ts',
-      `import createFontIcon from './createFontIcon'\n\nexport { IconProps } from './createFontIcon'\n\n` +
+      'src/exports.ts',
+      `import createFontIcon from './createFontIcon'\n\nexport { IconProps, IconType } from './createFontIcon'\n\n` +
         iconNames
           .map(({ className, componentName }) => {
             if (!defaultVariants[className]) console.warn('Missing an default variant for', className)

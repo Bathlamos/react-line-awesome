@@ -1,4 +1,4 @@
-import React, { ElementType, Ref } from 'react'
+import React, { ElementType, forwardRef, ForwardRefExoticComponent, PropsWithoutRef, Ref, RefAttributes } from 'react'
 
 export interface IconProps extends React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement> {
   component?: ElementType
@@ -6,44 +6,45 @@ export interface IconProps extends React.DetailedHTMLProps<React.HTMLAttributes<
   variant?: 'regular' | 'brand' | 'solid'
 }
 
-export default (faClassName: string, defaultVariant: 'la' | 'lab' | 'las') =>
-  React.memo(
-    React.forwardRef((props: IconProps, ref: Ref<HTMLElement>) => {
-      const {
-        className: userClassName,
-        'aria-hidden': ariaHidden,
-        role,
-        children,
-        component,
-        size,
-        variant,
-        ...remainder
-      } = props
+// Explicitly defined so the compiler doesn't regenerate it per component and bloats index.d.ts
+export type IconType = ForwardRefExoticComponent<PropsWithoutRef<IconProps> & RefAttributes<HTMLElement>>
 
-      const classFromVariant = {
-        regular: 'la',
-        brand: 'lab',
-        solid: 'las',
-      }
+export default (faClassName: string, defaultVariant: 'la' | 'lab' | 'las'): IconType =>
+  forwardRef((props: IconProps, ref: Ref<HTMLElement>) => {
+    const {
+      className: userClassName,
+      'aria-hidden': ariaHidden,
+      role,
+      children,
+      component,
+      size,
+      variant,
+      ...remainder
+    } = props
 
-      const CustomTag = component || 'i'
+    const classFromVariant = {
+      regular: 'la',
+      brand: 'lab',
+      solid: 'las',
+    }
 
-      return (
-        <CustomTag
-          aria-hidden={ariaHidden || 'true'}
-          role={role || 'presentation'}
-          className={[
-            variant ? classFromVariant[variant] : defaultVariant,
-            size && `la-${size}`,
-            faClassName,
-            userClassName,
-          ]
-            .filter(Boolean)
-            .join(' ')}
-          {...remainder}
-          ref={ref}>
-          {children}
-        </CustomTag>
-      )
-    })
-  )
+    const CustomTag = component || 'i'
+
+    return (
+      <CustomTag
+        aria-hidden={ariaHidden || 'true'}
+        role={role || 'presentation'}
+        className={[
+          variant ? classFromVariant[variant] : defaultVariant,
+          size && `la-${size}`,
+          faClassName,
+          userClassName,
+        ]
+          .filter(Boolean)
+          .join(' ')}
+        {...remainder}
+        ref={ref}>
+        {children}
+      </CustomTag>
+    )
+  })
