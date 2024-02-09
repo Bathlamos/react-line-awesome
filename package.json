@@ -2,7 +2,11 @@
   "name": "react-line-awesome",
   "description": "React components for Line Awesome Icons",
   "version": "1.3.2",
-  "keywords": ["react", "font awesome", "line awesome"],
+  "keywords": [
+    "react",
+    "font awesome",
+    "line awesome"
+  ],
   "private": false,
   "license": "MIT",
   "homepage": "https://github.com/Bathlamos/react-line-awesome",
@@ -13,7 +17,7 @@
     "@types/react": "16.8.19",
     "@types/react-dom": "16.8.4",
     "commander": "^2.20.0",
-    "husky": "^2.3.0",
+    "husky": "^8.0.0",
     "jest": "^24.8.0",
     "prettier": "^1.17.1",
     "tslint": "^5.17.0",
@@ -28,7 +32,8 @@
   "scripts": {
     "start": "yarn generate:icons && yarn build",
     "build": "NODE_ENV=production ./scripts/build.sh",
-    "generate:icons": "node scripts/generate-icons.js src/resources/line-awesome/css/line-awesome.css src/icons"
+    "generate:icons": "node scripts/generate-icons.js src/resources/line-awesome/css/line-awesome.css src/icons",
+    "prepare": "husky install"
   },
   "husky": {
     "hooks": {

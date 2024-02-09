@@ -21,8 +21,13 @@
 2. **Add a link to the font files in your project's HTML files:**
 
 ```html
-<link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome.min.css" />
+<link
+  rel="stylesheet"
+  href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
+/>
 ```
+
+Alternatively, you can link to the Line Awesome stylesheet hosted on your server.
 
 ## Features
 
